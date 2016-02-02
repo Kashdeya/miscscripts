@@ -1,0 +1,20 @@
+recipes.remove(<EnderIO:itemMachinePart>);
+recipes.remove(<EnderIO:itemMachinePart:1>);
+recipes.remove(<EnderIO:blockStirlingGenerator>);
+recipes.remove(<EnderIO:blockAlloySmelter>);
+recipes.remove(<EnderIO:blockElectricLight:2>);
+recipes.remove(<EnderIO:blockVat>);
+recipes.remove(<EnderIO:blockZombieGenerator>);
+recipes.remove(<EnderIO:itemYetaWrench>);
+
+recipes.addShaped(<EnderIO:itemYetaWrench>,[[<ore:ingotOsmium>, null, <ore:ingotOsmium>], [null, <EnderIO:itemMachinePart:1>, null], [null, <ore:ingotOsmium>, null]]);
+recipes.addShaped(<EnderIO:itemTravelStaff:16>,[[null, null, <EnderIO:itemMaterial:8>], [null, <ore:ingotOsmium>, null], [<ore:ingotOsmium>, null, null]]);
+recipes.addShaped(<EnderIO:blockZombieGenerator>,[[<ore:ingotOsmium>, <ore:ingotOsmium>, <ore:ingotOsmium>], [<EnderIO:blockFusedQuartz>, <EnderIO:itemFrankenSkull>, <EnderIO:blockFusedQuartz>], [<EnderIO:blockFusedQuartz>, <EnderIO:blockFusedQuartz>, <EnderIO:blockFusedQuartz>]]);
+recipes.addShaped(<EnderIO:blockVat>,[[<EnderIO:itemAlloy>, <minecraft:cauldron>, <EnderIO:itemAlloy>], [<EnderIO:blockTank>, <EnderIO:itemMachinePart>, <EnderIO:blockTank>], [<EnderIO:itemAlloy>, <TConstruct:FurnaceSlab>, <EnderIO:itemAlloy>]]);
+recipes.addShaped(<EnderIO:blockElectricLight:2>,[[null, null, null], [<ore:glass>, <ore:glass>, <ore:glass>], [<ore:ingotOsmium>, <minecraft:redstone_lamp>, <ore:ingotOsmium>]]);
+recipes.addShaped(<EnderIO:itemMachinePart>,[[<minecraft:iron_bars>, <ore:ingotOsmium>, <minecraft:iron_bars>], [<ore:ingotOsmium>, <EnderIO:itemBasicCapacitor>, <ore:ingotOsmium>], [<minecraft:iron_bars>, <ore:ingotOsmium>, <minecraft:iron_bars>]]);
+recipes.addShaped(<EnderIO:itemMachinePart:1>,[[<Natura:natura.stick:*>, <ExtraUtilities:cobblestone_compressed>, <Natura:natura.stick:*>], [<ExtraUtilities:cobblestone_compressed>, null, <ExtraUtilities:cobblestone_compressed>], [<Natura:natura.stick:*>, <ExtraUtilities:cobblestone_compressed>, <Natura:natura.stick:*>]]);
+recipes.addShaped(<EnderIO:itemMachinePart:1>,[[<minecraft:stick>, <ExtraUtilities:cobblestone_compressed>, <minecraft:stick>], [<ExtraUtilities:cobblestone_compressed>, null, <ExtraUtilities:cobblestone_compressed>], [<minecraft:stick>, <ExtraUtilities:cobblestone_compressed>, <minecraft:stick>]]);
+recipes.addShaped(<EnderIO:blockStirlingGenerator>,[[<minecraft:stonebrick:*>, <minecraft:stonebrick:*>, <minecraft:stonebrick:*>], [<minecraft:stonebrick:*>, <TConstruct:FurnaceSlab>, <minecraft:stonebrick:*>], [<EnderIO:itemMachinePart:1>, <minecraft:sticky_piston>, <EnderIO:itemMachinePart:1>]]);
+recipes.addShaped(<EnderIO:blockAlloySmelter>,[[<minecraft:stonebrick:*>, <TConstruct:FurnaceSlab>, <minecraft:stonebrick:*>], [<ore:ingotCopper>, <EnderIO:itemMachinePart>, <ore:ingotCopper>], [<ore:ingotCopper>, <EnderIO:itemBasicCapacitor>, <ore:ingotCopper>]]);
+recipes.addShaped(<minecraft:coal>,[[<EnderIO:itemPowderIngot>, <EnderIO:itemPowderIngot>], [<EnderIO:itemPowderIngot>, <EnderIO:itemPowderIngot>]]);

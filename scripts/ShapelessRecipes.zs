@@ -1,0 +1,2 @@
+recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:7> * 1, [<minecraft:redstone>, <minecraft:quartz>, <appliedenergistics2:item.ItemMultiMaterial:0>]);
+recipes.addShapeless(<appliedenergistics2:item.ItemMultiMaterial:8> * 1, [<minecraft:redstone>, <appliedenergistics2:item.ItemMultiMaterial:2>, <appliedenergistics2:item.ItemMultiMaterial:3>]);

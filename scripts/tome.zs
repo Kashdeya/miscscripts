@@ -1,0 +1,1 @@
+recipes.removeShaped(<xreliquary:alkahest_tome:256>, [[<minecraft:book>, <xreliquary:witch_hat>, <ore:itemSkull>], [<minecraft:magma_cream>, <ore:ingotGold>, <ore:itemGhastTear>], [<minecraft:glowstone>, <minecraft:nether_wart>, <minecraft:lava_bucket>]]);

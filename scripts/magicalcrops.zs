@@ -1,0 +1,75 @@
+// Removed OP shit
+recipes.remove(<magicalcrops:magicalcrops_Charms>);
+recipes.remove(<magicalcrops:magicalcrops_Charms:1>);
+recipes.remove(<magicalcrops:magicalcrops_Charms:2>);
+recipes.remove(<magicalcrops:magicalcrops_Charms:3>);
+recipes.remove(<magicalcrops:magicalcrops_Charms:4>);
+recipes.remove(<magicalcrops:magicalcrops_EssenceOrb>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:13>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:14>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:15>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:16>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:17>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:18>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:19>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:20>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:21>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:22>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:23>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:24>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:25>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:26>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:27>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:28>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:29>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:30>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:31>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:32>);
+recipes.remove(<magicalcrops:magicalcrops_PotionPetals:33>);
+
+// Magical Juice
+recipes.remove(<magicalcrops:magicalcrops_FoodJuice>);
+recipes.remove(<magicalcrops:magicalcrops_FoodJuice:1>);
+recipes.remove(<magicalcrops:magicalcrops_FoodJuice:2>);
+recipes.remove(<magicalcrops:magicalcrops_FoodJuice:3>);
+recipes.remove(<magicalcrops:magicalcrops_FoodJuice:4>);
+recipes.remove(<magicalcrops:magicalcrops_FoodJuice:5>);
+recipes.remove(<magicalcrops:magicalcrops_FoodJuice:6>);
+recipes.remove(<magicalcrops:magicalcrops_FoodJuice:7>);
+recipes.remove(<magicalcrops:magicalcrops_FoodJuice:8>);
+recipes.remove(<magicalcrops:magicalcrops_JuiceSqueezer>);
+
+recipes.addShaped(<magicalcrops:magicalcrops_JuiceSqueezer>,[[<ore:ingotAluminum>, <minecraft:iron_ingot>, <ore:ingotAluminum>], [null, <ore:ingotAluminum>, null]]);
+recipes.addShapeless(<magicalcrops:magicalcrops_FoodJuice>,[<minecraft:apple>, <magicalcrops:magicalcrops_JuiceSqueezer>, <minecraft:glass_bottle>, <minecraft:sugar>]);
+recipes.addShapeless(<magicalcrops:magicalcrops_FoodJuice:1>,[<magicalcrops:magicalcrops_CropProduce>, <magicalcrops:magicalcrops_JuiceSqueezer>, <minecraft:glass_bottle>, <minecraft:sugar>]);
+recipes.addShapeless(<magicalcrops:magicalcrops_FoodJuice:2>,[<magicalcrops:magicalcrops_CropProduce:1>, <magicalcrops:magicalcrops_JuiceSqueezer>, <minecraft:glass_bottle>, <minecraft:sugar>]);
+recipes.addShapeless(<magicalcrops:magicalcrops_FoodJuice:3>,[<minecraft:carrot>, <magicalcrops:magicalcrops_JuiceSqueezer>, <minecraft:glass_bottle>, <minecraft:sugar>]);
+recipes.addShapeless(<magicalcrops:magicalcrops_FoodJuice:4>,[<magicalcrops:magicalcrops_CropProduce:4>, <magicalcrops:magicalcrops_JuiceSqueezer>, <minecraft:glass_bottle>, <minecraft:sugar>]);
+recipes.addShapeless(<magicalcrops:magicalcrops_FoodJuice:5>,[<magicalcrops:magicalcrops_CropProduce:5>, <magicalcrops:magicalcrops_JuiceSqueezer>, <minecraft:glass_bottle>, <minecraft:sugar>]);
+recipes.addShapeless(<magicalcrops:magicalcrops_FoodJuice:6>,[<magicalcrops:magicalcrops_CropProduce:6>, <magicalcrops:magicalcrops_JuiceSqueezer>, <minecraft:glass_bottle>, <minecraft:sugar>]);
+recipes.addShapeless(<magicalcrops:magicalcrops_FoodJuice:7>,[<magicalcrops:magicalcrops_CropProduce:8>, <magicalcrops:magicalcrops_JuiceSqueezer>, <minecraft:glass_bottle>, <minecraft:sugar>]);
+recipes.addShapeless(<magicalcrops:magicalcrops_FoodJuice:8>,[<minecraft:melon>, <magicalcrops:magicalcrops_JuiceSqueezer>, <minecraft:glass_bottle>, <minecraft:sugar>]);
+
+recipes.remove(<magicalcrops:magicalcrops_ModMagicSeedsDarkiron>);
+recipes.remove(<magicalcrops:magicalcrops_MagicalCropFertilizer>);
+recipes.remove(<magicalcrops:magicalcrops_InfusionStone>);
+recipes.remove(<magicalcrops:magicalcrops_MagicalFood>);
+recipes.remove(<magicalcrops:magicalcrops_infusedHelmet>);
+recipes.remove(<magicalcrops:magicalcrops_infusedPlatebody>);
+recipes.remove(<magicalcrops:magicalcrops_infusedLeggings>);
+recipes.remove(<magicalcrops:magicalcrops_infusedBoots>);
+recipes.remove(<magicalcrops:magicalcrops_ModMagicSeedsPlatinum>);
+recipes.remove(<magicalcrops:magicalcrops_InfusionStone:4>);
+
+recipes.addShaped(<Mekanism:OreBlock> *4,[[<magicalcrops:magicalcrops_ModCropEssence:25>, <magicalcrops:magicalcrops_ModCropEssence:25>, <magicalcrops:magicalcrops_ModCropEssence:25>], [<magicalcrops:magicalcrops_ModCropEssence:25>, null, <magicalcrops:magicalcrops_ModCropEssence:25>], [<magicalcrops:magicalcrops_ModCropEssence:25>, <magicalcrops:magicalcrops_ModCropEssence:25>, <magicalcrops:magicalcrops_ModCropEssence:25>]]);
+recipes.addShaped(<magicalcrops:magicalcrops_ModMagicSeedsOsmium>,[[<ore:ingotOsmium>, <magicalcrops:magicalcrops_MagicEssence:4>, <ore:ingotOsmium>], [<magicalcrops:magicalcrops_MagicEssence:4>, <magicalcrops:magicalcrops_MagicSeedsEssence>, <magicalcrops:magicalcrops_MagicEssence:4>], [<ore:ingotOsmium>, <magicalcrops:magicalcrops_MagicEssence:4>, <ore:ingotOsmium>]]);
+recipes.addShaped(<magicalcrops:magicalcrops_ModMagicSeedsPlatinum>,[[<exnihilo:exnihilo.platinum_ingot>, <magicalcrops:magicalcrops_MagicEssence:4>, <exnihilo:exnihilo.platinum_ingot>], [<magicalcrops:magicalcrops_MagicEssence:4>, <magicalcrops:magicalcrops_MagicSeedsEssence>, <magicalcrops:magicalcrops_MagicEssence:4>], [<exnihilo:exnihilo.platinum_ingot>, <magicalcrops:magicalcrops_MagicEssence:4>, <exnihilo:exnihilo.platinum_ingot>]]);
+recipes.addShaped(<magicalcrops:magicalcrops_infusedHelmet>,[[<magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_ArmourMaterials>], [<magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_infusedIngotHelmet>, <magicalcrops:magicalcrops_ArmourMaterials>], [null, null, null]]);
+recipes.addShaped(<magicalcrops:magicalcrops_infusedPlatebody>,[[<magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_infusedIngotPlatebody>, <magicalcrops:magicalcrops_ArmourMaterials>], [<magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_ArmourMaterials>], [<magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_ArmourMaterials>]]);
+recipes.addShaped(<magicalcrops:magicalcrops_infusedLeggings>,[[<magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_ArmourMaterials>], [<magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_infusedIngotLeggings>, <magicalcrops:magicalcrops_ArmourMaterials>], [<magicalcrops:magicalcrops_ArmourMaterials>, null, <magicalcrops:magicalcrops_ArmourMaterials>]]);
+recipes.addShaped(<magicalcrops:magicalcrops_infusedBoots>,[[<magicalcrops:magicalcrops_ArmourMaterials>, null, <magicalcrops:magicalcrops_ArmourMaterials>], [<magicalcrops:magicalcrops_ArmourMaterials>, <magicalcrops:magicalcrops_infusedIngotBoots>, <magicalcrops:magicalcrops_ArmourMaterials>], [null, null, null]]);
+recipes.addShaped(<magicalcrops:magicalcrops_MagicalFood>,[[<magicalcrops:magicalcrops_MagicEssence:3>, <magicalcrops:magicalcrops_MagicEssence:2>, <magicalcrops:magicalcrops_MagicEssence:3>], [<magicalcrops:magicalcrops_MagicEssence:2>, <magicalcrops:magicalcrops_CropProduce:*>, <magicalcrops:magicalcrops_MagicEssence:2>], [<magicalcrops:magicalcrops_MagicEssence:3>, <magicalcrops:magicalcrops_MagicEssence:2>, <magicalcrops:magicalcrops_MagicEssence:3>]]);
+recipes.addShaped(<magicalcrops:magicalcrops_InfusionStone>,[[<magicalcrops:magicalcrops_MagicEssence>, <magicalcrops:magicalcrops_MagicEssence>, <magicalcrops:magicalcrops_MagicEssence>], [<magicalcrops:magicalcrops_MagicEssence>, <minecraft:diamond>, <magicalcrops:magicalcrops_MagicEssence>], [<magicalcrops:magicalcrops_MagicEssence>, <magicalcrops:magicalcrops_MagicEssence>, <magicalcrops:magicalcrops_MagicEssence>]]);
+recipes.addShaped(<magicalcrops:magicalcrops_ModMagicSeedsDarkiron>,[[<chisel:iron_block:12>, <magicalcrops:magicalcrops_MagicEssence:4>, <chisel:iron_block:12>], [<magicalcrops:magicalcrops_MagicEssence:4>, <magicalcrops:magicalcrops_MagicSeedsIron>, <magicalcrops:magicalcrops_MagicEssence:4>], [<chisel:iron_block:12>, <magicalcrops:magicalcrops_MagicEssence:4>, <chisel:iron_block:12>]]);
+recipes.addShaped(<magicalcrops:magicalcrops_MagicalCropFertilizer>,[[<minecraft:dye:15>, <magicalcrops:magicalcrops_TaintedEssence>, <minecraft:dye:15>], [<magicalcrops:magicalcrops_TaintedEssence>, <magicalcrops:magicalcrops_CropEssence:3>, <magicalcrops:magicalcrops_TaintedEssence>], [<magicalcrops:magicalcrops_CropEssence>, <magicalcrops:magicalcrops_TaintedEssence>, <magicalcrops:magicalcrops_CropEssence>]]);
+recipes.addShaped(<magicalcrops:magicalcrops_InfusionStone:4>,[[<magicalcrops:magicalcrops_TaintedEssence>, <magicalcrops:magicalcrops_TaintedEssence>, <magicalcrops:magicalcrops_TaintedEssence>], [<magicalcrops:magicalcrops_TaintedEssence>, <magicalcrops:magicalcrops_InfusionStone:3>, <magicalcrops:magicalcrops_TaintedEssence>], [<magicalcrops:magicalcrops_TaintedEssence>, <magicalcrops:magicalcrops_TaintedEssence>, <magicalcrops:magicalcrops_TaintedEssence>]]);

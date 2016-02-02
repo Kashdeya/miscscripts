@@ -1,0 +1,674 @@
+//                     READ THIS HEADER BEFORE EDITING ANYTHING
+// ================================================================================
+//     This file is read and changed by the Modpack Devs.
+//     If you remove/edit any of the markers, IT WILL STOP WORKING!
+//     If you want to make manual edits, make a backup of this file!
+//     Markers look like this: "//#MARKER something"
+//     They indicate where calls should be placed, so that MineTweaker does them in the correct order.
+//     Removes come first, then stuff is added.
+// ================================================================================
+//#NEI SHIT
+// ================================================================================
+import mods.nei.NEI;
+NEI.hide(<MineFactoryReloaded:needlegun>);
+NEI.hide(<MineFactoryReloaded:needlegun.ammo.empty>);
+NEI.hide(<MineFactoryReloaded:needlegun.ammo.standard>);
+NEI.hide(<MineFactoryReloaded:needlegun.ammo.lava>);
+NEI.hide(<MineFactoryReloaded:needlegun.ammo.sludge>);
+NEI.hide(<MineFactoryReloaded:needlegun.ammo.sewage>);
+NEI.hide(<MineFactoryReloaded:needlegun.ammo.fire>);
+NEI.hide(<MineFactoryReloaded:needlegun.ammo.anvil>);
+NEI.hide(<MineFactoryReloaded:needlegun.ammo.pierce>);
+NEI.hide(<MineFactoryReloaded:rocketlauncher>);
+NEI.hide(<MineFactoryReloaded:rocket>);
+NEI.hide(<MineFactoryReloaded:rocket:1>);
+NEI.hide(<xreliquary:gun_part_:*>);
+NEI.hide(<xreliquary:magazine:*>);
+NEI.hide(<xreliquary:bullet:*>);
+NEI.hide(<xreliquary:handgun>);
+NEI.hide(<ProjectE:item.pe_time_watch>);
+NEI.hide(<compressedblocks:very_high_adhesive>);
+NEI.hide(<compressedblocks:slime_cream>);
+NEI.hide(<compressedblocks:little_high_adhesive>);
+NEI.hide(<compressedblocks:very_medium_adhesive>);
+NEI.hide(<compressedblocks:little_medium_adhesive>);
+
+print(<minecraft:cake>.displayName); // prints the original name
+<minecraft:cake>.displayName = "Devils Food Cake";
+
+print(<harvestcraft:epicbaconItem>.displayName); // prints the original name
+<harvestcraft:epicbaconItem>.displayName = "Psychedelic Bacon Jerky";
+
+print(<nolpfij_wildycraft:Ring of Life>.displayName); // prints the original name
+<nolpfij_wildycraft:Ring of Life>.displayName = "DeadRoseKiss Ring";
+
+print(<nolpfij_wildycraft:Bracelet of Inoculation>.displayName); // prints the original name
+<nolpfij_wildycraft:Bracelet of Inoculation>.displayName = "Kasandaras lost Bracelet";
+
+print(<exnihilo:stone>.displayName); // prints the original name
+<exnihilo:stone>.displayName = "Stone Pellet";
+
+print(<MineFactoryReloaded:bucket.pinkslime>.displayName); // prints the original name
+<MineFactoryReloaded:bucket.pinkslime>.displayName = "Just a Bucket O'Lube";
+
+print(<HardcoreQuesting:bags:*>.displayName); // prints the original name
+<HardcoreQuesting:bags:*>.displayName = "Old Bag";
+
+print(<appliedenergistics2:tile.BlockGrinder>.displayName); // prints the original name
+<appliedenergistics2:tile.BlockGrinder>.displayName = "Old Grinder";
+
+// ================================================================================
+//#REMOVED
+// ================================================================================
+recipes.remove(<IronChest:ironGoldUpgrade>);
+recipes.remove(<IronChest:goldDiamondUpgrade>);
+recipes.remove(<IronChest:copperSilverUpgrade>);
+recipes.remove(<IronChest:silverGoldUpgrade>);
+recipes.remove(<IronChest:copperIronUpgrade>);
+recipes.remove(<IronChest:diamondCrystalUpgrade>);
+recipes.remove(<IronChest:woodIronUpgrade>);
+recipes.remove(<IronChest:woodCopperUpgrade>);
+recipes.remove(<IronChest:diamondObsidianUpgrade>);
+recipes.remove(<TConstruct:heartCanister:6>);
+recipes.remove(<harvestcraft:epicbaconItem>);
+recipes.remove(<MineFactoryReloaded:needlegun>);
+recipes.remove(<MineFactoryReloaded:needlegun.ammo.empty>);
+recipes.remove(<MineFactoryReloaded:needlegun.ammo.standard>);
+recipes.remove(<MineFactoryReloaded:needlegun.ammo.lava>);
+recipes.remove(<MineFactoryReloaded:needlegun.ammo.sludge>);
+recipes.remove(<MineFactoryReloaded:needlegun.ammo.sewage>);
+recipes.remove(<MineFactoryReloaded:needlegun.ammo.fire>);
+recipes.remove(<MineFactoryReloaded:needlegun.ammo.anvil>);
+recipes.remove(<MineFactoryReloaded:needlegun.ammo.pierce>);
+recipes.remove(<MineFactoryReloaded:rocketlauncher>);
+recipes.remove(<MineFactoryReloaded:rocket>);
+recipes.remove(<MineFactoryReloaded:rocket:1>);
+recipes.remove(<xreliquary:gun_part_:*>);
+recipes.remove(<xreliquary:magazine:*>);
+recipes.remove(<xreliquary:bullet:*>);
+recipes.remove(<xreliquary:handgun>);
+recipes.remove(<BetterChests:betterChest>);
+recipes.remove(<BetterChests:Upgrade:21>);
+recipes.remove(<BetterChests:Upgrade:22>);
+recipes.remove(<BetterChests:Upgrade:11>);
+recipes.remove(<BetterChests:Upgrade:24>);
+recipes.remove(<BetterChests:Upgrade:18>);
+recipes.remove(<BetterChests:Upgrade:14>);
+recipes.remove(<BetterChests:Upgrade:15>);
+recipes.remove(<BetterChests:Upgrade:3>);
+recipes.remove(<ProjectE:item.pe_ring_iron_band>);
+recipes.remove(<ProjectE:item.pe_repair_talisman>);
+recipes.remove(<ProjectE:condenser_mk1>);
+recipes.remove(<ProjectE:alchemical_chest>);
+recipes.remove(<ProjectE:alchemical_chest>);
+recipes.remove(<ProjectE:item.pe_philosophers_stone>);
+recipes.remove(<ProjectE:item.pe_time_watch>);
+recipes.remove(<minecraft:stick>);
+recipes.remove(<TConstruct:decoration.stonetorch>);
+recipes.remove(<apples:Stone Apple>);
+recipes.remove(<ExtraUtilities:pipes:8>);
+recipes.remove(<ExtraUtilities:pipes:10>);
+recipes.remove(<ExtraUtilities:pipes.1>);
+recipes.remove(<ExtraUtilities:watering_can>);
+recipes.remove(<OpenBlocks:vacuumhopper>);
+recipes.remove(<EnderIO:blockVacuumChest>);
+recipes.remove(<magicalcrops:EarthSeeds>);
+recipes.remove(<magicalcrops:CoalSeeds>);
+recipes.remove(<magicalcrops:MinicioSeeds>);
+recipes.remove(<magicalcrops:GlowstoneSeeds>);
+recipes.remove(<magicalcrops:RedstoneSeeds>);
+recipes.remove(<magicalcrops:2AccioEssence>);
+recipes.remove(<magicalcropsdeco:EssenceStone>);
+recipes.remove(<magicalcrops:3CrucioEssence>);
+recipes.remove(<magicalcrops:SeedBagAccio>);
+recipes.remove(<magicalcropsarmour:EssenceIngots>);
+recipes.remove(<magicalcrops:AccioFurnace>);
+recipes.remove(<magicalcrops:RubberSeeds>);
+recipes.remove(<magicalcrops:4ImperioEssence>);
+recipes.remove(<magicalcrops:CrucioFurnace>);
+recipes.remove(<magicalcrops:SeedBagCrucio>);
+recipes.remove(<magicalcropsarmour:EssenceIngots:1>);
+recipes.remove(<magicalcrops:PigSeeds>);
+recipes.remove(<magicalcrops:5ZivicioEssence>);
+recipes.remove(<magicalcrops:SeedBagImperio>);
+recipes.remove(<magicalcrops:ImperioFurnace>);
+recipes.remove(<magicalcropsarmour:EssenceIngots:2>);
+recipes.remove(<magicalcropsarmour:EssenceIngots:3>);
+recipes.remove(<magicalcrops:SeedBagZivicio>);
+recipes.remove(<magicalcrops:ZivicioFurnace>);
+recipes.remove(<magicalcropsarmour:ZivicioPickaxe>);
+recipes.remove(<magicalcropsarmour:ImperioPickaxe>);
+recipes.remove(<magicalcropsarmour:CrucioPickaxe>);
+recipes.remove(<magicalcropsarmour:AccioPickaxe>);
+recipes.remove(<magicalcrops:CropBooster>);
+recipes.remove(<magicalcropsarmour:CrucioArmourBoots>);
+recipes.remove(<magicalcropsarmour:CrucioArmourLeggings>);
+recipes.remove(<magicalcropsarmour:CrucioArmourChestplate>);
+recipes.remove(<magicalcropsarmour:CrucioArmourHelmet>);
+recipes.remove(<magicalcropsarmour:ImperioArmourHelmet>);
+recipes.remove(<magicalcropsarmour:ImperioArmourChestplate>);
+recipes.remove(<magicalcropsarmour:ImperioArmourLeggings>);
+recipes.remove(<magicalcropsarmour:ImperioArmourBoots>);
+recipes.remove(<magicalcropsarmour:ZivicioArmourHelmet>);
+recipes.remove(<magicalcropsarmour:ZivicioArmourChestplate>);
+recipes.remove(<magicalcropsarmour:ZivicioArmourLeggings>);
+recipes.remove(<magicalcropsarmour:ZivicioArmourBoots>);
+recipes.remove(<appliedenergistics2:tile.BlockGrinder>);
+recipes.removeShaped(<nolpfij_wildycraft:Wildycraft_DenseStone>);
+recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:13>);
+recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:14>);
+recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:15>);
+recipes.remove(<appliedenergistics2:item.ItemMultiMaterial:19>);
+recipes.remove(<minecraft:fence>);
+recipes.remove(<minecraft:brewing_stand>);
+recipes.remove(<minecraft:shears>);
+recipes.remove(<nolpfij_wildycraft:Wildycraft_DenseStone>);
+recipes.remove(<MineFactoryReloaded:machine.0:9>);
+recipes.remove(<MineFactoryReloaded:machine.0:11>);
+recipes.remove(<MineFactoryReloaded:machine.1:11>);
+recipes.remove(<MineFactoryReloaded:machine.0>);
+recipes.remove(<MineFactoryReloaded:machine.0:1>);
+recipes.remove(<MineFactoryReloaded:machine.0:2>);
+recipes.remove(<MineFactoryReloaded:machine.0:3>);
+recipes.remove(<MineFactoryReloaded:machine.0:4>);
+recipes.remove(<MineFactoryReloaded:machine.0:5>);
+recipes.remove(<MineFactoryReloaded:machine.0:6>);
+recipes.remove(<MineFactoryReloaded:machine.0:7>);
+recipes.remove(<MineFactoryReloaded:machine.0:8>);
+recipes.remove(<MineFactoryReloaded:machine.0:13>);
+recipes.remove(<MineFactoryReloaded:machineblock>);
+recipes.remove(<MineFactoryReloaded:upgrade.logic>);
+recipes.remove(<MineFactoryReloaded:upgrade.logic:1>);
+recipes.remove(<MineFactoryReloaded:upgrade.logic:2>);
+// EnderEnhancement
+recipes.remove(<ee:ItemEnderFruit>);
+recipes.remove(<ee:BlockEnderBlock>);
+recipes.remove(<ee:BlockEmpoweredEnderBlock>);
+recipes.remove(<ee:BlockExtremeEnderBlock>);
+recipes.remove(<ee:ItemLargeEnderHelmet>);
+recipes.remove(<ee:ItemLargeEnderChestplate>);
+recipes.remove(<ee:ItemLargeEnderLeggings>);
+recipes.remove(<ee:ItemLargeEnderBoots>);
+recipes.remove(<ee:ItemExtremeEnderPickaxe>);
+recipes.remove(<ee:ItemExtremeEnderAxe>);
+recipes.remove(<ee:ItemExtremeEnderShovel>);
+recipes.remove(<ee:ItemExtremeEnderHoe>);
+recipes.remove(<ee:ItemExtremeEnderSword>);
+recipes.remove(<ee:ItemEnderHelmet>);
+recipes.remove(<ee:ItemEnderChestplate>);
+recipes.remove(<ee:ItemEnderLeggings>);
+recipes.remove(<ee:ItemEnderBoots>);
+recipes.remove(<ee:ItemExtremeEnderHelmet>);
+recipes.remove(<ee:ItemExtremeEnderChestplate>);
+recipes.remove(<ee:ItemExtremeEnderLeggings>);
+recipes.remove(<ee:ItemExtremeEnderBoots>);
+recipes.remove(<simplyjetpacks:components:11>);
+recipes.remove(<simplyjetpacks:components:12>);
+recipes.remove(<simplyjetpacks:components:13>);
+recipes.remove(<simplyjetpacks:components:14>);
+recipes.remove(<simplyjetpacks:components:15>);
+recipes.remove(<simplyjetpacks:components:31>);
+recipes.remove(<simplyjetpacks:jetpacksBC:2>);
+recipes.remove(<BuildCraft|Silicon:redstoneCrystal>);
+
+// ================================================================================
+//#REMOVED SHAPED
+// ================================================================================
+recipes.removeShaped(<ee:ItemEmpoweredEnderPearl>,[[<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>], [<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>], [<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>]]);
+recipes.removeShaped(<ee:ItemExtremeEnderPearl>,[[<ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>], [<ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>], [<ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>]]);
+
+// ================================================================================
+//#ADD SHAPELESS
+// ================================================================================
+recipes.addShapeless(<minecraft:cobblestone> *8, [<minecraft:furnace>]);
+recipes.addShapeless(<minecraft:stone> *2, [<minecraft:stone_pressure_plate>]);
+recipes.addShapeless(<minecraft:planks> *2, [<minecraft:wooden_pressure_plate>]);
+recipes.addShapeless(<minecraft:planks> *6, [<minecraft:oak_stairs>]);
+recipes.addShapeless(<minecraft:cobblestone> *6, [<minecraft:stone_stairs>]);
+recipes.addShapeless(<minecraft:sand> *4, [<minecraft:sandstone>]);
+recipes.addShapeless(<minecraft:string> *9, [<minecraft:wool>]);
+recipes.addShapeless(<minecraft:gold_ingot> *2, [<minecraft:light_weighted_pressure_plate>]);
+recipes.addShapeless(<minecraft:iron_ingot> *2, [<minecraft:heavy_weighted_pressure_plate>]);
+recipes.addShapeless(<minecraft:mycelium>, [<ore:listAllmushroom>, <minecraft:dirt>]);
+recipes.addShapeless(<minecraft:planks> *4, [<minecraft:crafting_table>]);
+recipes.addShapeless(<minecraft:fire> *2, [<minecraft:flint_and_steel>]);
+recipes.addShapeless(<minecraft:grass>, [<minecraft:dirt>, <ore:listAllseed>, <ore:listAllseed>, <ore:listAllseed>]);
+recipes.addShapeless(<minecraft:sapling:5>, [<minecraft:leaves2:1>, <ore:woodStick>]);
+recipes.addShapeless(<minecraft:sapling:4>, [<minecraft:leaves2>, <ore:woodStick>]);
+recipes.addShapeless(<minecraft:sapling:3>, [<minecraft:leaves:3>, <ore:woodStick>]);
+recipes.addShapeless(<minecraft:sapling:2>, [<minecraft:leaves:2>, <ore:woodStick>]);
+recipes.addShapeless(<minecraft:sapling:1>, [<minecraft:leaves:1>, <ore:woodStick>]);
+recipes.addShapeless(<minecraft:sapling>, [<ore:treeLeaves>, <ore:woodStick>]);
+recipes.addShapeless(<EnderIO:itemPowderIngot> * 16, [<minecraft:coal>, <minecraft:coal>]);
+recipes.addShapeless(<TConstruct:heartCanister:3>,[<TConstruct:heartCanister:5>]);
+recipes.addShapeless(<ProjectE:item.pe_ring_iron_band>, [<TurkeyUtil:Diamond_Hammer>.anyDamage(), <ore:blockIron>]);
+recipes.addShapeless(<harvestcraft:rainbowcurryItem>,[<harvestcraft:curryItem>, <harvestcraft:gummybearsItem>, <harvestcraft:gummybearsItem>]);
+
+// ================================================================================
+//#ADD SHAPED
+// ================================================================================
+recipes.addShaped(<MineFactoryReloaded:machine.0:13>,[[<MineFactoryReloaded:plastic.sheet>, <ThermalFoundation:tool.swordInvar>, <MineFactoryReloaded:plastic.sheet>], [<minecraft:book>, <ThermalExpansion:Frame>, <minecraft:book>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:8>,[[<MineFactoryReloaded:plastic.sheet>, <OpenBlocks:xpdrain>, <MineFactoryReloaded:plastic.sheet>], [<minecraft:bucket>, <ThermalExpansion:Frame>, <minecraft:bucket>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:7>,[[<MineFactoryReloaded:plastic.sheet>, <MineFactoryReloaded:machineblock>, <MineFactoryReloaded:plastic.sheet>], [<ThermalFoundation:tool.pickaxeInvar>, <ThermalExpansion:Frame>, <ThermalFoundation:tool.shovelInvar>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:6> *4,[[<MineFactoryReloaded:plastic.sheet>, <IronChest:BlockIronChest:3>, <MineFactoryReloaded:plastic.sheet>], [<IronChest:BlockIronChest:3>, <ThermalExpansion:Frame>, <IronChest:BlockIronChest:3>], [<MineFactoryReloaded:plastic.sheet>, <IronChest:BlockIronChest:3>, <MineFactoryReloaded:plastic.sheet>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:5>,[[<MineFactoryReloaded:plastic.sheet>, <MineFactoryReloaded:syringe.empty>, <MineFactoryReloaded:plastic.sheet>], [<MineFactoryReloaded:syringe.empty>, <ThermalExpansion:Frame>, <MineFactoryReloaded:syringe.empty>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:4>,[[<MineFactoryReloaded:plastic.sheet>, <MineFactoryReloaded:fertilizer>, <MineFactoryReloaded:plastic.sheet>], [<MineFactoryReloaded:fertilizer>, <ThermalExpansion:Frame>, <MineFactoryReloaded:fertilizer>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:3>,[[<MineFactoryReloaded:plastic.sheet>, <ExtraUtilities:pipes:10>, <MineFactoryReloaded:plastic.sheet>], [<minecraft:shears>, <ThermalExpansion:Frame>, <minecraft:shears>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:2>,[[<MineFactoryReloaded:plastic.sheet>, <ThermalFoundation:tool.axeInvar>, <MineFactoryReloaded:plastic.sheet>], [<minecraft:shears>, <ThermalExpansion:Frame>, <minecraft:shears>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:1>,[[<MineFactoryReloaded:plastic.sheet>, <minecraft:fishing_rod>, <MineFactoryReloaded:plastic.sheet>], [<minecraft:bucket>, <ThermalExpansion:Frame>, <minecraft:bucket>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0>,[[<MineFactoryReloaded:plastic.sheet>, <minecraft:flower_pot>, <MineFactoryReloaded:plastic.sheet>], [<minecraft:piston>, <ThermalExpansion:Frame>, <minecraft:piston>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machineblock> *2,[[<MineFactoryReloaded:plastic.sheet>, <ore:ingotLead>, <MineFactoryReloaded:plastic.sheet>], [<ore:ingotLead>, <EnderIO:itemBasicCapacitor>, <ore:ingotLead>], [<MineFactoryReloaded:plastic.sheet>, <ThermalExpansion:material:3>, <MineFactoryReloaded:plastic.sheet>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:9>,[[<MineFactoryReloaded:plastic.sheet>, <minecraft:bucket>, <MineFactoryReloaded:plastic.sheet>], [<TConstruct:FurnaceSlab>, <ThermalExpansion:Frame>, <TConstruct:FurnaceSlab>], [<MineFactoryReloaded:machineblock>, <ThermalExpansion:material:1>, <MineFactoryReloaded:machineblock>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.0:11>,[[<MineFactoryReloaded:plastic.sheet>, <TConstruct:FurnaceSlab>, <MineFactoryReloaded:plastic.sheet>], [<minecraft:sticky_piston>, <ThermalExpansion:Frame>, <minecraft:sticky_piston>], [<minecraft:brick>, <ThermalExpansion:material:1>, <minecraft:brick>]]);
+recipes.addShaped(<MineFactoryReloaded:machine.1:11>,[[<MineFactoryReloaded:plastic.sheet>, <TConstruct:FurnaceSlab>, <MineFactoryReloaded:plastic.sheet>], [<minecraft:sticky_piston>, <ThermalExpansion:Frame>, <minecraft:sticky_piston>], [<minecraft:blaze_rod>, <ThermalExpansion:material:2>, <minecraft:blaze_rod>]]);
+recipes.addShaped(<nolpfij_wildycraft:Wildycraft_magicSapling>,[[<magicalcrops:NatureEssence>], [<minecraft:sapling>]]);
+recipes.addShaped(<harvestcraft:epicbaconItem>,[[<magicalcrops:ChickenEssence>, <magicalcrops:CowEssence>, <magicalcrops:PigEssence>], [<harvestcraft:zombiejerkyItem>, <harvestcraft:firmtofuItem>, <harvestcraft:zombiejerkyItem>], [<magicalcrops:ChickenEssence>, <magicalcrops:CowEssence>, <magicalcrops:PigEssence>]]);
+recipes.addShaped(<JABBA:upgradeCore:9>,[[<JABBA:upgradeCore:8>, <JABBA:upgradeCore:8>], [<JABBA:upgradeCore:8>]]);
+recipes.addShapeless(<JABBA:upgradeCore:8> *3,[<JABBA:upgradeCore:9>]);
+recipes.addShaped(<minecraft:planks>,[[<minecraft:wooden_slab>], [<minecraft:wooden_slab>]]);
+recipes.addShaped(<minecraft:planks:1>,[[<minecraft:wooden_slab:1>], [<minecraft:wooden_slab:1>]]);
+recipes.addShaped(<minecraft:planks:2>,[[<minecraft:wooden_slab:2>], [<minecraft:wooden_slab:2>]]);
+recipes.addShaped(<minecraft:planks:3>,[[<minecraft:wooden_slab:3>], [<minecraft:wooden_slab:3>]]);
+recipes.addShaped(<minecraft:planks:4>,[[<minecraft:wooden_slab:4>], [<minecraft:wooden_slab:4>]]);
+recipes.addShaped(<minecraft:planks:5>,[[<minecraft:wooden_slab:5>], [<minecraft:wooden_slab:5>]]);
+recipes.addShaped(<BetterChests:Upgrade:10>,[[<TurkeyUtil:Charcoal_Block>, <minecraft:redstone>, <TurkeyUtil:Charcoal_Block>], [<minecraft:repeater>, <BetterChests:Upgrade:4>, <minecraft:repeater>], [<TurkeyUtil:Charcoal_Block>, <minecraft:redstone>, <TurkeyUtil:Charcoal_Block>]]);
+recipes.addShaped(<BetterChests:Upgrade:10>,[[<TurkeyUtil:Charcoal_Block>, <minecraft:repeater>, <TurkeyUtil:Charcoal_Block>], [<minecraft:redstone>, <BetterChests:Upgrade:4>, <minecraft:redstone>], [<TurkeyUtil:Charcoal_Block>, <minecraft:repeater>, <TurkeyUtil:Charcoal_Block>]]);
+recipes.addShaped(<BetterChests:Upgrade:3>,[[<minecraft:glowstone>, <minecraft:glowstone>, <minecraft:glowstone>], [<minecraft:glowstone>, <BetterChests:Upgrade:4>, <minecraft:glowstone>], [<minecraft:glowstone>, <minecraft:glowstone>, <minecraft:glowstone>]]);
+recipes.addShaped(<BetterChests:Upgrade:14>,[[<minecraft:hay_block>, <minecraft:hay_block>, <minecraft:hay_block>], [<minecraft:hay_block>, <BetterChests:Upgrade:4>, <minecraft:hay_block>], [<minecraft:hay_block>, <minecraft:hay_block>, <minecraft:hay_block>]]);
+recipes.addShaped(<BetterChests:Upgrade:15>,[[<ore:listAllsmoothie>, <minecraft:golden_apple>, <ore:listAllsmoothie>], [<minecraft:golden_apple>, <BetterChests:Upgrade:4>, <minecraft:golden_apple>], [<ore:listAllsmoothie>, <minecraft:golden_apple>, <ore:listAllsmoothie>]]);
+recipes.addShaped(<BetterChests:Upgrade:18>,[[<minecraft:hay_block>, <minecraft:hay_block>, <minecraft:hay_block>], [<minecraft:diamond_hoe>, <BetterChests:Upgrade:4>, <minecraft:diamond_hoe>], [<minecraft:hay_block>, <minecraft:hay_block>, <minecraft:hay_block>]]);
+recipes.addShaped(<BetterChests:Upgrade:22>, [[null, <ThermalFoundation:tool.swordElectrum>, null], [<ThermalFoundation:tool.swordElectrum>, <BetterChests:Upgrade:4>, <ThermalFoundation:tool.swordElectrum>], [null, <ThermalFoundation:tool.swordElectrum>, null] ]);
+recipes.addShaped(<BetterChests:Upgrade:21>, [[<minecraft:quartz_ore>, <minecraft:diamond_pickaxe>, <minecraft:quartz_ore>], [<minecraft:diamond_pickaxe>, <BetterChests:Upgrade:4>, <minecraft:diamond_pickaxe>], [<minecraft:quartz_ore>, <minecraft:diamond_pickaxe>, <minecraft:quartz_ore>] ]);
+recipes.addShaped(<BetterChests:Upgrade:24>,[[<ore:blockGold>, <minecraft:feather>, <ore:blockGold>], [<minecraft:feather>, <BetterChests:Upgrade:4>, <minecraft:feather>], [<ore:blockGold>, <minecraft:feather>, <ore:blockGold>]]);
+recipes.addShaped(<BetterChests:betterChest>, [[<ExtraUtilities:cobblestone_compressed:2>, <EnderIO:blockReinforcedObsidian>, <ExtraUtilities:cobblestone_compressed:2>], [<EnderIO:blockReinforcedObsidian>, <BiblioCraft:tile.BiblioFramedChest>, <EnderIO:blockReinforcedObsidian>], [<ExtraUtilities:cobblestone_compressed:2>, <EnderIO:blockReinforcedObsidian>, <ExtraUtilities:cobblestone_compressed:2>]]);
+recipes.addShaped(<ProjectE:item.pe_repair_talisman>, [[<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:3>], [<OpenBlocks:generic:5>, <xreliquary:midas_touchstone>, <OpenBlocks:generic:5>], [<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:3>]]);
+recipes.addShaped(<ProjectE:condenser_mk1>, [[<TurkeyUtil:Triple_Compressed_Obsidian_Block>, <ore:blockDiamond>, <TurkeyUtil:Triple_Compressed_Obsidian_Block>], [<ore:blockDiamond>, <ProjectE:alchemical_chest>, <ore:blockDiamond>], [<TurkeyUtil:Triple_Compressed_Obsidian_Block>, <appliedenergistics2:tile.BlockCondenser>, <TurkeyUtil:Triple_Compressed_Obsidian_Block>]]);
+recipes.addShaped(<ProjectE:alchemical_chest>, [[<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:3>], [<ProjectE:matter_block:1>, <ProjectE:item.pe_klein_star:5>, <ProjectE:matter_block:1>], [<ProjectE:matter_block>, <appliedenergistics2:tile.BlockChest>, <ProjectE:matter_block>]]);
+recipes.addShaped(<magicalcrops:TaintedEssence>, [[<ExtraUtilities:cursedearthside>, <ExtraUtilities:cursedearthside>], [<ExtraUtilities:cursedearthside>, <minecraft:water_bucket>]]);
+recipes.addShaped(<ProjectE:item.pe_philosophers_stone>, [[<SSTOW:sstow_materials:4>, <magicalcrops:ManyullynEssence>, <SSTOW:sstow_materials:4>], [<magicalcrops:ManyullynEssence>, <xreliquary:destruction_catalyst>, <magicalcrops:ManyullynEssence>], [<SSTOW:sstow_materials:4>, <magicalcrops:ManyullynEssence>, <SSTOW:sstow_materials:4>]]);
+recipes.addShaped(<nolpfij_wildycraft:Air Rune> *10,[[<minecraft:stone>, <minecraft:stone>, <minecraft:stone>], [<minecraft:stone_slab>, <minecraft:feather>, <minecraft:stone_slab>], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
+recipes.addShaped(<minecraft:shears>,[[<minecraft:stick>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <minecraft:stick>]]);
+recipes.addShaped(<minecraft:brewing_stand>,[[<minecraft:gold_ingot>, <minecraft:blaze_rod>, <minecraft:gold_ingot>], [null, <minecraft:blaze_rod>, null], [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>]]);
+recipes.addShaped(<minecraft:fence> * 4,[[null, null, null], [<minecraft:planks:*>, <minecraft:stick>, <minecraft:planks:*>], [<minecraft:planks:*>, <minecraft:stick>, <minecraft:planks:*>]]);
+recipes.addShaped(<minecraft:torch> * 2,[[<EnderIO:itemPowderIngot>], [<minecraft:stick>]]);
+recipes.addShaped(<minecraft:torch> * 2,[[<minecraft:glowstone_dust>], [<minecraft:stick>]]);
+recipes.addShaped(<minecraft:stick> *2, [[<ore:plankWood>], [<ore:plankWood>]]);
+recipes.addShaped(<EnderIO:blockVacuumChest>, [[<minecraft:iron_ingot>, <minecraft:iron_ingot>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <EnderStorage:enderChest>, <minecraft:iron_ingot>], [<minecraft:iron_ingot>, <EnderIO:itemMaterial:8>, <minecraft:iron_ingot>]]);
+recipes.addShaped(<OpenBlocks:vacuumhopper>, [[<TConstruct:decoration.multibrick>, <ore:pearlEnderEye>, <TConstruct:decoration.multibrick>], [<ore:pearlEnderEye>, <RandomThings:ingredient:6>, <ore:pearlEnderEye>], [<TConstruct:decoration.multibrick>, <ore:pearlEnderEye>, <TConstruct:decoration.multibrick>]]);
+recipes.addShaped(<TConstruct:decoration.stonetorch> *2, [[<MineFactoryReloaded:sugarcharcoal>], [<TConstruct:toolRod:1>]]);
+recipes.addShaped(<TConstruct:decoration.stonetorch> *2,[[<EnderIO:itemPowderIngot>], [<TConstruct:toolRod:1>]]);
+recipes.addShaped(<TConstruct:decoration.stonetorch> *2,[[<minecraft:glowstone_dust>], [<TConstruct:toolRod:1>]]);
+recipes.addShaped(<TConstruct:heartCanister:6>, [[<TConstruct:heartCanister:4>, <TConstruct:heartCanister:5>], [<apples:Experience Apple>, null]]);
+recipes.addShaped(<apples:Stone Apple>, [[<ore:stone>, <ore:stone>, <ore:stone>], [<ore:stone>, <minecraft:apple>, <ore:stone>], [<ore:stone>, <ore:stone>, <ore:stone>]]);
+recipes.addShaped(<apples:Redstone Apple>, [[<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>], [<ore:dustRedstone>, <minecraft:apple>, <ore:dustRedstone>], [<ore:dustRedstone>, <ore:dustRedstone>, <ore:dustRedstone>]]);
+recipes.addShaped(<apples:Speckled Melon Apple>, [[<minecraft:speckled_melon>, <minecraft:speckled_melon>, <minecraft:speckled_melon>], [<minecraft:speckled_melon>, <minecraft:apple>, <minecraft:speckled_melon>], [<minecraft:speckled_melon>, <minecraft:speckled_melon>, <minecraft:speckled_melon>]]);
+recipes.addShaped(<apples:Pumpkin Apple>, [[<chisel:pumpkin1>, <chisel:pumpkin2>, <chisel:pumpkin3>], [<chisel:pumpkin4>, <minecraft:apple>, <chisel:pumpkin5>], [<chisel:pumpkin6>, <chisel:pumpkin7>, <chisel:pumpkin8>]]);
+recipes.addShaped(<apples:Pumpkin Pie Apple>, [[<minecraft:pumpkin_pie>, <minecraft:pumpkin_pie>, <minecraft:pumpkin_pie>], [<minecraft:pumpkin_pie>, <minecraft:apple>, <minecraft:pumpkin_pie>], [<minecraft:pumpkin_pie>, <minecraft:pumpkin_pie>, <minecraft:pumpkin_pie>]]);
+recipes.addShaped(<minecraft:packed_ice> *8, [[<minecraft:ice>, <minecraft:ice>, <minecraft:ice>], [<minecraft:ice>, <minecraft:snow>, <minecraft:ice>], [<minecraft:ice>, <minecraft:ice>, <minecraft:ice>]]);
+recipes.addShaped(<minecraft:bedrock>, [[<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>], [<minecraft:obsidian>, <minecraft:emerald_block>, <minecraft:obsidian>], [<minecraft:obsidian>, <minecraft:obsidian>, <minecraft:obsidian>]]);
+recipes.addShaped(<minecraft:sponge> *8, [[<ore:blockWoolWhite>, <ore:blockWoolWhite>, <ore:blockWoolWhite>], [<ore:blockWoolWhite>, <ore:slimeball>, <ore:blockWoolWhite>], [<ore:blockWoolWhite>, <ore:blockWoolWhite>, <ore:blockWoolWhite>]]);
+recipes.addShaped(<ExtraUtilities:pipes:8> *8, [[<minecraft:stone_slab>, <minecraft:stone_slab>, <minecraft:stone_slab>], [<minecraft:glass>, <minecraft:gold_ingot>, <minecraft:glass>], [<minecraft:stone_slab>, <minecraft:stone_slab>, <minecraft:stone_slab>]]);
+recipes.addShaped(<ExtraUtilities:pipes:10> *8, [[<minecraft:stone_slab>, <minecraft:stone_slab>, <minecraft:stone_slab>], [<minecraft:glass>, <minecraft:dye:4>, <minecraft:glass>], [<minecraft:stone_slab>, <minecraft:stone_slab>, <minecraft:stone_slab>]]);
+recipes.addShaped(<ExtraUtilities:pipes.1> *8, [[<minecraft:stone_button>, <minecraft:stone_button>, <minecraft:stone_button>], [<minecraft:glass>, <minecraft:dye:4>, <minecraft:glass>], [<minecraft:stone_button>, <minecraft:stone_button>, <minecraft:stone_button>]]);
+recipes.addShaped(<minecraft:sand:1>, [[null, <ore:dyeRed>, null], [<ore:dyeRed>, <ore:blockSand>, <ore:dyeRed>], [null, <ore:dyeRed>, null]]);
+recipes.addShaped(<minecraft:clay>, [[<ore:blockSand>, <minecraft:gravel>], [<ore:listAllwater>, <ore:blockSand>]]);
+recipes.addShaped(<minecraft:gravel>, [[<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>], [<ore:itemFlint>, <ore:dirt>, <ore:itemFlint>], [<ore:itemFlint>, <ore:itemFlint>, <ore:itemFlint>]]);
+recipes.addShaped(<minecraft:tallgrass:2>, [[null, <ore:listAllseed>, null], [<ore:listAllseed>, <ore:listAllseed>, <ore:listAllseed>], [null, <minecraft:wheat_seeds>, null]]);
+recipes.addShaped(<minecraft:double_plant:1>, [[<ore:dyeMagenta>, <ore:dyeMagenta>, <ore:dyeMagenta>], [<ore:dyeMagenta>, <ore:listAllseed>, <ore:dyeMagenta>], [<ore:dyeMagenta>, <ore:woodStick>, <ore:dyeMagenta>]]);
+recipes.addShaped(<minecraft:double_plant>, [[<ore:dyeYellow>, <ore:dyeYellow>, <ore:dyeYellow>], [<ore:dyeYellow>, <ore:listAllseed>, <ore:dyeYellow>], [<ore:dyeYellow>, <ore:woodStick>, <ore:dyeYellow>]]);
+recipes.addShaped(<minecraft:double_plant:5>, [[<ore:dyePink>, <ore:dyePink>, <ore:dyePink>], [<ore:dyePink>, <ore:listAllseed>, <ore:dyePink>], [<ore:dyePink>, <ore:woodStick>, <ore:dyePink>]]);
+recipes.addShaped(<minecraft:double_plant:4>, [[<ore:dyeRed>, <ore:dyeRed>, <ore:dyeRed>], [<ore:dyeRed>, <ore:listAllseed>, <ore:dyeRed>], [<ore:dyeRed>, <ore:woodStick>, <ore:dyeRed>]]);
+recipes.addShaped(<minecraft:yellow_flower>, [[<minecraft:dye:11>], [<minecraft:wheat_seeds>], [<minecraft:stick>]]);
+recipes.addShaped(<minecraft:red_flower:7>, [[<minecraft:dye:9>], [<minecraft:wheat_seeds>], [<minecraft:stick>]]);
+recipes.addShaped(<minecraft:red_flower:5>, [[<minecraft:dye:14>], [<minecraft:wheat_seeds>], [<minecraft:stick>]]);
+recipes.addShaped(<minecraft:red_flower:2>, [[<minecraft:dye:13>], [<minecraft:wheat_seeds>], [<minecraft:stick>]]);
+recipes.addShaped(<minecraft:red_flower:1>, [[<minecraft:dye:4>], [<minecraft:wheat_seeds>], [<minecraft:stick>]]);
+recipes.addShaped(<minecraft:red_flower:6>, [[<minecraft:stick>, <minecraft:wheat_seeds>, <ore:dyeLightGray>]]);
+recipes.addShaped(<minecraft:red_flower:8>, [[null, null, <minecraft:dye:7>], [null, <minecraft:wheat_seeds>, null], [<minecraft:stick>, null, null]]);
+recipes.addShaped(<minecraft:red_flower:3>, [[<minecraft:dye:7>], [<minecraft:wheat_seeds>], [<minecraft:stick>]]);
+recipes.addShaped(<minecraft:red_flower:4>, [[null, null, <ore:dyeRed>], [null, <ore:listAllseed>, null], [<ore:woodStick>, null, null]]);
+recipes.addShaped(<minecraft:red_flower>, [[<ore:dyeRed>], [<ore:listAllseed>], [<ore:woodStick>]]);
+recipes.addShaped(<ExtraUtilities:watering_can:3>, [[<TConstruct:materials:18>, <nolpfij_wildycraft:Soul Rune>, null], [<TConstruct:materials:18>, <ExtraUtilities:watering_can>, <TConstruct:materials:18>], [null, <TConstruct:materials:18>, null]]);
+recipes.addShaped(<ExtraUtilities:watering_can:1>, [[<TConstruct:materials:16>, <ExtraUtilities:mini-soul>, null], [<TConstruct:materials:16>, <minecraft:bucket>, <TConstruct:materials:16>], [null, <TConstruct:materials:16>, null]]);
+recipes.addShaped(<minecraft:coal>, [[<EnderIO:itemPowderIngot>, <EnderIO:itemPowderIngot>, <EnderIO:itemPowderIngot>], [<EnderIO:itemPowderIngot>, null, <EnderIO:itemPowderIngot>], [<EnderIO:itemPowderIngot>, <EnderIO:itemPowderIngot>, <EnderIO:itemPowderIngot>]]);
+recipes.addShaped(<magicalcropsarmour:ImperioArmourBoots>, [[<magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:CrucioArmourBoots>, <magicalcropsarmour:EssenceIngots:2>], [<magicalcropsarmour:EssenceIngots:2>, null, <magicalcropsarmour:EssenceIngots:2>]]);
+recipes.addShaped(<magicalcropsarmour:ImperioArmourLeggings>, [[<magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:2>], [<magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:CrucioArmourLeggings>, <magicalcropsarmour:EssenceIngots:2>], [<magicalcropsarmour:EssenceIngots:2>, null, <magicalcropsarmour:EssenceIngots:2>]]);
+recipes.addShaped(<magicalcropsarmour:ImperioArmourChestplate>, [[<magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:CrucioArmourChestplate>, <magicalcropsarmour:EssenceIngots:2>], [<magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:2>], [<magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:2>]]);
+recipes.addShaped(<magicalcropsarmour:ImperioArmourHelmet>, [[<magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:EssenceIngots:2>], [<magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:CrucioArmourHelmet>, <magicalcropsarmour:EssenceIngots:2>]]);
+recipes.addShaped(<magicalcropsarmour:CrucioArmourBoots>, [[<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:AccioArmourBoots>, <magicalcropsarmour:EssenceIngots:1>], [<magicalcropsarmour:EssenceIngots:1>, null, <magicalcropsarmour:EssenceIngots:1>]]);
+recipes.addShaped(<magicalcropsarmour:CrucioArmourLeggings>, [[<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:1>], [<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:AccioArmourLeggings>, <magicalcropsarmour:EssenceIngots:1>], [<magicalcropsarmour:EssenceIngots:1>, null, <magicalcropsarmour:EssenceIngots:1>]]);
+recipes.addShaped(<magicalcropsarmour:CrucioArmourChestplate>, [[<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:AccioArmourChestplate>, <magicalcropsarmour:EssenceIngots:1>], [<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:1>], [<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:1>]]);
+recipes.addShaped(<magicalcropsarmour:CrucioArmourHelmet>, [[<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:EssenceIngots:1>], [<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:AccioArmourHelmet>, <magicalcropsarmour:EssenceIngots:1>]]);
+recipes.addShaped(<magicalcrops:CropBooster>, [[<ore:blockDiamond>, <magicalcrops:essence_storage:2>, <ore:blockDiamond>], [<magicalcrops:essence_storage:1>, <magicalcrops:essence_storage>, <magicalcrops:essence_storage:3>], [<ore:blockDiamond>, <magicalcrops:essence_storage:4>, <ore:blockDiamond>]]);
+recipes.addShaped(<magicalcropsarmour:ZivicioPickaxe>, [[null, <magicalcropsarmour:EssenceIngots:3>, null], [<magicalcropsarmour:EssenceIngots:3>, <magicalcropsarmour:ImperioPickaxe>, <magicalcropsarmour:EssenceIngots:3>], [null, <magicalcropsarmour:EssenceIngots:3>, null]]);
+recipes.addShaped(<magicalcropsarmour:ImperioPickaxe>, [[null, <magicalcropsarmour:EssenceIngots:2>, null], [<magicalcropsarmour:EssenceIngots:2>, <magicalcropsarmour:CrucioPickaxe>, <magicalcropsarmour:EssenceIngots:2>], [null, <magicalcropsarmour:EssenceIngots:2>, null]]);
+recipes.addShaped(<magicalcropsarmour:CrucioPickaxe>, [[null, <magicalcropsarmour:EssenceIngots:1>, null], [<magicalcropsarmour:EssenceIngots:1>, <magicalcropsarmour:AccioPickaxe>, <magicalcropsarmour:EssenceIngots:1>], [null, <magicalcropsarmour:EssenceIngots:1>, null]]);
+recipes.addShaped(<magicalcropsarmour:AccioPickaxe>, [[<magicalcropsarmour:EssenceIngots>, <minecraft:diamond_pickaxe>, <magicalcropsarmour:EssenceIngots>], [null, <RandomThings:ingredient:1>, null], [null, <RandomThings:ingredient:1>, null]]);
+recipes.addShaped(<magicalcrops:ZivicioFurnace>, [[<magicalcrops:5ZivicioEssence>, <magicalcrops:5ZivicioEssence>, <magicalcrops:5ZivicioEssence>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:ImperioFurnace>, <magicalcrops:5ZivicioEssence>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:5ZivicioEssence>, <magicalcrops:5ZivicioEssence>]]);
+recipes.addShaped(<magicalcrops:SeedBagZivicio>, [[<magicalcrops:5ZivicioEssence>, <magicalcrops:5ZivicioEssence>, <magicalcrops:5ZivicioEssence>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:SeedBagImperio>, <magicalcrops:5ZivicioEssence>], [<magicalcrops:5ZivicioEssence>, <magicalcrops:5ZivicioEssence>, <magicalcrops:5ZivicioEssence>]]);
+recipes.addShaped(<magicalcropsarmour:EssenceIngots:3> * 4, [[<magicalcrops:5ZivicioEssence>, <TConstruct:materials:5>, <magicalcrops:5ZivicioEssence>], [<TConstruct:materials:5>, <ExtraUtilities:unstableingot>, <TConstruct:materials:5>], [<magicalcrops:5ZivicioEssence>, <TConstruct:materials:5>, <magicalcrops:5ZivicioEssence>]]);
+recipes.addShaped(<magicalcropsarmour:EssenceIngots:2> * 4, [[<magicalcrops:4ImperioEssence>, <TConstruct:materials:3>, <magicalcrops:4ImperioEssence>], [<TConstruct:materials:3>, <ExtraUtilities:unstableingot>, <TConstruct:materials:3>], [<magicalcrops:4ImperioEssence>, <TConstruct:materials:3>, <magicalcrops:4ImperioEssence>]]);
+recipes.addShaped(<magicalcropsarmour:EssenceIngots> * 4, [[<magicalcrops:2AccioEssence>, <ThermalFoundation:material:74>, <magicalcrops:2AccioEssence>], [<ThermalFoundation:material:74>, <ExtraUtilities:unstableingot>, <ThermalFoundation:material:74>], [<magicalcrops:2AccioEssence>, <ThermalFoundation:material:74>, <magicalcrops:2AccioEssence>]]);
+recipes.addShaped(<magicalcropsarmour:EssenceIngots:1> * 4, [[<magicalcrops:3CrucioEssence>, <ThermalFoundation:material:75>, <magicalcrops:3CrucioEssence>], [<ThermalFoundation:material:75>, <ExtraUtilities:unstableingot>, <ThermalFoundation:material:75>], [<magicalcrops:3CrucioEssence>, <ThermalFoundation:material:75>, <magicalcrops:3CrucioEssence>]]);
+recipes.addShaped(<magicalcrops:ImperioFurnace>, [[<magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>], [<magicalcrops:4ImperioEssence>, <magicalcrops:CrucioFurnace>, <magicalcrops:4ImperioEssence>], [<magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>]]);
+recipes.addShaped(<magicalcrops:SeedBagImperio>, [[<magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>], [<magicalcrops:4ImperioEssence>, <magicalcrops:SeedBagCrucio>, <magicalcrops:4ImperioEssence>], [<magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>]]);
+recipes.addShaped(<magicalcrops:5ZivicioEssence>, [[<magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>], [<magicalcrops:4ImperioEssence>, <magicalcrops:InfusionStoneMaster:*>, <magicalcrops:4ImperioEssence>], [<magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>]]);
+recipes.addShaped(<magicalcrops:5ZivicioEssence>, [[<magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>], [<magicalcrops:4ImperioEssence>, <magicalcrops:InfusionStoneExtreme:*>, <magicalcrops:4ImperioEssence>], [<magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>, <magicalcrops:4ImperioEssence>]]);
+recipes.addShaped(<magicalcrops:PigSeeds>, [[<TConstruct:materials:34>, <magicalcrops:3CrucioEssence>, <TConstruct:materials:34>], [<magicalcrops:3CrucioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:3CrucioEssence>], [<TConstruct:materials:34>, <magicalcrops:3CrucioEssence>, <TConstruct:materials:34>]]);
+recipes.addShaped(<magicalcrops:SeedBagCrucio>, [[<magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>], [<magicalcrops:3CrucioEssence>, <magicalcrops:SeedBagAccio>, <magicalcrops:3CrucioEssence>], [<magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>]]);
+recipes.addShaped(<magicalcrops:CrucioFurnace>, [[<magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>], [<magicalcrops:3CrucioEssence>, <magicalcrops:AccioFurnace>, <magicalcrops:3CrucioEssence>], [<magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>]]);
+recipes.addShaped(<magicalcrops:4ImperioEssence>, [[<magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>], [<magicalcrops:3CrucioEssence>, <magicalcrops:InfusionStoneMaster:*>, <magicalcrops:3CrucioEssence>], [<magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>]]);
+recipes.addShaped(<magicalcrops:4ImperioEssence>, [[<magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>], [<magicalcrops:3CrucioEssence>, <magicalcrops:InfusionStoneStrong:*>, <magicalcrops:3CrucioEssence>], [<magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>, <magicalcrops:3CrucioEssence>]]);
+recipes.addShaped(<magicalcrops:RubberSeeds>, [[<MineFactoryReloaded:rubber.bar>, <magicalcrops:2AccioEssence>, <MineFactoryReloaded:rubber.bar>], [<magicalcrops:2AccioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:2AccioEssence>], [<MineFactoryReloaded:rubber.bar>, <magicalcrops:2AccioEssence>, <MineFactoryReloaded:rubber.bar>]]);
+recipes.addShaped(<magicalcrops:AccioFurnace>, [[<magicalcropsarmour:EssenceIngots>, <magicalcrops:2AccioEssence>, <magicalcropsarmour:EssenceIngots>], [<magicalcrops:2AccioEssence>, <minecraft:furnace>, <magicalcrops:2AccioEssence>], [<magicalcropsarmour:EssenceIngots>, <magicalcrops:2AccioEssence>, <magicalcropsarmour:EssenceIngots>]]);
+recipes.addShaped(<magicalcrops:SeedBagAccio>, [[<magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>], [<magicalcrops:2AccioEssence>, <minecraft:leather>, <magicalcrops:2AccioEssence>], [<magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>]]);
+recipes.addShaped(<magicalcrops:3CrucioEssence>, [[<magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>], [<magicalcrops:2AccioEssence>, <magicalcrops:InfusionStoneMaster:*>, <magicalcrops:2AccioEssence>], [<magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>]]);
+recipes.addShaped(<magicalcrops:3CrucioEssence>, [[<magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>], [<magicalcrops:2AccioEssence>, <magicalcrops:InfusionStoneRegular:*>, <magicalcrops:2AccioEssence>], [<magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>, <magicalcrops:2AccioEssence>]]);
+recipes.addShaped(<magicalcrops:2AccioEssence>, [[<magicalcrops:1MinicioEssence>, <magicalcrops:1MinicioEssence>, <magicalcrops:1MinicioEssence>], [<magicalcrops:1MinicioEssence>, <magicalcrops:InfusionStoneMaster:*>, <magicalcrops:1MinicioEssence>], [<magicalcrops:1MinicioEssence>, <magicalcrops:1MinicioEssence>, <magicalcrops:1MinicioEssence>]]);
+recipes.addShaped(<magicalcrops:2AccioEssence>, [[<magicalcrops:1MinicioEssence>, <magicalcrops:1MinicioEssence>, <magicalcrops:1MinicioEssence>], [<magicalcrops:1MinicioEssence>, <magicalcrops:InfusionStoneWeak:*>, <magicalcrops:1MinicioEssence>], [<magicalcrops:1MinicioEssence>, <magicalcrops:1MinicioEssence>, <magicalcrops:1MinicioEssence>]]);
+recipes.addShaped(<magicalcropsdeco:EssenceStone> * 8, [[<ore:stone>, <ore:stone>, <ore:stone>], [<ore:stone>, <magicalcrops:5ZivicioEssence>, <ore:stone>], [<ore:stone>, <ore:stone>, <ore:stone>]]);
+recipes.addShaped(<magicalcrops:GlowstoneSeeds>, [[<ore:glowstone>, <magicalcrops:3CrucioEssence>, <ore:glowstone>], [<magicalcrops:3CrucioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:3CrucioEssence>], [<ore:glowstone>, <magicalcrops:3CrucioEssence>, <ore:glowstone>]]);
+recipes.addShaped(<magicalcrops:RedstoneSeeds>, [[<ore:blockRedstone>, <magicalcrops:3CrucioEssence>, <ore:blockRedstone>], [<magicalcrops:3CrucioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:3CrucioEssence>], [<ore:blockRedstone>, <magicalcrops:3CrucioEssence>, <ore:blockRedstone>]]);
+recipes.addShaped(<magicalcrops:EarthSeeds>, [[<RandomThings:fertilizedDirt>, <magicalcrops:2AccioEssence>, <RandomThings:fertilizedDirt>], [<magicalcrops:2AccioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:2AccioEssence>], [<RandomThings:fertilizedDirt>, <magicalcrops:2AccioEssence>, <RandomThings:fertilizedDirt>]]);
+recipes.addShaped(<magicalcrops:CoalSeeds>, [[<minecraft:coal_block>, <magicalcrops:2AccioEssence>, <minecraft:coal_block>], [<magicalcrops:2AccioEssence>, <magicalcrops:MinicioSeeds>, <magicalcrops:2AccioEssence>], [<minecraft:coal_block>, <magicalcrops:2AccioEssence>, <minecraft:coal_block>]]);
+recipes.addShaped(<magicalcrops:MinicioSeeds>, [[<MineFactoryReloaded:fertilizer>, <magicalcrops:1MinicioEssence>, <MineFactoryReloaded:fertilizer>], [<magicalcrops:1MinicioEssence>, <minecraft:wheat_seeds>, <magicalcrops:1MinicioEssence>], [<MineFactoryReloaded:fertilizer>, <magicalcrops:1MinicioEssence>, <MineFactoryReloaded:fertilizer>]]);
+recipes.addShaped(<CarpentersBlocks:blockCarpentersTorch> * 2, [[<MineFactoryReloaded:rubber.bar>], [<CarpentersBlocks:blockCarpentersBlock>]]);
+recipes.addShaped(<CarpentersBlocks:blockCarpentersTorch>, [[<ore:itemRawRubber>], [<CarpentersBlocks:blockCarpentersBlock>]]);
+recipes.addShaped(<appliedenergistics2:tile.BlockGrinder>, [[<minecraft:stone>, <BuildCraft|Core:woodenGearItem>, <minecraft:stone>], [<appliedenergistics2:item.ItemMultiMaterial>, <minecraft:stone>, <appliedenergistics2:item.ItemMultiMaterial>], [<minecraft:cobblestone>, <appliedenergistics2:item.ItemMultiMaterial>, <minecraft:cobblestone>]]);
+recipes.addShaped(<nolpfij_wildycraft:Wildycraft_DenseStone>, [[<ore:compressedCobblestone1x>, <ore:compressedCobblestone1x>], [<ore:compressedCobblestone1x>, <ExtraUtilities:cobblestone_compressed>]]);
+recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:15>, [[<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <minecraft:gold_block>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>]]);
+recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:14>, [[<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <minecraft:diamond_block>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>]]);
+recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:13>, [[<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <minecraft:iron_block>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>]]);
+recipes.addShaped(<appliedenergistics2:item.ItemMultiMaterial:19>, [[<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <EnderIO:itemMaterial>, <magicalcrops:CertusQuartzEssence>], [<magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>, <magicalcrops:CertusQuartzEssence>]]);
+recipes.addShaped(<apples:Apple Wool>, [[<minecraft:wool>, <minecraft:wool:1>, <minecraft:wool:2>], [<minecraft:wool:10>, <ore:listAllfruit>, <minecraft:wool:9>], [<minecraft:wool:15>, <minecraft:wool:14>, <minecraft:wool:13>]]);
+recipes.addShaped(<apples:Cursed Apple>, [[<ExtraUtilities:cursedearthside>, <ExtraUtilities:cursedearthside>, <ExtraUtilities:cursedearthside>], [<ExtraUtilities:cursedearthside>, <ore:listAllfruit>, <ExtraUtilities:cursedearthside>], [<ExtraUtilities:cursedearthside>, <ExtraUtilities:cursedearthside>, <ExtraUtilities:cursedearthside>]]);
+recipes.addShaped(<apples:Candy Apple>, [[<nolpfij_wildycraft:Wildycraft_OreBlock>, <nolpfij_wildycraft:Wildycraft_OreBlock>, <nolpfij_wildycraft:Wildycraft_OreBlock>], [<nolpfij_wildycraft:Wildycraft_OreBlock>, <ore:listAllfruit>, <nolpfij_wildycraft:Wildycraft_OreBlock>], [<nolpfij_wildycraft:Wildycraft_OreBlock>, <nolpfij_wildycraft:Wildycraft_OreBlock>, <nolpfij_wildycraft:Wildycraft_OreBlock>]]);
+recipes.addShaped(<ee:ItemEmpoweredEnderPearl> *3,[[<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>], [<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>], [<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>]]);
+recipes.addShaped(<ee:ItemEmpoweredEnderPearl>,[[<minecraft:ender_pearl>, <minecraft:ender_pearl>, <minecraft:ender_pearl>]]);
+recipes.addShaped(<ee:ItemExtremeEnderPearl> *3,[[<ee:ItemEmpoweredEnderPearl>, <ee:ItemEmpoweredEnderPearl>, <ee:ItemEmpoweredEnderPearl>], [<ee:ItemEmpoweredEnderPearl>, <ee:ItemEmpoweredEnderPearl>, <ee:ItemEmpoweredEnderPearl>], [<ee:ItemEmpoweredEnderPearl>, <ee:ItemEmpoweredEnderPearl>, <ee:ItemEmpoweredEnderPearl>]]);
+recipes.addShaped(<ee:ItemExtremeEnderPearl>,[[<ee:ItemEmpoweredEnderPearl>, <ee:ItemEmpoweredEnderPearl>, <ee:ItemEmpoweredEnderPearl>]]);
+recipes.addShaped(<ee:ItemEnderFruit>,[[<ee:ItemEnderNugget>, <ee:ItemEnderNugget>, <ee:ItemEnderNugget>], [<ee:ItemEnderNugget>, <ee:ItemExtremeEnderPearl>, <ee:ItemEnderNugget>], [<ee:ItemEnderNugget>, <minecraft:bowl>, <ee:ItemEnderNugget>]]);
+recipes.addShaped(<ee:BlockEnderBlock>,[[null, <minecraft:ender_pearl>, null], [<minecraft:ender_pearl>, <minecraft:stained_glass>, <minecraft:ender_pearl>], [null, <minecraft:ender_pearl>, null]]);
+recipes.addShaped(<ee:BlockEmpoweredEnderBlock>,[[null, <ee:ItemEmpoweredEnderPearl>, null], [<ee:ItemEmpoweredEnderPearl>, <ee:BlockEnderBlock>, <ee:ItemEmpoweredEnderPearl>], [null, <ee:ItemEmpoweredEnderPearl>, null]]);
+recipes.addShaped(<ee:BlockExtremeEnderBlock>,[[null, <ee:ItemExtremeEnderPearl>, null], [<ee:ItemExtremeEnderPearl>, <ee:BlockEmpoweredEnderBlock>, <ee:ItemExtremeEnderPearl>], [null, <ee:ItemExtremeEnderPearl>, null]]);
+recipes.addShaped(<ee:ItemLargeEnderHelmet>,[[<ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>], [<ee:BlockEmpoweredEnderBlock>, <ee:ItemEnderHelmet>, <ee:BlockEmpoweredEnderBlock>]]);
+recipes.addShaped(<ee:ItemLargeEnderChestplate>,[[<ee:BlockEmpoweredEnderBlock>, <ee:ItemEnderChestplate>, <ee:BlockEmpoweredEnderBlock>], [<ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>], [<ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>]]);
+recipes.addShaped(<ee:ItemLargeEnderLeggings>,[[<ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>, <ee:BlockEmpoweredEnderBlock>], [<ee:BlockEmpoweredEnderBlock>, <ee:ItemEnderLeggings>, <ee:BlockEmpoweredEnderBlock>], [<ee:BlockEmpoweredEnderBlock>, null, <ee:BlockEmpoweredEnderBlock>]]);
+recipes.addShaped(<ee:ItemLargeEnderBoots>,[[<ee:BlockEmpoweredEnderBlock>, null, <ee:BlockEmpoweredEnderBlock>], [<ee:BlockEmpoweredEnderBlock>, <ee:ItemEnderBoots>, <ee:BlockEmpoweredEnderBlock>]]);
+recipes.addShaped(<ee:ItemExtremeEnderPickaxe>,[[<ee:ItemExtremeEnderPearl>, <ee:ItemExtremeEnderPearl>, <ee:ItemExtremeEnderPearl>], [null, <ee:ItemEnderStick>, null], [null, <ee:ItemEnderStick>, null]]);
+recipes.addShaped(<ee:ItemExtremeEnderAxe>,[[<ee:ItemExtremeEnderPearl>, <ee:ItemExtremeEnderPearl>, <ee:ItemExtremeEnderPearl>], [null, <ee:ItemEnderStick>, null], [null, <ee:ItemEnderStick>, null]]);
+recipes.addShaped(<ee:ItemExtremeEnderShovel>,[[null, <ee:ItemExtremeEnderPearl>, null], [null, <ee:ItemEnderStick>, null], [null, <ee:ItemEnderStick>, null]]);
+recipes.addShaped(<ee:ItemExtremeEnderHoe>,[[<ee:ItemExtremeEnderPearl>, <ee:ItemExtremeEnderPearl>, null], [null, <ee:ItemEnderStick>, null], [null, <ee:ItemEnderStick>, null]]);
+recipes.addShaped(<ee:ItemExtremeEnderSword>,[[null, <ee:ItemExtremeEnderPearl>, null], [null, <ee:ItemExtremeEnderPearl>, null], [null, <ee:ItemEnderStick>, null]]);
+recipes.addShaped(<ee:ItemEnderHelmet>,[[<ee:BlockEnderBlock>, <ee:BlockEnderBlock>, <ee:BlockEnderBlock>], [<ee:BlockEnderBlock>, <ee:ItemSmallEnderHelmet>, <ee:BlockEnderBlock>]]);
+recipes.addShaped(<ee:ItemEnderChestplate>,[[<ee:BlockEnderBlock>, <ee:ItemSmallEnderChestplate>, <ee:BlockEnderBlock>], [<ee:BlockEnderBlock>, <ee:BlockEnderBlock>, <ee:BlockEnderBlock>], [<ee:BlockEnderBlock>, <ee:BlockEnderBlock>, <ee:BlockEnderBlock>]]);
+recipes.addShaped(<ee:ItemEnderLeggings>,[[<ee:BlockEnderBlock>, <ee:BlockEnderBlock>, <ee:BlockEnderBlock>], [<ee:BlockEnderBlock>, <ee:ItemSmallEnderLeggings>, <ee:BlockEnderBlock>], [<ee:BlockEnderBlock>, null, <ee:BlockEnderBlock>]]);
+recipes.addShaped(<ee:ItemEnderBoots>,[[<ee:BlockEnderBlock>, null, <ee:BlockEnderBlock>], [<ee:BlockEnderBlock>, <ee:ItemSmallEnderBoots>, <ee:BlockEnderBlock>]]);
+recipes.addShaped(<ee:ItemExtremeEnderHelmet>,[[<ee:BlockExtremeEnderBlock>, <ee:BlockExtremeEnderBlock>, <ee:BlockExtremeEnderBlock>], [<ee:BlockExtremeEnderBlock>, <ee:ItemLargeEnderHelmet>, <ee:BlockExtremeEnderBlock>]]);
+recipes.addShaped(<ee:ItemExtremeEnderChestplate>,[[<ee:BlockExtremeEnderBlock>, <ee:ItemLargeEnderChestplate>, <ee:BlockExtremeEnderBlock>], [<ee:BlockExtremeEnderBlock>, <ee:BlockExtremeEnderBlock>, <ee:BlockExtremeEnderBlock>], [<ee:BlockExtremeEnderBlock>, <ee:BlockExtremeEnderBlock>, <ee:BlockExtremeEnderBlock>]]);
+recipes.addShaped(<ee:ItemExtremeEnderLeggings>,[[<ee:BlockExtremeEnderBlock>, <ee:BlockExtremeEnderBlock>, <ee:BlockExtremeEnderBlock>], [<ee:BlockExtremeEnderBlock>, <ee:ItemLargeEnderLeggings>, <ee:BlockExtremeEnderBlock>], [<ee:BlockExtremeEnderBlock>, null, <ee:BlockExtremeEnderBlock>]]);
+recipes.addShaped(<ee:ItemExtremeEnderBoots>,[[<ee:BlockExtremeEnderBlock>, null, <ee:BlockExtremeEnderBlock>], [<ee:BlockExtremeEnderBlock>, <ee:ItemLargeEnderBoots>, <ee:BlockExtremeEnderBlock>]]);
+// ================================================================================
+//#FURNACE
+// ================================================================================
+furnace.setFuel(<ore:listAllseed>, 20);
+furnace.setFuel(<minecraft:string>, 20);
+furnace.setFuel(<minecraft:wooden_button>, 40);
+furnace.setFuel(<ore:cropWheat>, 40);
+furnace.setFuel(<minecraft:map>, 40);
+furnace.setFuel(<minecraft:filled_map>, 40);
+furnace.setFuel(<minecraft:paper>, 40);
+furnace.setFuel(<minecraft:book>, 80);
+furnace.setFuel(<minecraft:painting>, 80);
+furnace.setFuel(<minecraft:bowl>, 80);
+furnace.setFuel(<minecraft:wool>, 100);
+furnace.setFuel(<minecraft:torch>, 100);
+furnace.setFuel(<minecraft:redstone_torch>, 100);
+furnace.setFuel(<ore:treeLeaves>, 100);
+furnace.setFuel(<minecraft:wooden_pressure_plate>, 100);
+furnace.setFuel(<minecraft:sign>, 100);
+furnace.setFuel(<minecraft:wooden_door>, 200);
+furnace.setFuel(<ore:stairWood>, 200);
+furnace.setFuel(<EnderIO:itemPowderIngot>, 200);
+furnace.setFuel(<minecraft:boat>, 300);
+furnace.setFuel(<minecraft:bed>, 300);
+furnace.setFuel(<minecraft:hay_block>, 300);
+furnace.setFuel(<minecraft:netherrack>, 800);
+furnace.setFuel(<minecraft:blaze_powder>, 1200);
+// ================================================================================
+//#EXNIHILO
+// ================================================================================
+//#REMOVED
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <minecraft:flint>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:gravel>, <minecraft:coal>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:stone>, <TConstruct:ore.berries.one:8>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:stone>, <TConstruct:ore.berries.one:9>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:stone>, <TConstruct:ore.berries.one:10>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:stone>, <TConstruct:ore.berries.one:11>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:stone>, <TConstruct:ore.berries.two:8>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:stone>, <TConstruct:ore.berries.two:9>);
+mods.exnihilo.Sieve.removeRecipe(<minecraft:sand>, <BigReactors:BRIngot:4>);
+//#ADDED
+mods.exnihilo.Sieve.addRecipe(<exnihilo:dust>, <EnderIO:itemPowderIngot>, 3);
+mods.exnihilo.Sieve.addRecipe(<minecraft:gravel>, <TConstruct:toolShard:3>, 4);
+mods.exnihilo.Sieve.addRecipe(<minecraft:sand>, <minecraft:bone>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:soul_sand>, <minecraft:bone>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:soul_sand>, <minecraft:brown_mushroom>, 10);
+mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_ender>, <RandomThings:ingredient:2>, 20);
+mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_ender>, <ExtraUtilities:plant/ender_lilly>, 20);
+mods.exnihilo.Sieve.addRecipe(<exnihilo:exnihilo.gravel_ender>, <ThermalFoundation:material:108>, 20);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <MineFactoryReloaded:fertilizer>, 5);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <BigReactors:BRIngot:4>, 6);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <BigReactors:BRIngot:5>, 6);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <BigReactors:BRIngot:6>, 6);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <BigReactors:BRIngot:7>, 6);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <BigReactors:BRIngot:9>, 6);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <minecraft:dye:15>, 3);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <minecraft:rotten_flesh>, 4);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <minecraft:red_mushroom>, 10);
+mods.exnihilo.Sieve.addRecipe(<MineFactoryReloaded:farmland>, <exnihilo:stone>, 2);
+mods.exnihilo.Sieve.addRecipe(<TConstruct:slime.leaves>, <TConstruct:slime.sapling>, 2);
+mods.exnihilo.Sieve.addRecipe(<TConstruct:slime.gel:1>, <minecraft:slime_ball>, 5);
+mods.exnihilo.Sieve.addRecipe(<TConstruct:slime.leaves>, <TConstruct:strangeFood>, 5);
+mods.exnihilo.Crucible.addRecipe(<minecraft:stone_slab:3>, <liquid:lava>);
+mods.exnihilo.Crucible.addRecipe(<minecraft:leaves>, <liquid:water> * 100);
+mods.exnihilo.Crucible.addRecipe(<minecraft:leaves:1>, <liquid:water> * 100);
+mods.exnihilo.Crucible.addRecipe(<minecraft:leaves:2>, <liquid:water> * 100);
+mods.exnihilo.Crucible.addRecipe(<minecraft:leaves:3>, <liquid:water> * 100);
+mods.exnihilo.Crucible.addRecipe(<minecraft:coal_block>, <liquid:coal> * 100);
+mods.exnihilo.Composting.addRecipe(<minecraft:stick>, 0.032);
+mods.exnihilo.Composting.addRecipe(<nolpfij_wildycraft:Fishing Bait>, 0.016);
+mods.exnihilo.Composting.addRecipe(<minecraft:skull>, 0.125);
+mods.exnihilo.Composting.addRecipe(<minecraft:skull:1>, 0.125);
+mods.exnihilo.Composting.addRecipe(<minecraft:skull:2>, 0.125);
+mods.exnihilo.Composting.addRecipe(<minecraft:skull:3>, 0.125);
+mods.exnihilo.Composting.addRecipe(<minecraft:skull:4>, 0.125);
+mods.exnihilo.Composting.addRecipe(<TConstruct:slime.leaves>, 0.125);
+mods.exnihilo.Composting.addRecipe(<minecraft:wheat_seeds>, 0.016);
+mods.exnihilo.Composting.addRecipe(<minecraft:dye:15>, 0.032);
+mods.exnihilo.Composting.addRecipe(<minecraft:bone>, 0.032);
+mods.exnihilo.Composting.addRecipe(<minecraft:pumpkin_seeds>, 0.016);
+mods.exnihilo.Composting.addRecipe(<minecraft:melon_seeds>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_oak>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_acacia>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_spruce>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_birch>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_jungle>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_cactus>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_sugar_cane>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_carrot>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_potato>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_rubber>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:blackberryseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:blueberryseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:candleberryseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:raspberryseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:strawberryseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:cactusfruitseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:asparagusseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:barleyseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:oatsseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:ryeseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:cornseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:bambooshootseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:cantaloupeseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:cucumberseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:wintersquashseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:zucchiniseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:beetseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:onionseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:parsnipseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:peanutseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:radishseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:rutabagaseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:sweetpotatoseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:turnipseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:rhubarbseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:celeryseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:garlicseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:gingerseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:spiceleafseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:teaseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:coffeeseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:mustardseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:broccoliseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:cauliflowerseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:leekseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:lettuceseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:scallionseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:artichokeseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:brusselsproutseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:cabbageseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:whitemushroomseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:beanseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:soybeanseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:bellpepperseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:chilipepperseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:eggplantseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:okraseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:peasseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:tomatoseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:cottonseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:pineappleseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:grapeseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:kiwiseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:cranberryseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:riceseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:seaweedseedItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<ExtraUtilities:plant/ender_lilly>, 0.016);
+mods.exnihilo.Composting.addRecipe(<exnihilo:seed_grass>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:pammustardseedsCrop>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:sunflowerseedsItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:mustardseedsItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:roastedpumpkinseedsItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<harvestcraft:saltedsunflowerseedsItem>, 0.016);
+mods.exnihilo.Composting.addRecipe(<nolpfij_wildycraft:Treasure Trail>, 0.125);
+// Leaves Sieve Drops
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <minecraft:sapling>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <minecraft:sapling:1>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <minecraft:sapling:2>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <minecraft:sapling:4>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <minecraft:sapling:5>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <minecraft:stick>, 1);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <minecraft:apple>, 2);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <minecraft:sapling>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <minecraft:sapling:1>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <minecraft:sapling:2>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <minecraft:sapling:3>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <minecraft:stick>, 2);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <minecraft:apple>, 2);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <minecraft:sapling>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <minecraft:sapling:1>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <minecraft:sapling:2>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <minecraft:stick>, 2);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <minecraft:apple>, 2);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <minecraft:sapling>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <minecraft:sapling:1>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <minecraft:sapling:2>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <minecraft:sapling:3>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <minecraft:stick>, 2);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <minecraft:dye:3>, 2);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2>, <minecraft:sapling>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2>, <minecraft:sapling:4>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2>, <minecraft:sapling:5>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2>, <minecraft:stick>, 1);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <minecraft:sapling>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <minecraft:sapling:4>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <minecraft:sapling:5>, 5);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <minecraft:stick>, 2);
+// Pams Saplings Sieve Drops
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <harvestcraft:pamchestnutSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <harvestcraft:pamappleSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <harvestcraft:pamcherrySapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <harvestcraft:pamwalnutSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <harvestcraft:pamavocadoSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <harvestcraft:pamnutmegSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <harvestcraft:pamplumSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <harvestcraft:pampearSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves>, <harvestcraft:pamgooseberrySapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <harvestcraft:pammapleSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <harvestcraft:pampapayaSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <harvestcraft:pampaperbarkSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <harvestcraft:pampeachSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:1>, <harvestcraft:pampecanSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <harvestcraft:pampeppercornSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <harvestcraft:pampersimmonSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <harvestcraft:pampistachioSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <harvestcraft:pampomegranateSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <harvestcraft:pamstarfruitSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:2>, <harvestcraft:pamvanillabeanSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <harvestcraft:pamchestnutSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <harvestcraft:pamappleSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <harvestcraft:pamcherrySapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <harvestcraft:pamwalnutSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <harvestcraft:pamavocadoSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <harvestcraft:pamnutmegSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <harvestcraft:pamplumSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves2:1>, <harvestcraft:pampearSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamlemonSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pambananaSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamalmondSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamapricotSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamcashewSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamcinnamonSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamcoconutSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamdateSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamdragonfruitSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamdurianSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamfigSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamgrapefruitSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamlimeSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pammangoSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamoliveSapling>, 10);
+mods.exnihilo.Sieve.addRecipe(<minecraft:leaves:3>, <harvestcraft:pamorangeSapling>, 10);
+// ================================================================================
+// BUILDCRAFT
+// ================================================================================
+mods.buildcraft.AssemblyTable.addRecipe(<powersuits:tile.luxCapacitor>, 1000000, [<EnderIO:itemBasicCapacitor:2>, <ThermalExpansion:Plate> * 7, <MineFactoryReloaded:upgrade.logic:2>]);
+mods.buildcraft.AssemblyTable.addRecipe(<MineFactoryReloaded:upgrade.logic>, 1200000, [<MineFactoryReloaded:plastic.sheet> * 4, <BuildCraft|Silicon:redstoneChipset:2> * 4, <LogisticsPipes:item.itemUpgrade:30>]);
+mods.buildcraft.AssemblyTable.addRecipe(<MineFactoryReloaded:upgrade.logic:1>, 1200000, [<MineFactoryReloaded:plastic.sheet> * 3, <BuildCraft|Silicon:redstoneChipset:2> * 3, <MineFactoryReloaded:upgrade.logic>]);
+mods.buildcraft.AssemblyTable.addRecipe(<MineFactoryReloaded:upgrade.logic:2>, 1200000, [<MineFactoryReloaded:plastic.sheet>, <BuildCraft|Silicon:redstoneChipset:2> * 2, <MineFactoryReloaded:upgrade.logic:1>, <BuildCraft|Silicon:redstoneChipset:3> * 3]);
+mods.buildcraft.AssemblyTable.addRecipe(<powersuits:item.powerArmorChestplate>, 2500000, [<powersuits:tile.luxCapacitor>, <appliedenergistics2:item.ItemMultiMaterial:31> * 2, <EnderIO:itemAlloy> * 6, <powersuits:powerArmorComponent:9> * 4]);
+mods.buildcraft.AssemblyTable.addRecipe(<powersuits:item.powerArmorHelmet>, 2500000, [<powersuits:tile.luxCapacitor>, <appliedenergistics2:item.ItemMultiMaterial:31>, <EnderIO:itemAlloy> * 5, <powersuits:powerArmorComponent:9> * 2]);
+mods.buildcraft.AssemblyTable.addRecipe(<powersuits:item.powerArmorLeggings>, 2500000, [<powersuits:tile.luxCapacitor>, <appliedenergistics2:item.ItemMultiMaterial:31> * 2, <EnderIO:itemAlloy> * 2, <powersuits:powerArmorComponent:9> * 4]);
+mods.buildcraft.AssemblyTable.addRecipe(<powersuits:item.powerArmorBoots>, 2500000, [<powersuits:tile.luxCapacitor>, <appliedenergistics2:item.ItemMultiMaterial:31>, <EnderIO:itemAlloy> * 2, <powersuits:powerArmorComponent:9> * 4]);
+mods.buildcraft.AssemblyTable.addRecipe(<powersuits:item.powerFist>, 2500000, [<EnderIO:itemAlloy> * 2, <BuildCraft|Silicon:redstoneChipset:2> * 2, <MineFactoryReloaded:upgrade.logic:2>, <BuildCraft|Silicon:redstoneChipset:3>, <powersuits:powerArmorComponent> * 5]);
+mods.buildcraft.AssemblyTable.addRecipe(<essentialcraft:magicalWings>, 5000000, [<essentialcraft:genItem:34>, <essentialcraft:aFocus>, <essentialcraft:aFocus>, <essentialcraft:genItem:54>, <minecraft:feather>, <ironbackpacks:jeweledFeather>, <essentialcraft:storage:3>, <essentialcraft:storage:3>, <essentialcraft:storage:3>, <essentialcraft:storage:3>, <xreliquary:angelic_feather>, <xreliquary:phoenix_down>]);
+mods.buildcraft.AssemblyTable.addRecipe(<ProjectE:item.pe_swrg>, 5000000, [<ProjectE:matter_block:1>, <ProjectE:matter_block:1>, <ProjectE:matter_block:1>, <ProjectE:matter_block:1>, <minecraft:feather>, <ironbackpacks:jeweledFeather>, <essentialcraft:storage:3>, <essentialcraft:storage:3>, <essentialcraft:storage:3>, <essentialcraft:storage:3>, <xreliquary:angelic_feather>, <xreliquary:phoenix_down>]);
+
+//mods.buildcraft.AssemblyTable.addRecipe(<simplyjetpacks:components:11>, 2500000, [<ore:ingotLead>, <ThermalExpansion:material:1>, <ore:ingotLead>, <ThermalDynamics:ThermalDynamics_0>, <ThermalExpansion:Dynamo>, <ThermalDynamics:ThermalDynamics_0>, <ore:ingotLead>, <minecraft:redstone>, <ore:ingotLead>]);
+//mods.buildcraft.AssemblyTable.addRecipe(<simplyjetpacks:components:12>, 2500000, [<ThermalFoundation:material:72>, <ThermalExpansion:material:1>, <ThermalFoundation:material:72>, <ThermalDynamics:ThermalDynamics_0:1>, <ThermalExpansion:Dynamo:3>, <ThermalDynamics:ThermalDynamics_0:1>, <ThermalFoundation:material:72>, <minecraft:redstone>, <ThermalFoundation:material:72>]);
+//mods.buildcraft.AssemblyTable.addRecipe(<simplyjetpacks:components:13>, 2500000, [<ThermalFoundation:material:71>, <ThermalExpansion:material:1>, <ThermalFoundation:material:71>, <ThermalDynamics:ThermalDynamics_0:2>, <ThermalExpansion:Dynamo:1>, <ThermalDynamics:ThermalDynamics_0:2>, <ThermalFoundation:material:71>, <ThermalFoundation:bucket>, <ThermalFoundation:material:71>]);
+//mods.buildcraft.AssemblyTable.addRecipe(<simplyjetpacks:components:14>, 2500000, [<ThermalFoundation:material:76>, <ThermalExpansion:material:1>, <ThermalFoundation:material:76>, <ThermalDynamics:ThermalDynamics_0:4>, <ThermalExpansion:Dynamo:4>, <ThermalDynamics:ThermalDynamics_0:4>, <ThermalFoundation:material:76>, <ThermalFoundation:bucket>, <ThermalFoundation:material:76>]);
+//mods.buildcraft.AssemblyTable.addRecipe(<simplyjetpacks:components:15>, 2500000, [<simplyjetpacks:components:65>, <simplyjetpacks:components:68>, <simplyjetpacks:components:65>, <simplyjetpacks:components:61>, <simplyjetpacks:components:14>, <simplyjetpacks:components:61>, <simplyjetpacks:components:65>, <simplyjetpacks:components:68>, <simplyjetpacks:components:65>]);
+
+mods.buildcraft.AssemblyTable.addRecipe(<simplyjetpacks:components:31>, 2500000, [<minecraft:iron_ingot> * 4, <ore:gearIron>, <BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone> * 2, <minecraft:iron_bars>, <BuildCraft|Core:engineBlock:2>]);
+mods.buildcraft.AssemblyTable.addRecipe(<simplyjetpacks:jetpacksBC:2>, 2000000, [<ThermalFoundation:material:71> * 4, <BuildCraft|Silicon:redstoneCrystal> * 4, <simplyjetpacks:jetpacksBC:1>, <simplyjetpacks:components:32>, <simplyjetpacks:components:32>]);
+mods.buildcraft.AssemblyTable.addRecipe(<BuildCraft|Silicon:redstoneCrystal>, 1600000, [<minecraft:diamond> * 8, <minecraft:redstone_block> * 2]);
+
+// ================================================================================
+// TINKERS
+// ================================================================================
+
+
+

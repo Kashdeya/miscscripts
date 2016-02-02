@@ -1,0 +1,2 @@
+recipes.removeShaped(<chisel:warningSign> * 4, [[<ore:stone>, <minecraft:stone>, <ore:stone>], [<ore:stone>, <minecraft:sign>, <ore:stone>], [<ore:stone>, <minecraft:stone>, <ore:stone>]]);
+recipes.addShapeless(<chisel:warningSign> * 4, [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>, <minecraft:stone>, <MoarSigns:MoarSignsItem>, <minecraft:stone>, <minecraft:stone>, <minecraft:stone>, <minecraft:stone>]);
