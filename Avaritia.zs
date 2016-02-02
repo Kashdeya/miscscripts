@@ -1,0 +1,3 @@
+
+
+mods.avaritia.ExtremeCrafting.addShaped(<minecraft:wooden_hoe>, [[null, <ore:plankWood>, null, null, null, null, null, null, null], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>, <ore:plankWood>, <ore:plankWood>, null, null, null, null], [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>, <ore:plankWood>, null, null, null, null, null], [null, <ore:plankWood>, <ore:stickWood>, null, null, null, null, null, null], [null, null, <ore:stickWood>, null, null, null, null, null, null], [null, null, <ore:stickWood>, null, null, null, null, null, null], [null, null, <ore:stickWood>, null, null, null, null, null, null], [null, null, <ore:stickWood>, null, null, null, null, null, null], [null, null, <ore:stickWood>, null, null, null, null, null, null]]);
