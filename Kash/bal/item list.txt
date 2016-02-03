@@ -1,0 +1,3244 @@
+INFO: Adding command minetweaker
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command ae2
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command exnihilo
+INFO: Adding minetweaker command mfr
+INFO: [ModTweaker2] Adding 1 ExNihilo Sieve Recipe(s) for <exnihilo:dust> (1 entries)
+INFO: [ModTweaker2] Adding 1 PneumaticCraft Pressure Chamber Recipe(s) for <minecraft:gravel>
+INFO: [ModTweaker2] Adding 1 PneumaticCraft Pressure Chamber Recipe(s) for <exnihilo:dust>
+INFO: Adding minetweaker command tooltips
+INFO: Adding minetweaker command entities
+INFO: Adding minetweaker command ae2
+INFO: Adding minetweaker command materials
+INFO: Adding minetweaker command tconstruct
+INFO: Adding minetweaker command lexiconCategories
+INFO: Adding minetweaker command lexiconPages
+INFO: Adding minetweaker command botaniaBrews
+INFO: Adding minetweaker command lexiconKnowledgeTypes
+INFO: Adding minetweaker command botaniaOrechid
+INFO: Adding minetweaker command botania
+INFO: Adding minetweaker command chiselGroups
+INFO: Adding minetweaker command chiselVariations
+INFO: Adding minetweaker command exnihilo
+<AWWayofTime:AlchemicalWizardrybloodRune>, Blood Rune
+<AWWayofTime:AlchemicalWizardrytile.blockSpellEffect>, Crucible of Fire
+<AWWayofTime:AlchemicalWizardrytile.blockSpellEnhancement>, Unstable Spell Empowerer
+<AWWayofTime:AlchemicalWizardrytile.blockSpellModifier>, Default Spell Modifier
+<AWWayofTime:AlchemicalWizardrytile.blockSpellParadigm>, Particle Generator
+<AWWayofTime:Altar>, Blood Altar
+<AWWayofTime:activationCrystal>, Weak Activation Crystal
+<AWWayofTime:aether>, Aether
+<AWWayofTime:airScribeTool>, Elemental Inscription Tool: Air
+<AWWayofTime:airSigil>, Air Sigil
+<AWWayofTime:alchemyFlask>, Potion Flask
+<AWWayofTime:apprenticeBloodOrb>, Apprentice Blood Orb
+<AWWayofTime:aquasalus>, Aquasalus
+<AWWayofTime:archmageBloodOrb>, Archmage's Blood Orb
+<AWWayofTime:armourForge>, Soul Armour Forge
+<AWWayofTime:armourInhibitor>, Armour Inhibitor
+<AWWayofTime:averageLengtheningCatalyst>, Average Lengthening Catalyst
+<AWWayofTime:averagePowerCatalyst>, Average Power Catalyst
+<AWWayofTime:blankSlate>, Blank Slate
+<AWWayofTime:blankSpell>, Unbound Crystal
+<AWWayofTime:blockAlchemicCalcinator>, Alchemic Calcinator
+<AWWayofTime:blockConduit>, Spell Conduit
+<AWWayofTime:blockCrucible>, Incense Crucible
+<AWWayofTime:blockCrystal>, Crystal Cluster
+<AWWayofTime:blockCrystalBelljar>, Crystal Belljar
+<AWWayofTime:blockDemonChest>, Demon's Chest
+<AWWayofTime:blockEnchantmentGlyph>, Glyph of the Adept Enchanter
+<AWWayofTime:blockHomHeart>, Spell Table
+<AWWayofTime:blockMimic>, Mimic Block
+<AWWayofTime:blockPedestal>, Arcane Pedestal
+<AWWayofTime:blockPlinth>, Arcane Plinth
+<AWWayofTime:blockReagentConduit>, Alchemy Relay
+<AWWayofTime:blockSchemSaver>, Schematic Saver
+<AWWayofTime:blockStabilityGlyph>, Glyph of Rigid Stability
+<AWWayofTime:blockTeleposer>, Teleposer
+<AWWayofTime:blockWritingTable>, Alchemic Chemistry Set
+<AWWayofTime:bloodLight>, Blood Light
+<AWWayofTime:bloodMagicBaseAlchemyItems>, Offensa
+<AWWayofTime:bloodMagicBaseItems>, Quartz Rod
+<AWWayofTime:bloodMagicIncenseItem>, Wood Ash
+<AWWayofTime:bloodSocket>, Filled Socket
+<AWWayofTime:bloodStoneBrick>, Bloodstone Brick
+<AWWayofTime:boundAxe>, Bound Axe
+<AWWayofTime:boundBoots>, Bound Boots
+<AWWayofTime:boundBootsEarth>, Earth Omega Boots
+<AWWayofTime:boundBootsFire>, Fire Omega Boots
+<AWWayofTime:boundBootsWater>, Water Omega Boots
+<AWWayofTime:boundBootsWind>, Wind Omega Boots
+<AWWayofTime:boundHelmet>, Bound Helmet
+<AWWayofTime:boundHelmetEarth>, Earth Omega Helmet
+<AWWayofTime:boundHelmetFire>, Fire Omega Helmet
+<AWWayofTime:boundHelmetWater>, Water Omega Helmet
+<AWWayofTime:boundHelmetWind>, Wind Omega Helmet
+<AWWayofTime:boundLeggings>, Bound Leggings
+<AWWayofTime:boundLeggingsEarth>, Earth Omega Leggings
+<AWWayofTime:boundLeggingsFire>, Fire Omega Leggings
+<AWWayofTime:boundLeggingsWater>, Water Omega Leggings
+<AWWayofTime:boundLeggingsWind>, Wind Omega Leggings
+<AWWayofTime:boundPickaxe>, Bound Pickaxe
+<AWWayofTime:boundPlate>, Bound Plate
+<AWWayofTime:boundPlateEarth>, Earth Omega Plate
+<AWWayofTime:boundPlateFire>, Fire Omega Plate
+<AWWayofTime:boundPlateWater>, Water Omega Plate
+<AWWayofTime:boundPlateWind>, Wind Omega Plate
+<AWWayofTime:boundShovel>, Bound Shovel
+<AWWayofTime:bucketLife>, Bucket of Life
+<AWWayofTime:creativeDagger>, Creative Sacrificial Knife
+<AWWayofTime:creativeFiller>, Orb of Testing
+<AWWayofTime:crepitous>, Crepitous
+<AWWayofTime:crystallos>, Crystallos
+<AWWayofTime:customTool>, Dynamic Mace
+<AWWayofTime:daggerOfSacrifice>, Dagger of Sacrifice
+<AWWayofTime:dawnScribeTool>, Elemental Inscription Tool: Dawn
+<AWWayofTime:demonBloodShard>, Demon Blood Shard
+<AWWayofTime:demonPlacer>, Demon Crystal
+<AWWayofTime:demonPortalMain>, Demon Portal
+<AWWayofTime:demonicSlate>, Demonic Slate
+<AWWayofTime:demonicTelepositionFocus>, Demonic Teleposition Focus
+<AWWayofTime:divinationSigil>, Divination Sigil
+<AWWayofTime:duskScribeTool>, Elemental Inscription Tool: Dusk
+<AWWayofTime:earthScribeTool>, Elemental Inscription Tool: Earth
+<AWWayofTime:efficiencyRune>, Efficiency Rune
+<AWWayofTime:emptySocket>, Empty Socket
+<AWWayofTime:energyBazooka>, Energy Bazooka
+<AWWayofTime:energyBlaster>, Energy Blaster
+<AWWayofTime:energySword>, Bound Blade
+<AWWayofTime:enhancedFillingAgent>, Enhanced Filling Agent
+<AWWayofTime:enhancedTelepositionFocus>, Enhanced Teleposition Focus
+<AWWayofTime:fireScribeTool>, Elemental Inscription Tool: Fire
+<AWWayofTime:fluidSigil>, 
+<AWWayofTime:greaterLengtheningCatalyst>, Greater Lengthening Catalyst
+<AWWayofTime:greaterPowerCatalyst>, Greater Power Catalyst
+<AWWayofTime:growthSigil>, Sigil of the Green Grove
+<AWWayofTime:imbuedSlate>, Imbued Slate
+<AWWayofTime:imperfectRitualStone>, Imperfect Ritual Stone
+<AWWayofTime:incendium>, Incendium
+<AWWayofTime:inputRoutingFocus>, Input Routing Focus
+<AWWayofTime:itemAssassinSigil>, Sigil of the Assassin
+<AWWayofTime:itemAttunedCrystal>, Alchemic Router
+<AWWayofTime:itemBloodLightSigil>, Sigil of the Blood Lamp
+<AWWayofTime:itemBloodPack>, Blood Letter's Pack
+<AWWayofTime:itemCombinationalCatalyst>, Combinational Catalyst
+<AWWayofTime:itemComplexSpellCrystal>, Complex Spell Crystal
+<AWWayofTime:itemCompressionSigil>, Sigil of Compression
+<AWWayofTime:itemDestinationClearer>, Alchemic Cleanser
+<AWWayofTime:itemHarvestSigil>, Harvest Goddess Sigil
+<AWWayofTime:itemKeyOfDiablo>, Key of Binding
+<AWWayofTime:itemRitualDiviner>, Ritual Diviner
+<AWWayofTime:itemTankSegmenter>, Alchemic Segmenter
+<AWWayofTime:largeBloodStoneBrick>, Large Bloodstone Brick
+<AWWayofTime:lavaCrystal>, Lava Crystal
+<AWWayofTime:lavaSigil>, Lava Sigil
+<AWWayofTime:lifeEssence>, Life Essence
+<AWWayofTime:magicales>, Magicales
+<AWWayofTime:magicianBloodOrb>, Magician's Blood Orb
+<AWWayofTime:masterBloodOrb>, Master Blood Orb
+<AWWayofTime:masterStone>, Master Ritual Stone
+<AWWayofTime:mundaneLengtheningCatalyst>, Mundane Lengthening Catalyst
+<AWWayofTime:mundanePowerCatalyst>, Mundane Power Catalyst
+<AWWayofTime:outputRoutingFocus>, Default Output Routing Focus
+<AWWayofTime:reinforcedSlate>, Reinforced Slate
+<AWWayofTime:reinforcedTelepositionFocus>, Reinforced Teleposition Focus
+<AWWayofTime:ritualDismantler>, Ritual Dismantler
+<AWWayofTime:ritualStone>, Ritual Stone
+<AWWayofTime:runeOfSacrifice>, Rune of Sacrifice
+<AWWayofTime:runeOfSelfSacrifice>, Rune of Self-Sacrifice
+<AWWayofTime:sacrificialKnife>, Sacrificial Orb
+<AWWayofTime:sanctus>, Sanctus
+<AWWayofTime:seerSigil>, Sigil of Sight
+<AWWayofTime:sigilOfElementalAffinity>, Sigil of Elemental Affinity
+<AWWayofTime:sigilOfEnderSeverance>, Sigil of Ender Severance
+<AWWayofTime:sigilOfHaste>, Sigil of Haste
+<AWWayofTime:sigilOfHolding>, Sigil of Holding
+<AWWayofTime:sigilOfMagnetism>, Sigil of Magnetism
+<AWWayofTime:sigilOfSupression>, Sigil of Supression
+<AWWayofTime:sigilOfTheBridge>, Sigil of the Phantom Bridge
+<AWWayofTime:sigilOfTheFastMiner>, Sigil of the Fast Miner
+<AWWayofTime:sigilOfWind>, Sigil of the Whirlwind
+<AWWayofTime:simpleCatalyst>, Simple Catalyst
+<AWWayofTime:spectralBlock>, Spectral Block
+<AWWayofTime:spectralContainer>, Spectral Container
+<AWWayofTime:speedRune>, Speed Rune
+<AWWayofTime:standardBindingAgent>, Standard Binding Agent
+<AWWayofTime:standardFillingAgent>, Standard Filling Agent
+<AWWayofTime:telepositionFocus>, Teleposition Focus
+<AWWayofTime:tennebrae>, Tenebrae
+<AWWayofTime:terrae>, Terrae
+<AWWayofTime:transcendentBloodOrb>, Transcendent Blood Orb
+<AWWayofTime:voidSigil>, Void Sigil
+<AWWayofTime:waterScribeTool>, Elemental Inscription Tool: Water
+<AWWayofTime:waterSigil>, Water Sigil
+<AWWayofTime:weakBindingAgent>, Weak Binding Agent
+<AWWayofTime:weakBloodOrb>, Weak Blood Orb
+<AWWayofTime:weakBloodShard>, Weak Blood Shard
+<AWWayofTime:weakFillingAgent>, Weak Filling Agent
+<AgriCraft:channelValve>, Wooden Channel Valve
+<AgriCraft:cropAllium>, Allium
+<AgriCraft:cropAurigold>, Aurigold
+<AgriCraft:cropBotaniaBlack>, Mystical Black Flower
+<AgriCraft:cropBotaniaBlue>, Mystical Blue Flower
+<AgriCraft:cropBotaniaBrown>, Mystical Brown Flower
+<AgriCraft:cropBotaniaCyan>, Mystical Cyan Flower
+<AgriCraft:cropBotaniaGray>, Mystical Gray Flower
+<AgriCraft:cropBotaniaGreen>, Mystical Green Flower
+<AgriCraft:cropBotaniaLightBlue>, Mystical Light Blue Flower
+<AgriCraft:cropBotaniaLightGray>, Mystical Light Gray Flower
+<AgriCraft:cropBotaniaLime>, Mystical Lime Flower
+<AgriCraft:cropBotaniaMagenta>, Mystical Magenta Flower
+<AgriCraft:cropBotaniaOrange>, Mystical Orange Flower
+<AgriCraft:cropBotaniaPink>, Mystical Pink Flower
+<AgriCraft:cropBotaniaPurple>, Mystical Purple Flower
+<AgriCraft:cropBotaniaRed>, Mystical Red Flower
+<AgriCraft:cropBotaniaWhite>, Mystical White Flower
+<AgriCraft:cropBotaniaYellow>, Mystical Yellow Flower
+<AgriCraft:cropCactus>, Cactus
+<AgriCraft:cropCarrot>, Carrot
+<AgriCraft:cropCuprosia>, Cuprosia
+<AgriCraft:cropDaisy>, Daisy
+<AgriCraft:cropDandelion>, Dandelion
+<AgriCraft:cropDiamahlia>, Diamahlia
+<AgriCraft:cropEmeryllis>, Emeryllis
+<AgriCraft:cropFerranium>, Ferranium
+<AgriCraft:cropJaslumine>, Jaslumine
+<AgriCraft:cropLapender>, Lapender
+<AgriCraft:cropMelon>, Melon
+<AgriCraft:cropNiccissus>, Niccissus
+<AgriCraft:cropNitorWart>, Nitor Wart
+<AgriCraft:cropOrchid>, Orchid
+<AgriCraft:cropPetinia>, Petinia
+<AgriCraft:cropPlatiolus>, Platiolus
+<AgriCraft:cropPlombean>, Plombean
+<AgriCraft:cropPoppy>, Poppy
+<AgriCraft:cropPotato>, Potato
+<AgriCraft:cropPumpkin>, Pumpkin
+<AgriCraft:cropRedstodendron>, Redstodendron
+<AgriCraft:cropShroomBrown>, Brown Mushroom
+<AgriCraft:cropShroomRed>, Red Mushroom
+<AgriCraft:cropSilverweed>, Silverweed
+<AgriCraft:cropSugarcane>, Sugarcane
+<AgriCraft:cropTulipOrange>, Orange Tulip
+<AgriCraft:cropTulipPink>, Pink Tulip
+<AgriCraft:cropTulipRed>, Red Tulip
+<AgriCraft:cropTulipWhite>, White Tulip
+<AgriCraft:crops>, Crops
+<AgriCraft:cropsItem>, crops
+<AgriCraft:debugger>, Debugger
+<AgriCraft:journal>, Agricultural Journal
+<AgriCraft:magnifyingGlass>, Magnifying Glass
+<AgriCraft:nuggetDiamond>, Diamond Nugget
+<AgriCraft:nuggetEmerald>, Emerald Nugget
+<AgriCraft:nuggetPlatinum>, Platinum Nugget
+<AgriCraft:seedAllium>, Allium Seeds
+<AgriCraft:seedAnalyzer>, Seed Analyzer
+<AgriCraft:seedAurigold>, Aurigold Seeds
+<AgriCraft:seedBotaniaBlack>, Mystical Black Flower Seeds
+<AgriCraft:seedBotaniaBlue>, Mystical Blue Flower Seeds
+<AgriCraft:seedBotaniaBrown>, Mystical Brown Flower Seeds
+<AgriCraft:seedBotaniaCyan>, Mystical Cyan Flower Seeds
+<AgriCraft:seedBotaniaGray>, Mystical Gray Flower Seeds
+<AgriCraft:seedBotaniaGreen>, Mystical Green Flower Seeds
+<AgriCraft:seedBotaniaLightBlue>, Mystical Light Blue Flower Seeds
+<AgriCraft:seedBotaniaLightGray>, Mystical Light Gray Flower Seeds
+<AgriCraft:seedBotaniaLime>, Mystical Lime Flower Seeds
+<AgriCraft:seedBotaniaMagenta>, Mystical Magenta Flower Seeds
+<AgriCraft:seedBotaniaOrange>, Mystical Orange Flower Seeds
+<AgriCraft:seedBotaniaPink>, Mystical Pink Flower Seeds
+<AgriCraft:seedBotaniaPurple>, Mystical Purple Flower Seeds
+<AgriCraft:seedBotaniaRed>, Mystical Red Flower Seeds
+<AgriCraft:seedBotaniaWhite>, Mystical White Flower Seeds
+<AgriCraft:seedBotaniaYellow>, Mystical Yellow Flower Seeds
+<AgriCraft:seedCactus>, Cactus Seeds
+<AgriCraft:seedCarrot>, Carrot Seeds
+<AgriCraft:seedCuprosia>, Cuprosia Seeds
+<AgriCraft:seedDaisy>, Daisy Seeds
+<AgriCraft:seedDandelion>, Dandelion Seeds
+<AgriCraft:seedDiamahlia>, Diamahlia Seeds
+<AgriCraft:seedEmeryllis>, Emeryllis Seeds
+<AgriCraft:seedFerranium>, Ferranium Seeds
+<AgriCraft:seedJaslumine>, Jaslumine Seeds
+<AgriCraft:seedLapender>, Lapender Seeds
+<AgriCraft:seedNiccissus>, Niccissus Seeds
+<AgriCraft:seedNitorWart>, Nitor Wart Spores
+<AgriCraft:seedOrchid>, Blue Orchid Seeds
+<AgriCraft:seedPetinia>, Petinia Seeds
+<AgriCraft:seedPlatiolus>, Platiolus Seeds
+<AgriCraft:seedPlombean>, Plombean Seeds
+<AgriCraft:seedPoppy>, Poppy Seeds
+<AgriCraft:seedPotato>, Potato Seeds
+<AgriCraft:seedRedstodendron>, Redstodendron Seeds
+<AgriCraft:seedShroomBrown>, Brown Mushroom Spores
+<AgriCraft:seedShroomRed>, Red Mushroom Spores
+<AgriCraft:seedSilverweed>, Silverweed Seeds
+<AgriCraft:seedSugarcane>, Sugarcane Seeds
+<AgriCraft:seedTulipOrange>, Orange Tulip Seeds
+<AgriCraft:seedTulipPink>, Pink Tulip Seeds
+<AgriCraft:seedTulipRed>, Red Tulip Seeds
+<AgriCraft:seedTulipWhite>, White Tulip Seeds
+<AgriCraft:sprinkler>, tile.agricraft:sprinkler.name
+<AgriCraft:sprinklerItem>, Sprinkler
+<AgriCraft:trowel>, Gardening Trowel
+<AgriCraft:waterChannel>, Wooden Irrigation Channel
+<AgriCraft:waterTank>, Wooden Water Tank
+<Aroma1997Core:wrench>, Aromic Hammer
+<Aroma1997Core:wrenched>, null
+<Baubles:Ring>, Miner's Ring
+<Botania:aesirRing>, Ring of the Aesir
+<Botania:alchemyCatalyst>, Alchemy Catalyst
+<Botania:alfheimPortal>, Elven Gateway Core
+<Botania:altar>, Petal Apothecary
+<Botania:ancientWill>, Will of Ahrim
+<Botania:auraRing>, Band of Aura
+<Botania:auraRingGreater>, Greater Band of Aura
+<Botania:autocraftingHalo>, Manufactory Halo
+<Botania:bellows>, Manatide Bellows
+<Botania:bifrost>, Temporary Bifrost Block
+<Botania:bifrostPerm>, Bifrost Block
+<Botania:biomeStoneA>, Metamorphic Forest Stone
+<Botania:biomeStoneA0Slab>, Metamorphic Forest Stone Slab
+<Botania:biomeStoneA0SlabFull>, Metamorphic Forest Stone Slab
+<Botania:biomeStoneA0Stairs>, Metamorphic Forest Stone Stairs
+<Botania:biomeStoneA0Wall>, Metamorphic Forest Cobblestone Wall
+<Botania:biomeStoneA10Slab>, Metamorphic Mountain Cobblestone Slab
+<Botania:biomeStoneA10SlabFull>, Metamorphic Mountain Cobblestone Slab
+<Botania:biomeStoneA10Stairs>, Metamorphic Mountain Cobblestone Stairs
+<Botania:biomeStoneA11Slab>, Metamorphic Fungal Cobblestone Slab
+<Botania:biomeStoneA11SlabFull>, Metamorphic Fungal Cobblestone Slab
+<Botania:biomeStoneA11Stairs>, Metamorphic Fungal Cobblestone Stairs
+<Botania:biomeStoneA12Slab>, Metamorphic Swamp Cobblestone Slab
+<Botania:biomeStoneA12SlabFull>, Metamorphic Swamp Cobblestone Slab
+<Botania:biomeStoneA12Stairs>, Metamorphic Swamp Cobblestone Stairs
+<Botania:biomeStoneA13Slab>, Metamorphic Desert Cobblestone Slab
+<Botania:biomeStoneA13SlabFull>, Metamorphic Desert Cobblestone Slab
+<Botania:biomeStoneA13Stairs>, Metamorphic Desert Cobblestone Stairs
+<Botania:biomeStoneA14Slab>, Metamorphic Taiga Cobblestone Slab
+<Botania:biomeStoneA14SlabFull>, Metamorphic Taiga Cobblestone Slab
+<Botania:biomeStoneA14Stairs>, Metamorphic Taiga Cobblestone Stairs
+<Botania:biomeStoneA15Slab>, Metamorphic Mesa Cobblestone Slab
+<Botania:biomeStoneA15SlabFull>, Metamorphic Mesa Cobblestone Slab
+<Botania:biomeStoneA15Stairs>, Metamorphic Mesa Cobblestone Stairs
+<Botania:biomeStoneA1Slab>, Metamorphic Plains Stone Slab
+<Botania:biomeStoneA1SlabFull>, Metamorphic Plains Stone Slab
+<Botania:biomeStoneA1Stairs>, Metamorphic Plains Stone Stairs
+<Botania:biomeStoneA2Slab>, Metamorphic Mountain Stone Slab
+<Botania:biomeStoneA2SlabFull>, Metamorphic Mountain Stone Slab
+<Botania:biomeStoneA2Stairs>, Metamorphic Mountain Stone Stairs
+<Botania:biomeStoneA3Slab>, Metamorphic Fungal Stone Slab
+<Botania:biomeStoneA3SlabFull>, Metamorphic Fungal Stone Slab
+<Botania:biomeStoneA3Stairs>, Metamorphic Fungal Stone Stairs
+<Botania:biomeStoneA4Slab>, Metamorphic Swamp Stone Slab
+<Botania:biomeStoneA4SlabFull>, Metamorphic Swamp Stone Slab
+<Botania:biomeStoneA4Stairs>, Metamorphic Swamp Stone Stairs
+<Botania:biomeStoneA5Slab>, Metamorphic Desert Stone Slab
+<Botania:biomeStoneA5SlabFull>, Metamorphic Desert Stone Slab
+<Botania:biomeStoneA5Stairs>, Metamorphic Desert Stone Stairs
+<Botania:biomeStoneA6Slab>, Metamorphic Taiga Stone Slab
+<Botania:biomeStoneA6SlabFull>, Metamorphic Taiga Stone Slab
+<Botania:biomeStoneA6Stairs>, Metamorphic Taiga Stone Stairs
+<Botania:biomeStoneA7Slab>, Metamorphic Mesa Stone Slab
+<Botania:biomeStoneA7SlabFull>, Metamorphic Mesa Stone Slab
+<Botania:biomeStoneA7Stairs>, Metamorphic Mesa Stone Stairs
+<Botania:biomeStoneA8Slab>, Metamorphic Forest Cobblestone Slab
+<Botania:biomeStoneA8SlabFull>, Metamorphic Forest Cobblestone Slab
+<Botania:biomeStoneA8Stairs>, Metamorphic Forest Cobblestone Stairs
+<Botania:biomeStoneA9Slab>, Metamorphic Plains Cobblestone Slab
+<Botania:biomeStoneA9SlabFull>, Metamorphic Plains Cobblestone Slab
+<Botania:biomeStoneA9Stairs>, Metamorphic Plains Cobblestone Stairs
+<Botania:biomeStoneB>, Metamorphic Forest Stone Bricks
+<Botania:biomeStoneB0Slab>, Metamorphic Forest Stone Brick Slab
+<Botania:biomeStoneB0SlabFull>, Metamorphic Forest Stone Brick Slab
+<Botania:biomeStoneB0Stairs>, Metamorphic Forest Stone Brick Stairs
+<Botania:biomeStoneB1Slab>, Metamorphic Plains Stone Brick Slab
+<Botania:biomeStoneB1SlabFull>, Metamorphic Plains Stone Brick Slab
+<Botania:biomeStoneB1Stairs>, Metamorphic Plains Stone Brick Stairs
+<Botania:biomeStoneB2Slab>, Metamorphic Mountain Stone Brick Slab
+<Botania:biomeStoneB2SlabFull>, Metamorphic Mountain Stone Brick Slab
+<Botania:biomeStoneB2Stairs>, Metamorphic Mountain Stone Brick Stairs
+<Botania:biomeStoneB3Slab>, Metamorphic Fungal Stone Brick Slab
+<Botania:biomeStoneB3SlabFull>, Metamorphic Fungal Stone Brick Slab
+<Botania:biomeStoneB3Stairs>, Metamorphic Fungal Stone Brick Stairs
+<Botania:biomeStoneB4Slab>, Metamorphic Swamp Stone Brick Slab
+<Botania:biomeStoneB4SlabFull>, Metamorphic Swamp Stone Brick Slab
+<Botania:biomeStoneB4Stairs>, Metamorphic Swamp Stone Brick Stairs
+<Botania:biomeStoneB5Slab>, Metamorphic Desert Stone Brick Slab
+<Botania:biomeStoneB5SlabFull>, Metamorphic Desert Stone Brick Slab
+<Botania:biomeStoneB5Stairs>, Metamorphic Desert Stone Brick Stairs
+<Botania:biomeStoneB6Slab>, Metamorphic Taiga Stone Brick Slab
+<Botania:biomeStoneB6SlabFull>, Metamorphic Taiga Stone Brick Slab
+<Botania:biomeStoneB6Stairs>, Metamorphic Taiga Stone Brick Stairs
+<Botania:biomeStoneB7Slab>, Metamorphic Mesa Stone Bricks Slab
+<Botania:biomeStoneB7SlabFull>, Metamorphic Mesa Stone Bricks Slab
+<Botania:biomeStoneB7Stairs>, Metamorphic Mesa Stone Bricks Stairs
+<Botania:blackHoleTalisman>, Black Hole Talisman
+<Botania:blackLotus>, Black Lotus
+<Botania:blazeBlock>, Blaze Lamp
+<Botania:bloodPendant>, Tainted Blood Pendant
+<Botania:brewFlask>, Flask of Fallback (§l6§r)
+<Botania:brewVial>, Vial of Fallback (§l4§r)
+<Botania:brewery>, Botanical Brewery
+<Botania:buriedPetals>, Buried White Petal
+<Botania:cacophonium>, Cacophonium
+<Botania:cacophoniumBlock>, Cacophonium Block
+<Botania:cellBlock>, Cellular Block
+<Botania:clip>, Lens Clip
+<Botania:cobbleRod>, Rod of the Depths
+<Botania:cocoon>, Cocoon of Caprice
+<Botania:conjurationCatalyst>, Conjuration Catalyst
+<Botania:corporeaCrystalCube>, Corporea Crystal Cube
+<Botania:corporeaFunnel>, Corporea Funnel
+<Botania:corporeaIndex>, Corporea Index
+<Botania:corporeaInterceptor>, Corporea Interceptor
+<Botania:corporeaSpark>, Corporea Spark
+<Botania:cosmetic>, Black Bowtie
+<Botania:craftPattern>, Crafting Pattern #1: 1x1
+<Botania:craftingHalo>, Assembly Halo
+<Botania:crystalBow>, Crystal Bow
+<Botania:customBrick>, Hellish Brick
+<Botania:customBrick0Slab>, Hellish Brick Slab
+<Botania:customBrick0SlabFull>, Hellish Brick Slab
+<Botania:customBrick0Stairs>, Hellish Brick Stairs
+<Botania:customBrick1Slab>, Soul Brick Slab
+<Botania:customBrick1SlabFull>, Soul Brick Slab
+<Botania:customBrick1Stairs>, Soul Brick Stairs
+<Botania:customBrick2Slab>, Frosty Brick Slab
+<Botania:customBrick2SlabFull>, Frosty Brick Slab
+<Botania:customBrick2Stairs>, Frosty Brick Stairs
+<Botania:customBrick3Slab>, Roof Tile Slab
+<Botania:customBrick3SlabFull>, Roof Tile Slab
+<Botania:customBrick3Stairs>, Roof Tile Stairs
+<Botania:dice>, Dice of Fate
+<Botania:dirtPath>, Trodden Dirt
+<Botania:dirtPath0Slab>, Trodden Dirt Slab
+<Botania:dirtPath0SlabFull>, Trodden Dirt Slab
+<Botania:dirtRod>, Rod of the Lands
+<Botania:distributor>, Mana Distributor
+<Botania:divaCharm>, Charm of the Diva
+<Botania:diviningRod>, Rod of the Plentiful Mantle
+<Botania:doubleFlower1>, Tall Mystical White Flower
+<Botania:doubleFlower2>, Tall Mystical Light Gray Flower
+<Botania:dreamwood>, Dreamwood
+<Botania:dreamwood0Slab>, Dreamwood Slab
+<Botania:dreamwood0SlabFull>, Dreamwood Slab
+<Botania:dreamwood0Stairs>, Dreamwood Stairs
+<Botania:dreamwood0Wall>, Dreamwood Wall
+<Botania:dreamwood1Slab>, Dreamwood Plank Slab
+<Botania:dreamwood1SlabFull>, Dreamwood Plank Slab
+<Botania:dreamwood1Stairs>, Dreamwood Plank Stairs
+<Botania:dye>, Floral White Powder
+<Botania:elementiumAxe>, Elementium Axe
+<Botania:elementiumBoots>, Elementium Boots
+<Botania:elementiumChest>, Elementium Chestplate
+<Botania:elementiumHelm>, Elementium Helmet
+<Botania:elementiumHelmReveal>, Elementium Helmet of Revealing
+<Botania:elementiumLegs>, Elementium Leggings
+<Botania:elementiumPick>, Elementium Pickaxe
+<Botania:elementiumShears>, Elementium Shears
+<Botania:elementiumShovel>, Elementium Shovel
+<Botania:elementiumSword>, Elementium Sword
+<Botania:elfGlass>, Alfglass
+<Botania:enchantedSoil>, Enchanted Soil
+<Botania:enchanter>, Mana Enchanter
+<Botania:endStoneBrick>, End Stone Bricks
+<Botania:endStoneBrick0Slab>, End Stone Brick Slab
+<Botania:endStoneBrick0SlabFull>, End Stone Brick Slab
+<Botania:endStoneBrick0Stairs>, End Stone Brick Stairs
+<Botania:endStoneBrick2Slab>, Ender Brick Slab
+<Botania:endStoneBrick2SlabFull>, Ender Brick Slab
+<Botania:endStoneBrick2Stairs>, Ender Brick Stairs
+<Botania:enderDagger>, Soulscribe
+<Botania:enderEyeBlock>, Ender Overseer
+<Botania:enderHand>, Hand of Ender
+<Botania:exchangeRod>, Rod of the Shifting Crust
+<Botania:fakeAir>, tile.botania:fakeAir.name
+<Botania:felPumpkin>, Fel Pumpkin
+<Botania:fertilizer>, Floral Fertilizer
+<Botania:fireRod>, Rod of the Hells
+<Botania:flightTiara>, Flügel Tiara
+<Botania:floatingSpecialFlower>, Floating Botania Flower
+<Botania:flower>, Mystical White Flower
+<Botania:flowerBag>, Flower Pouch
+<Botania:flugelEye>, Eye of the Flügel
+<Botania:forestDrum>, Drum of the Wild
+<Botania:forestEye>, Eye of the Ancients
+<Botania:ghostRail>, Spectral Rail
+<Botania:glassPick>, Vitreous Pickaxe
+<Botania:goldenLaurel>, Golden Laurel Crown
+<Botania:grassHorn>, Horn of the Wild
+<Botania:grassSeeds>, Pasture Seeds
+<Botania:gravityRod>, Rod of the Shaded Mesa
+<Botania:holyCloak>, Cloak of Virtue
+<Botania:hourglass>, Hovering Hourglass
+<Botania:icePendant>, Snowflake Pendant
+<Botania:incensePlate>, Incense Plate
+<Botania:incenseStick>, Incense Stick
+<Botania:infiniteFruit>, The Fruit of Grisaia
+<Botania:itemFinder>, The Spectator
+<Botania:keepIvy>, Resolute Ivy
+<Botania:kingKey>, Key of the King's Law
+<Botania:knockbackBelt>, Tectonic Girdle
+<Botania:laputaShard>, Shard of Laputa
+<Botania:lavaPendant>, Pyroclast Pendant
+<Botania:lens>, Mana Lens
+<Botania:lexicon>, Lexica Botania
+<Botania:lightLauncher>, Luminizer Launcher
+<Botania:lightRelay>, Luminizer
+<Botania:livingrock>, Livingrock
+<Botania:livingrock0Slab>, Livingrock Slab
+<Botania:livingrock0SlabFull>, Livingrock Slab
+<Botania:livingrock0Stairs>, Livingrock Stairs
+<Botania:livingrock0Wall>, Livingrock Wall
+<Botania:livingrock1Slab>, Livingrock Brick Slab
+<Botania:livingrock1SlabFull>, Livingrock Brick Slab
+<Botania:livingrock1Stairs>, Livingrock Brick Stairs
+<Botania:livingwood>, Livingwood
+<Botania:livingwood0Slab>, Livingwood Slab
+<Botania:livingwood0SlabFull>, Livingwood Slab
+<Botania:livingwood0Stairs>, Livingwood Stairs
+<Botania:livingwood0Wall>, Livingwood Wall
+<Botania:livingwood1Slab>, Livingwood Plank Slab
+<Botania:livingwood1SlabFull>, Livingwood Plank Slab
+<Botania:livingwood1Stairs>, Livingwood Plank Stairs
+<Botania:livingwoodBow>, Livingwood Bow
+<Botania:lokiRing>, Ring of Loki
+<Botania:magnetRing>, Ring of Magnetization
+<Botania:magnetRingGreater>, Greater Ring of Magnetization
+<Botania:manaBeacon>, White Unstable Beacon
+<Botania:manaBomb>, Manastorm Charge
+<Botania:manaBottle>, Mana in a Bottle
+<Botania:manaCookie>, Mana Cookie
+<Botania:manaDetector>, Mana Detector
+<Botania:manaFlame>, Mana Flash
+<Botania:manaGlass>, Managlass
+<Botania:manaGun>, Mana Blaster
+<Botania:manaInkwell>, Botanurgist's Inkwell
+<Botania:manaMirror>, Mana Mirror
+<Botania:manaPetal>, White Mana Petal
+<Botania:manaResource>, Manasteel Ingot
+<Botania:manaRing>, Band of Mana
+<Botania:manaRingGreater>, Greater Band of Mana
+<Botania:manaTablet>, Mana Tablet
+<Botania:manaVoid>, Mana Void
+<Botania:manasteelAxe>, Manasteel Axe
+<Botania:manasteelBoots>, Manasteel Boots
+<Botania:manasteelChest>, Manasteel Chestplate
+<Botania:manasteelHelm>, Manasteel Helmet
+<Botania:manasteelHelmReveal>, Manasteel Helmet of Revealing
+<Botania:manasteelLegs>, Manasteel Leggings
+<Botania:manasteelPick>, Manasteel Pickaxe
+<Botania:manasteelShears>, Manasteel Shears
+<Botania:manasteelShovel>, Manasteel Shovel
+<Botania:manasteelSword>, Manasteel Sword
+<Botania:manaweaveBoots>, Manaweave Boots
+<Botania:manaweaveChest>, Manaweave Robe Top
+<Botania:manaweaveHelm>, Manaweave Cowl
+<Botania:manaweaveLegs>, Manaweave Robe Bottom
+<Botania:miniIsland>, Floating White Flower
+<Botania:miningRing>, Ring of the Mantle
+<Botania:missileRod>, Rod of the Unstable Reservoir
+<Botania:monocle>, Manaseer Monocle
+<Botania:mushroom>, White Shimmering Mushroom
+<Botania:obedienceStick>, Floral Obedience Stick
+<Botania:odinRing>, Ring of Odin
+<Botania:openBucket>, Extrapolated Bucket
+<Botania:openCrate>, Open Crate
+<Botania:overgrowthSeed>, Overgrowth Seed
+<Botania:pavement>, White Portuguese Pavement
+<Botania:pavement0Slab>, White Portuguese Pavement Slab
+<Botania:pavement0SlabFull>, White Portuguese Pavement Slab
+<Botania:pavement0Stairs>, White Portuguese Pavement Stairs
+<Botania:pavement1Slab>, Black Portuguese Pavement Slab
+<Botania:pavement1SlabFull>, Black Portuguese Pavement Slab
+<Botania:pavement1Stairs>, Black Portuguese Pavement Stairs
+<Botania:pavement2Slab>, Blue Portuguese Pavement Slab
+<Botania:pavement2SlabFull>, Blue Portuguese Pavement Slab
+<Botania:pavement2Stairs>, Blue Portuguese Pavement Stairs
+<Botania:pavement3Slab>, Red Portuguese Pavement Slab
+<Botania:pavement3SlabFull>, Red Portuguese Pavement Slab
+<Botania:pavement3Stairs>, Red Portuguese Pavement Stairs
+<Botania:pestleAndMortar>, Pestle and Mortar
+<Botania:petal>, Mystical White Petal
+<Botania:petalBlock>, White Petal Block
+<Botania:phantomInk>, Phantom Ink
+<Botania:pinkinator>, The Pinkinator
+<Botania:pistonRelay>, Force Relay
+<Botania:pixieRing>, Great Fairy Ring
+<Botania:platform>, Abstruse Platform
+<Botania:pool>, Mana Pool
+<Botania:poolMinecart>, Minecart with Mana Pool
+<Botania:prism>, Mana Prism
+<Botania:prismarine>, Prismarine
+<Botania:prismarine0Slab>, Prismarine Slab
+<Botania:prismarine0SlabFull>, Prismarine Slab
+<Botania:prismarine0Stairs>, Prismarine Stairs
+<Botania:prismarine0Wall>, Prismarine Wall
+<Botania:prismarine1Slab>, Prismarine Brick Slab
+<Botania:prismarine1SlabFull>, Prismarine Brick Slab
+<Botania:prismarine1Stairs>, Prismarine Brick Stairs
+<Botania:prismarine2Slab>, Dark Prismarine Slab
+<Botania:prismarine2SlabFull>, Dark Prismarine Slab
+<Botania:prismarine2Stairs>, Dark Prismarine Stairs
+<Botania:pump>, Mana Pump
+<Botania:pylon>, Mana Pylon
+<Botania:quartz>, Smokey Quartz
+<Botania:quartzSlabBlazeFull>, Blaze Quartz Slab
+<Botania:quartzSlabBlazeHalf>, Blaze Quartz Slab
+<Botania:quartzSlabDarkFull>, Smokey Quartz Slab
+<Botania:quartzSlabDarkHalf>, Smokey Quartz Slab
+<Botania:quartzSlabElfFull>, Elven Quartz Slab
+<Botania:quartzSlabElfHalf>, Elven Quartz Slab
+<Botania:quartzSlabLavenderFull>, Lavender Quartz Slab
+<Botania:quartzSlabLavenderHalf>, Lavender Quartz Slab
+<Botania:quartzSlabManaFull>, Mana Quartz Slab
+<Botania:quartzSlabManaHalf>, Mana Quartz Slab
+<Botania:quartzSlabRedFull>, Redquartz Slab
+<Botania:quartzSlabRedHalf>, Redquartz Slab
+<Botania:quartzSlabSunnyFull>, Sunny Quartz Slab
+<Botania:quartzSlabSunnyHalf>, Sunny Quartz Slab
+<Botania:quartzStairsBlaze>, Blaze Quartz Stairs
+<Botania:quartzStairsDark>, Smokey Quartz Stairs
+<Botania:quartzStairsElf>, Elven Quartz Stairs
+<Botania:quartzStairsLavender>, Lavender Quartz Stairs
+<Botania:quartzStairsMana>, Mana Quartz Stairs
+<Botania:quartzStairsRed>, Redquartz Stairs
+<Botania:quartzStairsSunny>, Sunny Quartz Stairs
+<Botania:quartzTypeBlaze>, Block of Blaze Quartz
+<Botania:quartzTypeDark>, Block of Smokey Quartz
+<Botania:quartzTypeElf>, Block of Elven Quartz
+<Botania:quartzTypeLavender>, Block of Lavender Quartz
+<Botania:quartzTypeMana>, Block of Mana Quartz
+<Botania:quartzTypeRed>, Block of Redquartz
+<Botania:quartzTypeSunny>, Block of Sunny Quartz
+<Botania:rainbowRod>, Rod of the Bifrost
+<Botania:reachRing>, Ring of Far Reach
+<Botania:recordGaia1>, Scathed Music Disc
+<Botania:recordGaia2>, Scathed Music Disc
+<Botania:redStringComparator>, Red Stringed Comparator
+<Botania:redStringContainer>, Red Stringed Container
+<Botania:redStringDispenser>, Red Stringed Dispenser
+<Botania:redStringFertilizer>, Red Stringed Nutrifier
+<Botania:redStringRelay>, Red Stringed Spoofer
+<Botania:reedBlock>, Reed Block
+<Botania:reedBlock0Slab>, Reed Slab
+<Botania:reedBlock0SlabFull>, Reed Slab
+<Botania:reedBlock0Stairs>, Reed Stairs
+<Botania:reedBlock0Wall>, Reed Block Wall
+<Botania:regenIvy>, Timeless Ivy
+<Botania:rfGenerator>, Mana Fluxfield
+<Botania:root>, Living Root
+<Botania:rune>, Rune of Water
+<Botania:runeAltar>, Runic Altar
+<Botania:seaLamp>, Sea Lantern
+<Botania:shinyFlower>, Glimmering White Flower
+<Botania:signalFlare>, Signal Flare
+<Botania:skyDirtRod>, Rod of the Highlands
+<Botania:slimeBottle>, Slime in a Bottle
+<Botania:slingshot>, Livingwood Slingshot
+<Botania:smeltRod>, Rod of the Molten Core
+<Botania:solidVine>, tile.botania:solidVine.name
+<Botania:spark>, Spark
+<Botania:sparkChanger>, Spark Tinkerer
+<Botania:sparkUpgrade>, Spark Augment: Dispersive
+<Botania:spawnerClaw>, Life Imbuer
+<Botania:spawnerMover>, Life Aggregator
+<Botania:specialFlower>, Botania Flower
+<Botania:spellCloth>, Spellbinding Cloth
+<Botania:spreader>, Mana Spreader
+<Botania:starSword>, Starcaller
+<Botania:starfield>, Starfield Creator
+<Botania:stone>, Andesite
+<Botania:stone0Slab>, Andesite Slab
+<Botania:stone0SlabFull>, Andesite Slab
+<Botania:stone0Stairs>, Andesite Stairs
+<Botania:stone0Wall>, Andesite Wall
+<Botania:stone10Slab>, Diorite Brick Slab
+<Botania:stone10SlabFull>, Diorite Brick Slab
+<Botania:stone10Stairs>, Diorite Brick Stairs
+<Botania:stone11Slab>, Granite Brick Slab
+<Botania:stone11SlabFull>, Granite Brick Slab
+<Botania:stone11Stairs>, Granite Brick Stairs
+<Botania:stone1Slab>, Basalt Slab
+<Botania:stone1SlabFull>, Basalt Slab
+<Botania:stone1Stairs>, Basalt Stairs
+<Botania:stone2Slab>, Diorite Slab
+<Botania:stone2SlabFull>, Diorite Slab
+<Botania:stone2Stairs>, Diorite Stairs
+<Botania:stone3Slab>, Granite Slab
+<Botania:stone3SlabFull>, Granite Slab
+<Botania:stone3Stairs>, Granite Stairs
+<Botania:stone8Slab>, Andesite Brick Slab
+<Botania:stone8SlabFull>, Andesite Brick Slab
+<Botania:stone8Stairs>, Andesite Brick Stairs
+<Botania:stone9Slab>, Basalt Brick Slab
+<Botania:stone9SlabFull>, Basalt Brick Slab
+<Botania:stone9Stairs>, Basalt Brick Stairs
+<Botania:storage>, Block of Manasteel
+<Botania:superLavaPendant>, Crimson Pendant
+<Botania:superTravelBelt>, Globetrotter's Sash
+<Botania:swapRing>, Ring of Correction
+<Botania:temperanceStone>, Stone of Temperance
+<Botania:terraAxe>, Terra Truncator
+<Botania:terraPick>, Terra Shatterer
+<Botania:terraPlate>, Terrestrial Agglomeration Plate
+<Botania:terraSword>, Terra Blade
+<Botania:terraformRod>, Rod of the Terra Firma
+<Botania:terrasteelBoots>, Terrasteel Boots
+<Botania:terrasteelChest>, Terrasteel Chestplate
+<Botania:terrasteelHelm>, Terrasteel Helmet
+<Botania:terrasteelHelmReveal>, Terrasteel Helmet of Revealing
+<Botania:terrasteelLegs>, Terrasteel Leggings
+<Botania:thatch>, Thatch
+<Botania:thatch0Slab>, Thatch Slab
+<Botania:thatch0SlabFull>, Thatch Slab
+<Botania:thatch0Stairs>, Thatch Stairs
+<Botania:thorRing>, Ring of Thor
+<Botania:thornChakram>, Thorn Chakram
+<Botania:thunderSword>, Thundercaller
+<Botania:tinyPlanet>, Tiny Planet
+<Botania:tinyPlanetBlock>, Tiny Planet
+<Botania:tinyPotato>, Tiny Potato
+<Botania:tornadoRod>, Rod of the Skies
+<Botania:travelBelt>, Soujourner's Sash
+<Botania:turntable>, Spreader Turntable
+<Botania:twigWand>, Wand of the Forest
+<Botania:unholyCloak>, Cloak of Sin
+<Botania:unstableBlock>, White Unstable Cube
+<Botania:vial>, Managlass Vial
+<Botania:vineBall>, Vine Ball
+<Botania:virus>, Necrodermal Virus
+<Botania:waterBowl>, Bowl of Water
+<Botania:waterRing>, Ring of Chordata
+<Botania:waterRod>, Rod of the Seas
+<Botania:worldSeed>, World Seed
+<CarpentersBlocks:blockCarpentersBarrier>, Carpenter's Barrier
+<CarpentersBlocks:blockCarpentersBed>, Carpenter's Bed
+<CarpentersBlocks:blockCarpentersBlock>, Carpenter's Block
+<CarpentersBlocks:blockCarpentersButton>, Carpenter's Button
+<CarpentersBlocks:blockCarpentersCollapsibleBlock>, Carpenter's Collapsible Block
+<CarpentersBlocks:blockCarpentersDaylightSensor>, Carpenter's Daylight Sensor
+<CarpentersBlocks:blockCarpentersDoor>, Carpenter's Door
+<CarpentersBlocks:blockCarpentersFlowerPot>, Carpenter's Flower Pot
+<CarpentersBlocks:blockCarpentersGarageDoor>, Carpenter's Garage Door
+<CarpentersBlocks:blockCarpentersGate>, Carpenter's Gate
+<CarpentersBlocks:blockCarpentersHatch>, Carpenter's Hatch
+<CarpentersBlocks:blockCarpentersLadder>, Carpenter's Ladder
+<CarpentersBlocks:blockCarpentersLever>, Carpenter's Lever
+<CarpentersBlocks:blockCarpentersPressurePlate>, Carpenter's Pressure Plate
+<CarpentersBlocks:blockCarpentersSafe>, Carpenter's Safe
+<CarpentersBlocks:blockCarpentersSlope>, Carpenter's Wedge Slope
+<CarpentersBlocks:blockCarpentersStairs>, Carpenter's Stairs
+<CarpentersBlocks:blockCarpentersTorch>, Carpenter's Torch
+<CarpentersBlocks:itemCarpentersBed>, Carpenter's Bed
+<CarpentersBlocks:itemCarpentersChisel>, Carpenter's Chisel
+<CarpentersBlocks:itemCarpentersDoor>, Carpenter's Door
+<CarpentersBlocks:itemCarpentersHammer>, Carpenter's Hammer
+<CarpentersBlocks:itemCarpentersTile>, Carpenter's Tile
+<CompactMachines:enlarger>, Atom Enlarging Module
+<CompactMachines:innerwall>, Compact Machine Wall
+<CompactMachines:innerwalldecor>, Compact Machine Wall (Decorative)
+<CompactMachines:interface>, Compact Machine Interface
+<CompactMachines:interfaceitem>, World Resizing Interface
+<CompactMachines:machine>, Compact Machine
+<CompactMachines:psd>, Personal Shrinking Device
+<CompactMachines:quantumentangler>, Quantum Entangler
+<CompactMachines:resizingcube>, World Resizing Cube
+<CompactMachines:shrinker>, Atom Shrinking Module
+<EnderStorage:enderChest>, Ender Chest
+<EnderStorage:enderPouch>, Ender Pouch
+<ExtraTiC:Blot>, item.default.bolt.name
+<ExtraTiC:BowLimb>, item.default.bow.limb.name
+<ExtraTiC:CrossbowBody>, item.default.crossbow.body.name
+<ExtraTiC:CrossbowLimb>, item.default.crossbow.limb.name
+<ExtraTiC:arrowhead>, item.default.arrowhead.name
+<ExtraTiC:axeHead>, item.default.axe.head.name
+<ExtraTiC:battelSign>, item.default.battle.sign.name
+<ExtraTiC:binding>, item.default.binding.name
+<ExtraTiC:blockFunStuff>, Fairy Block
+<ExtraTiC:chiselHead>, item.default.chisel.head.name
+<ExtraTiC:chunk>, item.default.chunk.name
+<ExtraTiC:crossbar>, item.default.crossbar.name
+<ExtraTiC:drulloyIngot>, Drulloy Ingot
+<ExtraTiC:excavatorHead>, item.default.excavator.head.name
+<ExtraTiC:extra.bucket>, item.extratic.bucket.name
+<ExtraTiC:frypanHead>, item.default.frypan.head.name
+<ExtraTiC:fullGuard>, item.default.full.guard.name
+<ExtraTiC:funStuffIngot>, Fairy Ingot
+<ExtraTiC:gear>, item.extratic.gear.name
+<ExtraTiC:hammerHead>, item.default.hammer.head.name
+<ExtraTiC:knifeBlade>, item.default.knife.blade.name
+<ExtraTiC:largeGuard>, item.default.large.guard.name
+<ExtraTiC:largeSwordBlade>, item.default.large.sword.blade.name
+<ExtraTiC:largeplate>, item.default.largeplate.name
+<ExtraTiC:lumberaxeHead>, item.default.lumberaxe.head.name
+<ExtraTiC:mediumGuard>, item.default.medium.guard.name
+<ExtraTiC:moltenAdamantine.>, Molten Adamantine
+<ExtraTiC:moltenBedrockium>, Molten Bedrockium
+<ExtraTiC:moltenBrass>, Molten Brass
+<ExtraTiC:moltenDarkSteel>, Molten Dark Steel
+<ExtraTiC:moltenElementium>, Molten Elementium
+<ExtraTiC:moltenFairy>, Molten Fairy
+<ExtraTiC:moltenManasteel>, Molten Manasteel
+<ExtraTiC:moltenPokefennium>, Molten Pokefennium
+<ExtraTiC:moltenRedAurum>, Molten RedAurum
+<ExtraTiC:moltenTerrasteel>, Molten Terrasteel
+<ExtraTiC:moltenWitheriron>, Molten Wither Iron
+<ExtraTiC:moltenZinc>, Molten Zinc
+<ExtraTiC:pickaxeHead>, item.default.pickaxe.head.name
+<ExtraTiC:scytheHead>, item.default.scythe.head.name
+<ExtraTiC:shovelHead>, item.default.shovel.head.name
+<ExtraTiC:shuriken>, item.default.shuriken.name
+<ExtraTiC:swordBlade>, item.default.sword.blade.name
+<ExtraTiC:toolrod>, item.default.toolrod.name
+<ExtraTiC:toughbind>, item.default.toughbind.name
+<ExtraTiC:toughrod>, item.default.toughrod.name
+<ExtraUtilities:angelBlock>, Angel Block
+<ExtraUtilities:bedrockiumIngot>, Bedrockium Ingot
+<ExtraUtilities:block_bedrockium>, Block of Bedrockium
+<ExtraUtilities:budoff>, Block Update Detector
+<ExtraUtilities:builderswand>, Builder's Wand
+<ExtraUtilities:chandelier>, Chandelier
+<ExtraUtilities:chestFull>, Slightly Larger Chest
+<ExtraUtilities:chestMini>, Mini-Chest
+<ExtraUtilities:cobblestone_compressed>, Compressed Cobblestone
+<ExtraUtilities:colorStoneBrick>, Colored Stone Bricks (White Frequency)
+<ExtraUtilities:colorWoodPlanks>, Colored Oak Wood Planks (White Frequency)
+<ExtraUtilities:color_blockCoal>, Colored Block of Coal (White Frequency)
+<ExtraUtilities:color_blockLapis>, Colored Lapis Lazuli Block (White Frequency)
+<ExtraUtilities:color_blockRedstone>, Colored Block of Redstone (White Frequency)
+<ExtraUtilities:color_brick>, Colored Bricks (White Frequency)
+<ExtraUtilities:color_hellsand>, Colored Soul Sand (White Frequency)
+<ExtraUtilities:color_lightgem>, Colored Glowstone (White Frequency)
+<ExtraUtilities:color_obsidian>, Colored Obsidian (White Frequency)
+<ExtraUtilities:color_quartzBlock>, Colored Block of Quartz (White Frequency)
+<ExtraUtilities:color_redstoneLight>, Colored Redstone Lamp (White Frequency)
+<ExtraUtilities:color_stone>, Colored Stone (White Frequency)
+<ExtraUtilities:color_stonebrick>, Colored Cobblestone (White Frequency)
+<ExtraUtilities:conveyor>, Conveyor Belt
+<ExtraUtilities:creativebuilderswand>, Super Builder's Wand
+<ExtraUtilities:cursedearthside>, Cursed Earth
+<ExtraUtilities:curtains>, Blackout Curtains
+<ExtraUtilities:dark_portal>, Portal to The Deep Dark
+<ExtraUtilities:datablock>, tile.extrautils:datablock.name
+<ExtraUtilities:decorativeBlock1>, Edged Stone Bricks
+<ExtraUtilities:decorativeBlock2>, Thickened Glass
+<ExtraUtilities:defoliageAxe>, Healing Axe
+<ExtraUtilities:destructionpickaxe>, Destruction Pickaxe
+<ExtraUtilities:divisionSigil>, Division Sigil
+<ExtraUtilities:drum>, Drum
+<ExtraUtilities:endConstructor>, tile.extrautils:endConstructor.0.name
+<ExtraUtilities:endMarker>, Ender-Marker
+<ExtraUtilities:enderCollector>, Ender Collector
+<ExtraUtilities:enderThermicPump>, Ender-Thermic Pump
+<ExtraUtilities:erosionShovel>, Erosion Shovel
+<ExtraUtilities:etherealglass>, Ethereal Glass
+<ExtraUtilities:ethericsword>, Etheric Sword
+<ExtraUtilities:extractor_base>, Transfer Node (Items)
+<ExtraUtilities:extractor_base_remote>, Retrieval Node (Items)
+<ExtraUtilities:filing>, Filing Cabinet
+<ExtraUtilities:glove>, Glove
+<ExtraUtilities:golden_bag>, Golden Bag of Holding
+<ExtraUtilities:golden_lasso>, Golden Lasso
+<ExtraUtilities:greenscreen>, Lapis Caelestis Albus (White)
+<ExtraUtilities:heatingElement>, Heating Coil
+<ExtraUtilities:lawSword>, Kikoku
+<ExtraUtilities:mini-soul>, Soul fragment
+<ExtraUtilities:nodeUpgrade>, Speed Upgrade
+<ExtraUtilities:paintbrush>, Paintbrush
+<ExtraUtilities:peaceful_table_top>, Peaceful Table
+<ExtraUtilities:pipes>, Transfer Pipe
+<ExtraUtilities:pipes.1>, Hyper-Rationing Pipe
+<ExtraUtilities:plant/ender_lilly>, Ender-Lily Seeds
+<ExtraUtilities:pureLove>, tile.extrautils:pureLove.name
+<ExtraUtilities:scanner>, Portable Scanner
+<ExtraUtilities:shears>, Precision Shears
+<ExtraUtilities:sonar_goggles>, Sonar Goggles
+<ExtraUtilities:sound_muffler>, Sound Muffler
+<ExtraUtilities:spike_base>, Iron Spike
+<ExtraUtilities:spike_base_diamond>, Diamond Spike
+<ExtraUtilities:spike_base_gold>, Golden Spike
+<ExtraUtilities:spike_base_wood>, Wooden Spike
+<ExtraUtilities:temporalHoe>, Reversing Hoe
+<ExtraUtilities:timer>, Redstone Clock
+<ExtraUtilities:trading_post>, Trading Post
+<ExtraUtilities:trashcan>, Trash Can
+<ExtraUtilities:unstableingot>, Unstable Ingot
+<ExtraUtilities:watering_can>, Watering Can
+<HardcoreQuesting:bags>, Reward Bag
+<HardcoreQuesting:hearts>, Quarter of a heart
+<HardcoreQuesting:hqmInvalidItem>, Invalid Item
+<HardcoreQuesting:item_barrel>, Quest Delivery System
+<HardcoreQuesting:quest_book>, Quest Book
+<HardcoreQuesting:quest_portal>, Quest Gate System
+<HardcoreQuesting:quest_tracker>, Quest Tracking System
+<IguanaTweaksTConstruct:clayBucketFired>, Fired Clay Bucket
+<IguanaTweaksTConstruct:clayBucketLava>, Lava Clay Bucket
+<IguanaTweaksTConstruct:clayBucketMilk>, Milk Clay Bucket
+<IguanaTweaksTConstruct:clayBucketUnfired>, Unfired Clay Bucket
+<IguanaTweaksTConstruct:clayBucketWater>, Water Clay Bucket
+<IguanaTweaksTConstruct:clayBucketsTinkers>, Molten Iron Clay Bucket
+<IguanaTweaksTConstruct:rubberChicken>, item.iguana.tcon.rubberChicken.name
+<IguanaTweaksTConstruct:skullBlock>, tile.iguana.tcon.skull.name
+<IguanaTweaksTConstruct:skullItem>, Enderman Head
+<IguanaTweaksTConstruct:wearableBucket>, Holey Bucket
+<ImmersiveEngineering:blueprint>, Engineers Blueprint
+<ImmersiveEngineering:bullet>, Empty Casing
+<ImmersiveEngineering:coil>, Copper Wire Coil
+<ImmersiveEngineering:drill>, Mining Drill
+<ImmersiveEngineering:drillhead>, Steel Drill Head
+<ImmersiveEngineering:fluidContainers>, Bottle of Creosote Oil
+<ImmersiveEngineering:graphiteElectrode>, Graphite Electrode
+<ImmersiveEngineering:hemp>, Industrial Hemp
+<ImmersiveEngineering:material>, Treated Stick
+<ImmersiveEngineering:metal>, Copper Ingot
+<ImmersiveEngineering:metalDecoration>, Steel Fence
+<ImmersiveEngineering:metalDevice>, LV Wire Connector
+<ImmersiveEngineering:metalDevice2>, Breaker Switch
+<ImmersiveEngineering:metalMultiblock>, Lightning Rod Base
+<ImmersiveEngineering:ore>, Copper Ore
+<ImmersiveEngineering:revolver>, Revolver
+<ImmersiveEngineering:seed>, Industrial Hemp Seeds
+<ImmersiveEngineering:skyhook>, Engineer's Skyhook
+<ImmersiveEngineering:stoneDecoration>, Hempcrete
+<ImmersiveEngineering:stoneDevice>, Hempcrete
+<ImmersiveEngineering:storage>, Block of Copper
+<ImmersiveEngineering:storageSlab>, Copper Slab
+<ImmersiveEngineering:tool>, Engineer's Hammer
+<ImmersiveEngineering:toolupgrade>, Internal Oxidizer Tank
+<ImmersiveEngineering:woodenDecoration>, Treated Wood Planks
+<ImmersiveEngineering:woodenDevice>, Wooden Post
+<ImmersiveEngineering:woodenStairs>, Treated Wood Stairs
+<Mantle:mantleBook>, Mantle:item.mantle.manual.test.name
+<PneumaticCraft:advancedAirCompressor>, Advanced Air Compressor
+<PneumaticCraft:advancedLiquidCompressor>, Advanced Liquid Compressor
+<PneumaticCraft:advancedPCB>, Advanced PCB
+<PneumaticCraft:advancedPressureTube>, Advanced Pressure Tube
+<PneumaticCraft:aerialInterface>, Aerial Interface
+<PneumaticCraft:airCanister>, Air Canister
+<PneumaticCraft:airCannon>, Air Cannon
+<PneumaticCraft:airCompressor>, Air Compressor
+<PneumaticCraft:airGrateModule>, Air Grate Tube Module
+<PneumaticCraft:amadronTablet>, Amadron Tablet
+<PneumaticCraft:aphorismTile>, Aphorism Tile
+<PneumaticCraft:assemblyController>, Assembly Controller
+<PneumaticCraft:assemblyDrill>, Assembly Drill
+<PneumaticCraft:assemblyIOUnit>, Assembly IO Unit
+<PneumaticCraft:assemblyLaser>, Assembly Laser
+<PneumaticCraft:assemblyPlatform>, Assembly Platform
+<PneumaticCraft:assemblyProgram>, Assembly Program: Drill
+<PneumaticCraft:burstPlant>, Burst Plant
+<PneumaticCraft:cannonBarrel>, Cannon Barrel
+<PneumaticCraft:capacitor>, Capacitor
+<PneumaticCraft:chargingModule>, Charging Module
+<PneumaticCraft:chargingStation>, Charging Station
+<PneumaticCraft:chopperPlant>, Chopper Plant
+<PneumaticCraft:compressedIronBlock>, Block of Compressed Iron
+<PneumaticCraft:compressedIronGear>, Compressed Iron Gear
+<PneumaticCraft:creativeCompressor>, Creative Compressor
+<PneumaticCraft:creeperPlant>, Creeper Plant
+<PneumaticCraft:diesel>, Diesel
+<PneumaticCraft:dieselBucket>, Diesel Bucket
+<PneumaticCraft:drone>, Drone
+<PneumaticCraft:droneRedstoneEmitter>, tile.droneRedstoneEmitter.name
+<PneumaticCraft:electrostaticCompressor>, Electrostatic Compressor
+<PneumaticCraft:elevatorBase>, Elevator Base
+<PneumaticCraft:elevatorCaller>, Elevator Caller
+<PneumaticCraft:elevatorFrame>, Elevator Frame
+<PneumaticCraft:emptyPCB>, Empty PCB
+<PneumaticCraft:enderPlant>, Ender Plant
+<PneumaticCraft:etchacidBucket>, Etching Acid Bucket
+<PneumaticCraft:etchingAcid>, Etching Acid
+<PneumaticCraft:failedPCB>, Failed PCB
+<PneumaticCraft:fireFlower>, Fire Flower
+<PneumaticCraft:flowDetectorModule>, Flow Detector Tube Module
+<PneumaticCraft:fluxCompressor>, Flux Compressor
+<PneumaticCraft:flyingFlower>, Flying Flower
+<PneumaticCraft:fuel>, Gasoline
+<PneumaticCraft:fuelBucket>, Gasoline Bucket
+<PneumaticCraft:gasLift>, Gas Lift
+<PneumaticCraft:gpsTool>, GPS Tool
+<PneumaticCraft:gunAmmo>, Gun Ammo
+<PneumaticCraft:heatFrame>, Heat Frame
+<PneumaticCraft:heatSink>, Heat Sink
+<PneumaticCraft:heliumPlant>, Helium Plant
+<PneumaticCraft:ingotIronCompressed>, Compressed Iron Ingot
+<PneumaticCraft:kerosene>, Kerosene
+<PneumaticCraft:keroseneBucket>, Kerosene Bucket
+<PneumaticCraft:lightningPlant>, Lightning Plant
+<PneumaticCraft:liquidCompressor>, Liquid Compressor
+<PneumaticCraft:liquidHopper>, Liquid Hopper
+<PneumaticCraft:logisticDrone>, Logistic Drone
+<PneumaticCraft:logisticFrameActiveProvider>, Logistic Active Provider Frame
+<PneumaticCraft:logisticFrameDefaultStorage>, Logistic Default Storage Frame
+<PneumaticCraft:logisticFramePassiveProvider>, Logistic Passive Provider Frame
+<PneumaticCraft:logisticFrameRequester>, Logistic Requester Frame
+<PneumaticCraft:logisticFrameStorage>, Logistic Storage Frame
+<PneumaticCraft:logisticsConfigurator>, Logistics Configurator
+<PneumaticCraft:logisticsModule>, Logistics Module
+<PneumaticCraft:lpg>, LPG
+<PneumaticCraft:lpgBucket>, LPG Bucket
+<PneumaticCraft:lubricant>, Lubricant
+<PneumaticCraft:lubricantBucket>, Lubricant Bucket
+<PneumaticCraft:machineUpgrade>, Volume Upgrade
+<PneumaticCraft:manometer>, Manometer
+<PneumaticCraft:networkComponent>, Diagnostic Subroutine
+<PneumaticCraft:nukeVirus>, Nuke Virus
+<PneumaticCraft:oil>, Oil
+<PneumaticCraft:oilBucket>, Oil Bucket
+<PneumaticCraft:omnidirectionalHopper>, Omnidirectional Hopper
+<PneumaticCraft:pcbBlueprint>, PCB Blueprint
+<PneumaticCraft:plastic>, Black Plastic
+<PneumaticCraft:plasticBlock>, tile.plasticBlock.name
+<PneumaticCraft:plasticBucket>, Plastic Bucket
+<PneumaticCraft:plasticMixer>, Plastic Mixer
+<PneumaticCraft:plasticPlant>, Squid Plant Seeds
+<PneumaticCraft:pneumaticCilinder>, Pneumatic Cylinder
+<PneumaticCraft:pneumaticDoor>, Pneumatic Door
+<PneumaticCraft:pneumaticDoorBase>, Pneumatic Door Base
+<PneumaticCraft:pneumaticDynamo>, Pneumatic Dynamo
+<PneumaticCraft:pneumaticHelmet>, Pneumatic Helmet
+<PneumaticCraft:pneumaticWrench>, Pneumatic Wrench
+<PneumaticCraft:potionPlant>, Potion Plant
+<PneumaticCraft:pressureChamberInterface>, Pressure Chamber Interface
+<PneumaticCraft:pressureChamberValve>, Pressure Chamber Valve
+<PneumaticCraft:pressureChamberWall>, Pressure Chamber Wall
+<PneumaticCraft:pressureGauge>, Pressure Gauge
+<PneumaticCraft:pressureGaugeModule>, Pressure Gauge Tube Module
+<PneumaticCraft:pressureTube>, Pressure Tube
+<PneumaticCraft:printedCircuitBoard>, Printed Circuit Board
+<PneumaticCraft:programmableController>, Programmable Controller
+<PneumaticCraft:programmer>, Programmer
+<PneumaticCraft:programmingPuzzle>, Black Programming Puzzle
+<PneumaticCraft:propulsionPlant>, Propulsion Plant
+<PneumaticCraft:rainPlant>, Rain Plant
+<PneumaticCraft:refinery>, Refinery
+<PneumaticCraft:regulatorTubeModule>, Regulator Tube Module
+<PneumaticCraft:remote>, Remote
+<PneumaticCraft:repulsionPlant>, Repulsion Plant
+<PneumaticCraft:safetyTubeModule>, Safety Tube Module
+<PneumaticCraft:securityStation>, Security Station
+<PneumaticCraft:seismicSensor>, Seismic Sensor
+<PneumaticCraft:slimePlant>, Slime Plant
+<PneumaticCraft:squidPlant>, Squid Plant
+<PneumaticCraft:stoneBase>, Stone Base
+<PneumaticCraft:stopWorm>, STOP! -Worm
+<PneumaticCraft:thermopneumaticProcessingPlant>, Thermopneumatic Processing Plant
+<PneumaticCraft:transistor>, Transistor
+<PneumaticCraft:turbineBlade>, Turbine Blade
+<PneumaticCraft:turbineRotor>, Turbine Rotor
+<PneumaticCraft:unassembledPCB>, Unassembled PCB
+<PneumaticCraft:universalSensor>, Universal Sensor
+<PneumaticCraft:uvLightBox>, UV Light Box
+<PneumaticCraft:vacuumPump>, Vacuum Pump
+<PneumaticCraft:vortexCannon>, Vortex Cannon
+<PneumaticCraft:vortexTube>, Vortex Tube
+<Progression:item>, BROKEN ITEM
+<SSTOW:sstow_forge>, Soul Forge
+<SSTOW:sstow_materials>, Iron Nugget
+<SSTOW:sstow_soul_axe>, Soul Axe
+<SSTOW:sstow_soul_cage>, Soul Cage
+<SSTOW:sstow_soul_hoe>, Soul Hoe
+<SSTOW:sstow_soul_pickaxe>, Soul Pickaxe
+<SSTOW:sstow_soul_shard>, Unbound Soul Shard
+<SSTOW:sstow_soul_spade>, Soul Spade
+<SSTOW:sstow_soul_sword>, Soul Sword
+<SSTOW:sstow_soulium_block>, Block of Soulium
+<SSTOW:tile.sstow.forge_block_active>, tile.sstow.forge_block_active.name
+<SpiceOfLife:bookfoodjournal>, Food Journal
+<SpiceOfLife:lunchbag>, Lunch Bag
+<SpiceOfLife:lunchbox>, Lunch Box
+<Steamcraft:astrolabe>, Astrolabe
+<Steamcraft:axeBrass>, Brass Axe
+<Steamcraft:axeGildedGold>, Gilded Iron Axe
+<Steamcraft:blankMold>, Blank Mold
+<Steamcraft:blockBrass>, Block of Brass
+<Steamcraft:blockCopper>, Block of Copper
+<Steamcraft:blockZinc>, Block of Zinc
+<Steamcraft:blunderbuss>, Flintlock Blunderbuss
+<Steamcraft:boiler>, Boiler
+<Steamcraft:boilerOn>, Boiler
+<Steamcraft:book>, Esteemed Innovation
+<Steamcraft:canister>, Item Canister
+<Steamcraft:canner>, Canner
+<Steamcraft:carving>, Carving Table
+<Steamcraft:charger>, Steam Filler
+<Steamcraft:chargingPad>, Filling Pad
+<Steamcraft:chestBrass>, Brass Chestplate
+<Steamcraft:chestGildedGold>, Gilded Iron Chestplate
+<Steamcraft:crucible>, Crucible
+<Steamcraft:doubleJump>, Pulse Nozzle
+<Steamcraft:dummy>, tile.steamcraft:dummy.name
+<Steamcraft:enderShroud>, Ender Shroud
+<Steamcraft:engineering>, Engineering Table
+<Steamcraft:enhancementAblaze>, Blaze Barrel
+<Steamcraft:enhancementAirStrike>, Air Strike Conversion Kit
+<Steamcraft:enhancementAmmo>, Extended Magazine
+<Steamcraft:enhancementFastRockets>, Streamlined Barrel
+<Steamcraft:enhancementRecoil>, Recoil Pad
+<Steamcraft:enhancementRevolver>, Revolver Chamber
+<Steamcraft:enhancementSilencer>, Makeshift Suppressor
+<Steamcraft:enhancementSpeedloader>, Bolt Action
+<Steamcraft:enhancementSpeedy>, Breech
+<Steamcraft:exoArmorBody>, Steam Exosuit Chestpiece
+<Steamcraft:exoArmorFeet>, Steam Exosuit Footpiece
+<Steamcraft:exoArmorHead>, Steam Exosuit Headpiece
+<Steamcraft:exoArmorLegs>, Steam Exosuit Legpiece
+<Steamcraft:exosuitPlate>, Copper Exosuit Plate
+<Steamcraft:extendoFist>, Extendo Fist
+<Steamcraft:fallAssist>, Fall Assist
+<Steamcraft:fan>, Fan
+<Steamcraft:feetBrass>, Brass Boots
+<Steamcraft:feetGildedGold>, Gilded Iron Boots
+<Steamcraft:flashBoiler>, Flash Boiler Component
+<Steamcraft:floralLaurel>, Floral Laurel
+<Steamcraft:fluidSteamConverter>, Pressure Converter
+<Steamcraft:goggles>, Tinkerer's Goggles
+<Steamcraft:hammer>, Steam Hammer
+<Steamcraft:heater>, Steam Heater
+<Steamcraft:hellCrucible>, Nether Crucible
+<Steamcraft:helmBrass>, Brass Helmet
+<Steamcraft:helmGildedGold>, Gilded Iron Helmet
+<Steamcraft:hoeBrass>, Brass Hoe
+<Steamcraft:hoeGildedGold>, Gilded Iron Hoe
+<Steamcraft:horn>, Steam Whistle
+<Steamcraft:ingotMold>, Ingot Mold
+<Steamcraft:itemMortar>, Item Mortar
+<Steamcraft:jetpack>, Steam Jetpack
+<Steamcraft:jumpAssist>, Leap Actuator
+<Steamcraft:legsBrass>, Brass Leggings
+<Steamcraft:legsGildedGold>, Gilded Iron Leggings
+<Steamcraft:meter>, Steam Gauge
+<Steamcraft:mold>, Mold
+<Steamcraft:monacle>, Tinkerer's Monocle
+<Steamcraft:musket>, Flintlock Musket
+<Steamcraft:musketCartridge>, Musket Cartridge
+<Steamcraft:nuggetMold>, Nugget Mold
+<Steamcraft:pickBrass>, Brass Pickaxe
+<Steamcraft:pickGildedGold>, Gilded Iron Pickaxe
+<Steamcraft:pipe>, Pipe
+<Steamcraft:pistol>, Flintlock Pistol
+<Steamcraft:pitonDeployer>, Piton Deployer
+<Steamcraft:plateMold>, Plate Mold
+<Steamcraft:powerFist>, Power Fist
+<Steamcraft:pump>, Archimedes Screw
+<Steamcraft:reinforcedTank>, Reinforced Exosuit Tank
+<Steamcraft:rocket>, Rocket
+<Steamcraft:rocketConcussive>, Concussive Rocket
+<Steamcraft:rocketLauncher>, Rocket Launcher
+<Steamcraft:rocketMiner>, Mining Charge
+<Steamcraft:runAssist>, Modular Accelerator
+<Steamcraft:ruptureDisc>, Rupture Disc
+<Steamcraft:shovelBrass>, Brass Shovel
+<Steamcraft:shovelGildedGold>, Gilded Iron Shovel
+<Steamcraft:smashedOre>, Smashed Iron Ore
+<Steamcraft:smasher>, Rock Smasher
+<Steamcraft:spyglass>, Spyglass
+<Steamcraft:stealthUpgrade>, Acoustic Dampener
+<Steamcraft:steamAxe>, Steam Saw
+<Steamcraft:steamDrill>, Steam Drill
+<Steamcraft:steamShovel>, Steam Shovel
+<Steamcraft:steamTank>, Steam Tank
+<Steamcraft:steamcraftCrafting>, Brass Piston
+<Steamcraft:steamcraftIngot>, Copper Ingot
+<Steamcraft:steamcraftNugget>, Copper Nugget
+<Steamcraft:steamcraftOre>, Copper Ore
+<Steamcraft:steamcraftPlate>, Copper Plate
+<Steamcraft:steamedBeef>, Steamed Beef
+<Steamcraft:steamedChicken>, Steamed Chicken
+<Steamcraft:steamedFish>, Steamed Fish
+<Steamcraft:steamedPorkchop>, Steamed Porkchop
+<Steamcraft:survivalist>, Survivalist's Toolkit
+<Steamcraft:swordBrass>, Brass Sword
+<Steamcraft:swordGildedGold>, Gilded Iron Sword
+<Steamcraft:thrusters>, Thrusters
+<Steamcraft:thumper>, Thumper
+<Steamcraft:thumperDummy>, tile.steamcraft:thumperDummy.name
+<Steamcraft:tophat>, Entrepreneur's Top Hat
+<Steamcraft:tophatNoEmerald>, Top Hat
+<Steamcraft:uberReinforcedTank>, Heavily Reinforced Exosuit Tank
+<Steamcraft:vacuum>, Vacuum
+<Steamcraft:valvePipe>, Valve Pipe
+<Steamcraft:wings>, Steam Wings
+<Steamcraft:wrench>, Pipe Wrench
+<TConstruct:Armor.DryingRack>, Drying Rack
+<TConstruct:ArrowAmmo>, item.InfiTool.name
+<TConstruct:BattleSignBlock>, tile.Battlesign.name
+<TConstruct:BoltAmmo>, item.InfiTool.name
+<TConstruct:BoltPart>, Wooden Bolt
+<TConstruct:Boneana>, Broadsword
+<TConstruct:BowLimbPart>, Wooden Bow Limb
+<TConstruct:Cast>, Shuriken Cast
+<TConstruct:CastingChannel>, Casting Channel
+<TConstruct:CraftedSoil>, Slimy Mud
+<TConstruct:CraftingSlab>, Crafting Station
+<TConstruct:CraftingStation>, Crafting Station
+<TConstruct:Crossbow>, item.InfiTool.name
+<TConstruct:CrossbowBodyPart>, Wooden Crossbow Body
+<TConstruct:CrossbowLimbPart>, Wooden Crossbow Limb
+<TConstruct:FurnaceSlab>, Slab Furnace
+<TConstruct:GlassArrows>, item.tconstruct.glassArrows.name
+<TConstruct:GlassBlock>, Clear Glass
+<TConstruct:GlassBlock.StainedClear>, White Stained Glass
+<TConstruct:GlassPane>, Clear Glass Pane
+<TConstruct:GlassPaneClearStained>, White Stained Pane
+<TConstruct:GlueBlock>, Glue Block
+<TConstruct:GravelOre>, Iron Gravel Ore
+<TConstruct:HeldItemBlock>, Frying Pan
+<TConstruct:Javelin>, item.InfiTool.name
+<TConstruct:LavaTank>, Seared Tank
+<TConstruct:LavaTankNether>, Seared Tank
+<TConstruct:LongBow>, item.InfiTool.name
+<TConstruct:MeatBlock>, Hambone
+<TConstruct:MetalBlock>, Block of Cobalt
+<TConstruct:Pattern>, Shuriken Pattern
+<TConstruct:Redstone.Landmine>, Landmine
+<TConstruct:SearedBlock>, Casting Table
+<TConstruct:SearedBlockNether>, Casting Table
+<TConstruct:SearedBrick>, Netherack Slag
+<TConstruct:SearedSlab>, Seared Brick Slab
+<TConstruct:ShortBow>, item.InfiTool.name
+<TConstruct:Shuriken>, item.InfiTool.name
+<TConstruct:ShurikenPart>, Wooden Shuriken
+<TConstruct:Smeltery>, Smeltery Controller
+<TConstruct:SmelteryNether>, Smeltery Controller
+<TConstruct:SpeedBlock>, Rough Brownstone
+<TConstruct:SpeedSlab>, Rough Brownstone Slab
+<TConstruct:ThrowingKnife>, item.InfiTool.name
+<TConstruct:ToolForgeBlock>, Tool Forge
+<TConstruct:ToolStationBlock>, Tool Station
+<TConstruct:WoolSlab1>, Light Gray Wool Slab
+<TConstruct:WoolSlab2>, Gray Wool Slab
+<TConstruct:arrowhead>, Wooden Arrowhead
+<TConstruct:battleaxe>, Battleaxe
+<TConstruct:battlesign>, Battlesign
+<TConstruct:binding>, Wooden Binding
+<TConstruct:blankPattern>, Blank Pattern
+<TConstruct:blood.channel>, Blood Channel
+<TConstruct:bootsWood>, Wooden Boots
+<TConstruct:bowstring>, Bowstring
+<TConstruct:broadAxeHead>, Wooden Broad Axe Head
+<TConstruct:broadsword>, Broadsword
+<TConstruct:buckets>, Molten Iron Bucket
+<TConstruct:chestplateWood>, Wooden Chestplate
+<TConstruct:chisel>, Chisel
+<TConstruct:chiselHead>, Wooden Chisel Head
+<TConstruct:cleaver>, Cleaver
+<TConstruct:creativeModifier>, Creative Tool Modifier
+<TConstruct:crossbar>, Wooden Crossbar
+<TConstruct:cutlass>, Cutlass
+<TConstruct:dagger>, Dagger
+<TConstruct:decoration.multibrick>, Obsidian Brick
+<TConstruct:decoration.multibrickfancy>, Fancy Obsidian Brick
+<TConstruct:decoration.multibrickmetal>, Alumite Brick
+<TConstruct:decoration.stoneladder>, Ladder
+<TConstruct:decoration.stonetorch>, Torch
+<TConstruct:diamondApple>, Jeweled Apple
+<TConstruct:excavator>, Excavator
+<TConstruct:excavatorHead>, Wooden Excavator Head
+<TConstruct:explosive.slime>, SDX
+<TConstruct:fletching>, Feather Fletching
+<TConstruct:fluid.ender>, Liquified Ender
+<TConstruct:fluid.molten.alubrass>, Molten Aluminum Brass
+<TConstruct:fluid.molten.aluminum>, Molten Aluminum
+<TConstruct:fluid.molten.alumite>, Molten Alumite
+<TConstruct:fluid.molten.ardite>, Molten Ardite
+<TConstruct:fluid.molten.bronze>, Molten Bronze
+<TConstruct:fluid.molten.cobalt>, Molten Cobalt
+<TConstruct:fluid.molten.copper>, Molten Copper
+<TConstruct:fluid.molten.electrum>, Molten Electrum
+<TConstruct:fluid.molten.enderium>, Molten Enderium
+<TConstruct:fluid.molten.glass>, Molten Glass
+<TConstruct:fluid.molten.gold>, Molten Gold
+<TConstruct:fluid.molten.invar>, Molten Invar
+<TConstruct:fluid.molten.iron>, Molten Iron
+<TConstruct:fluid.molten.lead>, Molten Lead
+<TConstruct:fluid.molten.lumium>, Molten Lumium
+<TConstruct:fluid.molten.manyullyn>, Molten Manyullyn
+<TConstruct:fluid.molten.mithril>, Molten Mana Infused Metal
+<TConstruct:fluid.molten.nickel>, Molten Nickel
+<TConstruct:fluid.molten.obsidian>, Molten Obsidian
+<TConstruct:fluid.molten.pigiron>, Molten Pig Iron
+<TConstruct:fluid.molten.shiny>, Molten Shiny
+<TConstruct:fluid.molten.signalum>, Molten Signalum
+<TConstruct:fluid.molten.silver>, Molten Silver
+<TConstruct:fluid.molten.steel>, Molten Steel
+<TConstruct:fluid.molten.tin>, Liquid Tin
+<TConstruct:frypan>, Frying Pan
+<TConstruct:frypanHead>, Wooden Pan
+<TConstruct:fullGuard>, Wooden Full Guard
+<TConstruct:gearCast>, Gear Cast
+<TConstruct:goldHead>, Golden Head
+<TConstruct:hammer>, Hammer
+<TConstruct:hammerHead>, Wooden Hammer Head
+<TConstruct:handGuard>, Wooden Hand Guard
+<TConstruct:hatchet>, Hatchet
+<TConstruct:hatchetHead>, Wooden Axe Head
+<TConstruct:heartCanister>, Empty Canister
+<TConstruct:heavyPlate>, Wooden Large Plate
+<TConstruct:helmetWood>, Wooden Helmet
+<TConstruct:jerky>, Beef Jerky
+<TConstruct:knapsack>, Knapsack
+<TConstruct:knifeBlade>, Wooden Knife Blade
+<TConstruct:largeSwordBlade>, Wooden Large Sword Blade
+<TConstruct:leggingsWood>, Wooden Leggings
+<TConstruct:liquid.blood>, Blood
+<TConstruct:liquid.glue>, Glue
+<TConstruct:liquid.slime>, Liquified Slime
+<TConstruct:longsword>, Longsword
+<TConstruct:lumberaxe>, Lumber Axe
+<TConstruct:manualBook>, Materials and You: Volume 1
+<TConstruct:materials>, Paper Stack
+<TConstruct:mattock>, Mattock
+<TConstruct:metalPattern>, Ingot Cast
+<TConstruct:molten.emerald>, Liquified Emerald
+<TConstruct:molten.stone>, Seared Stone
+<TConstruct:ore.berries.one>, Iron Oreberry Bush
+<TConstruct:ore.berries.two>, Aluminum Oreberry Bush
+<TConstruct:oreBerries>, Iron Oreberry
+<TConstruct:pickaxe>, Pickaxe
+<TConstruct:pickaxeHead>, Wooden Pickaxe Head
+<TConstruct:potionLauncher>, Potion Launcher
+<TConstruct:rail.wood>, Wooden Rail
+<TConstruct:rapier>, Rapier
+<TConstruct:scythe>, Scythe
+<TConstruct:scytheBlade>, Wooden Scythe Head
+<TConstruct:shovel>, Shovel
+<TConstruct:shovelHead>, Wooden Shovel Head
+<TConstruct:signHead>, Wooden Sign Head
+<TConstruct:slime.channel>, Slime Channel
+<TConstruct:slime.gel>, Congealed Blue Slime
+<TConstruct:slime.grass>, Slimy Grass
+<TConstruct:slime.grass.tall>, Slimy Grass
+<TConstruct:slime.leaves>, Slimy Leaves
+<TConstruct:slime.pad>, Bounce Pad
+<TConstruct:slime.sapling>, Slimy Sapling
+<TConstruct:strangeFood>, Gelatinous Slime
+<TConstruct:swordBlade>, Wooden Sword Blade
+<TConstruct:titleIcon>, Spawn Blue Slime
+<TConstruct:toolRod>, Wooden Tool Rod
+<TConstruct:toolShard>, Wooden Shard
+<TConstruct:toughBinding>, Wooden Tough Binding
+<TConstruct:toughRod>, Wooden Tough Rod
+<TConstruct:trap.barricade.birch>, Birch Barricade
+<TConstruct:trap.barricade.jungle>, Jungle Barricade
+<TConstruct:trap.barricade.oak>, Oak Barricade
+<TConstruct:trap.barricade.spruce>, Spruce Barricade
+<TConstruct:trap.punji>, Punji Stick
+<TConstruct:travelBelt>, Traveller's Belt
+<TConstruct:travelBoots>, Traveller's Boots
+<TConstruct:travelGlove>, Traveller's Gloves
+<TConstruct:travelGoggles>, Traveller's Goggles
+<TConstruct:travelVest>, Traveller's Vest
+<TConstruct:travelWings>, Traveller's Wings
+<TConstruct:wideGuard>, Wooden Wide Guard
+<TConstruct:woodPattern>, item.tconstruct.Pattern.ingot.name
+<TMechworks:Dynamo>, Dynamo
+<TMechworks:LengthWire>, Length of Wire
+<TMechworks:MeshFilter>, Empty Mesh Filter
+<TMechworks:RedstoneMachine>, Drawbridge
+<TMechworks:SignalBus>, Signal Bus
+<TMechworks:SignalTerminal>, Signal Terminal
+<TMechworks:SpoolWire>, Spool of Wire
+<ThermalDynamics:ThermalDynamics_0>, Leadstone Fluxduct
+<ThermalDynamics:ThermalDynamics_16>, Temperate Fluiduct
+<ThermalDynamics:ThermalDynamics_32>, Itemduct
+<ThermalDynamics:ThermalDynamics_48>, Structuralduct (Opaque)
+<ThermalDynamics:cover>, Cover
+<ThermalDynamics:filter>, Filter
+<ThermalDynamics:relay>, Redstone Relay
+<ThermalDynamics:retriever>, Retriever
+<ThermalDynamics:servo>, Servo
+<ThermalFoundation:FluidAerotheum>, Zephyrean Aerotheum
+<ThermalFoundation:FluidCoal>, Liquifacted Coal
+<ThermalFoundation:FluidCryotheum>, Gelid Cryotheum
+<ThermalFoundation:FluidEnder>, Resonant Ender
+<ThermalFoundation:FluidGlowstone>, Energized Glowstone
+<ThermalFoundation:FluidMana>, Primal Mana
+<ThermalFoundation:FluidPetrotheum>, tile.thermalfoundation.fluid.petrotheum.name
+<ThermalFoundation:FluidPyrotheum>, Blazing Pyrotheum
+<ThermalFoundation:FluidRedstone>, Destabilized Redstone
+<ThermalFoundation:FluidSteam>, Steam
+<ThermalFoundation:Ore>, Copper Ore
+<ThermalFoundation:Storage>, Copper Block
+<ThermalFoundation:armor.bootsBronze>, Bronze Boots
+<ThermalFoundation:armor.bootsCopper>, Copper Boots
+<ThermalFoundation:armor.bootsElectrum>, Electrum Boots
+<ThermalFoundation:armor.bootsInvar>, Invar Boots
+<ThermalFoundation:armor.bootsLead>, Lead Boots
+<ThermalFoundation:armor.bootsNickel>, Ferrous Boots
+<ThermalFoundation:armor.bootsPlatinum>, Shiny Boots
+<ThermalFoundation:armor.bootsSilver>, Silver Boots
+<ThermalFoundation:armor.bootsTin>, Tin Boots
+<ThermalFoundation:armor.helmetBronze>, Bronze Helmet
+<ThermalFoundation:armor.helmetCopper>, Copper Helmet
+<ThermalFoundation:armor.helmetElectrum>, Electrum Helmet
+<ThermalFoundation:armor.helmetInvar>, Invar Helmet
+<ThermalFoundation:armor.helmetLead>, Lead Helmet
+<ThermalFoundation:armor.helmetNickel>, Ferrous Helmet
+<ThermalFoundation:armor.helmetPlatinum>, Shiny Helmet
+<ThermalFoundation:armor.helmetSilver>, Silver Helmet
+<ThermalFoundation:armor.helmetTin>, Tin Helmet
+<ThermalFoundation:armor.legsBronze>, Bronze Leggings
+<ThermalFoundation:armor.legsCopper>, Copper Leggings
+<ThermalFoundation:armor.legsElectrum>, Electrum Leggings
+<ThermalFoundation:armor.legsInvar>, Invar Leggings
+<ThermalFoundation:armor.legsLead>, Lead Leggings
+<ThermalFoundation:armor.legsNickel>, Ferrous Leggings
+<ThermalFoundation:armor.legsPlatinum>, Shiny Leggings
+<ThermalFoundation:armor.legsSilver>, Silver Leggings
+<ThermalFoundation:armor.legsTin>, Tin Leggings
+<ThermalFoundation:armor.plateBronze>, Bronze Chestplate
+<ThermalFoundation:armor.plateCopper>, Copper Chestplate
+<ThermalFoundation:armor.plateElectrum>, Electrum Chestplate
+<ThermalFoundation:armor.plateInvar>, Invar Chestplate
+<ThermalFoundation:armor.plateLead>, Lead Chestplate
+<ThermalFoundation:armor.plateNickel>, Ferrous Chestplate
+<ThermalFoundation:armor.platePlatinum>, Shiny Chestplate
+<ThermalFoundation:armor.plateSilver>, Silver Chestplate
+<ThermalFoundation:armor.plateTin>, Tin Chestplate
+<ThermalFoundation:bucket>, Destabilized Redstone Bucket
+<ThermalFoundation:lexicon>, Forge Lexicon
+<ThermalFoundation:material>, Pulverized Iron
+<ThermalFoundation:tool.axeBronze>, Bronze Axe
+<ThermalFoundation:tool.axeCopper>, Copper Axe
+<ThermalFoundation:tool.axeElectrum>, Electrum Axe
+<ThermalFoundation:tool.axeInvar>, Invar Axe
+<ThermalFoundation:tool.axeLead>, Lead Axe
+<ThermalFoundation:tool.axeNickel>, Ferrous Axe
+<ThermalFoundation:tool.axePlatinum>, Shiny Axe
+<ThermalFoundation:tool.axeSilver>, Silver Axe
+<ThermalFoundation:tool.axeTin>, Tin Axe
+<ThermalFoundation:tool.bowBronze>, Bronze Reinforced Bow
+<ThermalFoundation:tool.bowCopper>, Copper Reinforced Bow
+<ThermalFoundation:tool.bowElectrum>, Electrum Reinforced Bow
+<ThermalFoundation:tool.bowInvar>, Invar Reinforced Bow
+<ThermalFoundation:tool.bowLead>, Lead Reinforced Bow
+<ThermalFoundation:tool.bowNickel>, Ferrous Reinforced Bow
+<ThermalFoundation:tool.bowPlatinum>, Shiny Reinforced Bow
+<ThermalFoundation:tool.bowSilver>, Silver Reinforced Bow
+<ThermalFoundation:tool.bowTin>, Tin Reinforced Bow
+<ThermalFoundation:tool.fishingRodBronze>, Bronze Fishing Rod
+<ThermalFoundation:tool.fishingRodCopper>, Copper Fishing Rod
+<ThermalFoundation:tool.fishingRodElectrum>, Electrum Fishing Rod
+<ThermalFoundation:tool.fishingRodInvar>, Invar Fishing Rod
+<ThermalFoundation:tool.fishingRodLead>, Lead Fishing Rod
+<ThermalFoundation:tool.fishingRodNickel>, Ferrous Fishing Rod
+<ThermalFoundation:tool.fishingRodPlatinum>, Shiny Fishing Rod
+<ThermalFoundation:tool.fishingRodSilver>, Silver Fishing Rod
+<ThermalFoundation:tool.fishingRodTin>, Tin Fishing Rod
+<ThermalFoundation:tool.hoeBronze>, Bronze Hoe
+<ThermalFoundation:tool.hoeCopper>, Copper Hoe
+<ThermalFoundation:tool.hoeElectrum>, Electrum Hoe
+<ThermalFoundation:tool.hoeInvar>, Invar Hoe
+<ThermalFoundation:tool.hoeLead>, Lead Hoe
+<ThermalFoundation:tool.hoeNickel>, Ferrous Hoe
+<ThermalFoundation:tool.hoePlatinum>, Shiny Hoe
+<ThermalFoundation:tool.hoeSilver>, Silver Hoe
+<ThermalFoundation:tool.hoeTin>, Tin Hoe
+<ThermalFoundation:tool.pickaxeBronze>, Bronze Pickaxe
+<ThermalFoundation:tool.pickaxeCopper>, Copper Pickaxe
+<ThermalFoundation:tool.pickaxeElectrum>, Electrum Pickaxe
+<ThermalFoundation:tool.pickaxeInvar>, Invar Pickaxe
+<ThermalFoundation:tool.pickaxeLead>, Lead Pickaxe
+<ThermalFoundation:tool.pickaxeNickel>, Ferrous Pickaxe
+<ThermalFoundation:tool.pickaxePlatinum>, Shiny Pickaxe
+<ThermalFoundation:tool.pickaxeSilver>, Silver Pickaxe
+<ThermalFoundation:tool.pickaxeTin>, Tin Pickaxe
+<ThermalFoundation:tool.shearsBronze>, Bronze Shears
+<ThermalFoundation:tool.shearsCopper>, Copper Shears
+<ThermalFoundation:tool.shearsElectrum>, Electrum Shears
+<ThermalFoundation:tool.shearsInvar>, Invar Shears
+<ThermalFoundation:tool.shearsLead>, Lead Shears
+<ThermalFoundation:tool.shearsNickel>, Ferrous Shears
+<ThermalFoundation:tool.shearsPlatinum>, Shiny Shears
+<ThermalFoundation:tool.shearsSilver>, Silver Shears
+<ThermalFoundation:tool.shearsTin>, Tin Shears
+<ThermalFoundation:tool.shovelBronze>, Bronze Shovel
+<ThermalFoundation:tool.shovelCopper>, Copper Shovel
+<ThermalFoundation:tool.shovelElectrum>, Electrum Shovel
+<ThermalFoundation:tool.shovelInvar>, Invar Shovel
+<ThermalFoundation:tool.shovelLead>, Lead Shovel
+<ThermalFoundation:tool.shovelNickel>, Ferrous Shovel
+<ThermalFoundation:tool.shovelPlatinum>, Shiny Shovel
+<ThermalFoundation:tool.shovelSilver>, Silver Shovel
+<ThermalFoundation:tool.shovelTin>, Tin Shovel
+<ThermalFoundation:tool.sickleBronze>, Bronze Sickle
+<ThermalFoundation:tool.sickleCopper>, Copper Sickle
+<ThermalFoundation:tool.sickleElectrum>, Electrum Sickle
+<ThermalFoundation:tool.sickleInvar>, Invar Sickle
+<ThermalFoundation:tool.sickleLead>, Lead Sickle
+<ThermalFoundation:tool.sickleNickel>, Ferrous Sickle
+<ThermalFoundation:tool.sicklePlatinum>, Shiny Sickle
+<ThermalFoundation:tool.sickleSilver>, Silver Sickle
+<ThermalFoundation:tool.sickleTin>, Tin Sickle
+<ThermalFoundation:tool.swordBronze>, Bronze Sword
+<ThermalFoundation:tool.swordCopper>, Copper Sword
+<ThermalFoundation:tool.swordElectrum>, Electrum Sword
+<ThermalFoundation:tool.swordInvar>, Invar Sword
+<ThermalFoundation:tool.swordLead>, Lead Sword
+<ThermalFoundation:tool.swordNickel>, Ferrous Sword
+<ThermalFoundation:tool.swordPlatinum>, Shiny Sword
+<ThermalFoundation:tool.swordSilver>, Silver Sword
+<ThermalFoundation:tool.swordTin>, Tin Sword
+<aobd:dustZinc>, Zinc Dust
+<aobd:oreBrokenAluminium>, Broken Aluminium Ore
+<aobd:oreBrokenArdite>, Broken Ardite Ore
+<aobd:oreBrokenCobalt>, Broken Cobalt Ore
+<aobd:oreBrokenMithril>, Broken Mithril Ore
+<aobd:oreBrokenZinc>, Broken Zinc Ore
+<aobd:oreCrushedAluminium>, Crushed Aluminium Ore
+<aobd:oreCrushedArdite>, Crushed Ardite Ore
+<aobd:oreCrushedCobalt>, Crushed Cobalt Ore
+<aobd:oreCrushedMithril>, Crushed Mithril Ore
+<aobd:oreCrushedZinc>, Crushed Zinc Ore
+<aobd:oreDustAluminium>, Aluminium Ore Dust
+<aobd:oreDustArdite>, Ardite Ore Dust
+<aobd:oreDustCobalt>, Cobalt Ore Dust
+<aobd:oreDustMithril>, Mithril Ore Dust
+<aobd:oreDustZinc>, Zinc Ore Dust
+<aobd:oreGravelAluminium>, Aluminium Ore Gravel
+<aobd:oreGravelArdite>, Ardite Ore Gravel
+<aobd:oreGravelCobalt>, Cobalt Ore Gravel
+<aobd:oreGravelMithril>, Mithril Ore Gravel
+<aobd:oreGravelZinc>, Zinc Ore Gravel
+<aobd:oreNetherBrokenAluminium>, Broken Aluminium Ore
+<aobd:oreNetherBrokenArdite>, Broken Ardite Ore
+<aobd:oreNetherBrokenCobalt>, Broken Cobalt Ore
+<aobd:oreNetherBrokenMithril>, Broken Mithril Ore
+<aobd:oreNetherBrokenZinc>, Broken Zinc Ore
+<aobd:oreNetherGravelAluminium>, Aluminium Ore Gravel
+<aobd:oreNetherGravelArdite>, Ardite Ore Gravel
+<aobd:oreNetherGravelCobalt>, Cobalt Ore Gravel
+<aobd:oreNetherGravelMithril>, Mithril Ore Gravel
+<aobd:oreNetherGravelZinc>, Zinc Ore Gravel
+<aobd:orePowderedAluminium>, Powdered Aluminium Ore
+<aobd:orePowderedArdite>, Powdered Ardite Ore
+<aobd:orePowderedCobalt>, Powdered Cobalt Ore
+<aobd:orePowderedMithril>, Powdered Mithril Ore
+<aobd:orePowderedZinc>, Powdered Zinc Ore
+<aobd:oreSandAluminium>, Aluminium Ore Sand
+<aobd:oreSandArdite>, Ardite Ore Sand
+<aobd:oreSandCobalt>, Cobalt Ore Sand
+<aobd:oreSandMithril>, Mithril Ore Sand
+<aobd:oreSandZinc>, Zinc Ore Sand
+<appliedenergistics2:item.ItemBasicStorageCell.16k>, 16k ME Storage Cell
+<appliedenergistics2:item.ItemBasicStorageCell.1k>, 1k ME Storage Cell
+<appliedenergistics2:item.ItemBasicStorageCell.4k>, 4k ME Storage Cell
+<appliedenergistics2:item.ItemBasicStorageCell.64k>, 64k ME Storage Cell
+<appliedenergistics2:item.ItemCreativeStorageCell>, Creative ME Storage Cell
+<appliedenergistics2:item.ItemCrystalSeed>, Certus Quartz Seed
+<appliedenergistics2:item.ItemEncodedPattern>, Encoded Pattern
+<appliedenergistics2:item.ItemFacade>, Cable Facade - Glass
+<appliedenergistics2:item.ItemMultiMaterial>, Certus Quartz Crystal
+<appliedenergistics2:item.ItemMultiPart>, ME Glass Cable - White
+<appliedenergistics2:item.ItemPaintBall>, Paint Ball - White
+<appliedenergistics2:item.ItemSpatialStorageCell.128Cubed>, 128³ Spatial Storage Cell
+<appliedenergistics2:item.ItemSpatialStorageCell.16Cubed>, 16³ Spatial Storage Cell
+<appliedenergistics2:item.ItemSpatialStorageCell.2Cubed>, 2³ Spatial Storage Cell
+<appliedenergistics2:item.ItemViewCell>, View Cell
+<appliedenergistics2:item.ToolBiometricCard>, Biometric Card
+<appliedenergistics2:item.ToolCertusQuartzAxe>, Certus Quartz Axe
+<appliedenergistics2:item.ToolCertusQuartzCuttingKnife>, Certus Quartz Cutting Knife
+<appliedenergistics2:item.ToolCertusQuartzHoe>, Certus Quartz Hoe
+<appliedenergistics2:item.ToolCertusQuartzPickaxe>, Certus Quartz Pickaxe
+<appliedenergistics2:item.ToolCertusQuartzSpade>, Certus Quartz Shovel
+<appliedenergistics2:item.ToolCertusQuartzSword>, Certus Quartz Sword
+<appliedenergistics2:item.ToolCertusQuartzWrench>, Certus Quartz Wrench
+<appliedenergistics2:item.ToolChargedStaff>, Charged Staff
+<appliedenergistics2:item.ToolColorApplicator>, Color Applicator - Empty
+<appliedenergistics2:item.ToolEntropyManipulator>, Entropy Manipulator
+<appliedenergistics2:item.ToolMassCannon>, Matter Cannon
+<appliedenergistics2:item.ToolMemoryCard>, Memory Card
+<appliedenergistics2:item.ToolNetherQuartzAxe>, Nether Quartz Axe
+<appliedenergistics2:item.ToolNetherQuartzCuttingKnife>, Nether Quartz Cutting Knife
+<appliedenergistics2:item.ToolNetherQuartzHoe>, Nether Quartz Hoe
+<appliedenergistics2:item.ToolNetherQuartzPickaxe>, Nether Quartz Pickaxe
+<appliedenergistics2:item.ToolNetherQuartzSpade>, Nether Quartz Shovel
+<appliedenergistics2:item.ToolNetherQuartzSword>, Nether Quartz Sword
+<appliedenergistics2:item.ToolNetherQuartzWrench>, Nether Quartz Wrench
+<appliedenergistics2:item.ToolNetworkTool>, Network Tool
+<appliedenergistics2:item.ToolPortableCell>, Portable Cell
+<appliedenergistics2:item.ToolWirelessTerminal>, Wireless Terminal
+<appliedenergistics2:tile.BlockCableBus>, AE2 Cable and/or Bus
+<appliedenergistics2:tile.BlockCellWorkbench>, Cell Workbench
+<appliedenergistics2:tile.BlockCharger>, Charger
+<appliedenergistics2:tile.BlockChest>, ME Chest
+<appliedenergistics2:tile.BlockCondenser>, Matter Condenser
+<appliedenergistics2:tile.BlockController>, ME Controller
+<appliedenergistics2:tile.BlockCraftingMonitor>, Crafting Monitor
+<appliedenergistics2:tile.BlockCraftingStorage>, 1k Crafting Storage
+<appliedenergistics2:tile.BlockCraftingUnit>, Crafting Unit
+<appliedenergistics2:tile.BlockCrank>, Wooden Crank
+<appliedenergistics2:tile.BlockCreativeEnergyCell>, Creative Energy Cell
+<appliedenergistics2:tile.BlockDenseEnergyCell>, Dense Energy Cell
+<appliedenergistics2:tile.BlockDrive>, ME Drive
+<appliedenergistics2:tile.BlockEnergyAcceptor>, Energy Acceptor
+<appliedenergistics2:tile.BlockEnergyCell>, Energy Cell
+<appliedenergistics2:tile.BlockFluix>, Fluix Block
+<appliedenergistics2:tile.BlockGrinder>, Quartz Grindstone
+<appliedenergistics2:tile.BlockIOPort>, ME IO Port
+<appliedenergistics2:tile.BlockInscriber>, Inscriber
+<appliedenergistics2:tile.BlockInterface>, ME Interface
+<appliedenergistics2:tile.BlockLightDetector>, Light Detecting Fixture
+<appliedenergistics2:tile.BlockMatrixFrame>, Matrix Frame
+<appliedenergistics2:tile.BlockMolecularAssembler>, Molecular Assembler
+<appliedenergistics2:tile.BlockPaint>, tile.appliedenergistics2.BlockPaint.name
+<appliedenergistics2:tile.BlockQuantumLinkChamber>, ME Quantum Link Chamber
+<appliedenergistics2:tile.BlockQuantumRing>, ME Quantum Ring
+<appliedenergistics2:tile.BlockQuartz>, Certus Quartz Block
+<appliedenergistics2:tile.BlockQuartzChiseled>, Chiseled Certus Quartz Block
+<appliedenergistics2:tile.BlockQuartzGlass>, Quartz Glass
+<appliedenergistics2:tile.BlockQuartzGrowthAccelerator>, Crystal Growth Accelerator
+<appliedenergistics2:tile.BlockQuartzLamp>, Vibrant Quartz Glass
+<appliedenergistics2:tile.BlockQuartzPillar>, Certus Quartz Pillar
+<appliedenergistics2:tile.BlockQuartzTorch>, Charged Quartz Fixture
+<appliedenergistics2:tile.BlockSecurity>, ME Security Terminal
+<appliedenergistics2:tile.BlockSkyChest>, Sky Stone Chest
+<appliedenergistics2:tile.BlockSkyCompass>, Meteorite Compass
+<appliedenergistics2:tile.BlockSkyStone>, Sky Stone
+<appliedenergistics2:tile.BlockSpatialIOPort>, Spatial IO Port
+<appliedenergistics2:tile.BlockSpatialPylon>, Spatial Pylon
+<appliedenergistics2:tile.BlockTinyTNT>, Tiny TNT
+<appliedenergistics2:tile.BlockVibrationChamber>, Vibration Chamber
+<appliedenergistics2:tile.BlockWireless>, ME Wireless Access Point
+<appliedenergistics2:tile.ChiseledQuartzStairBlock>, Chiseled Certus Quartz Stairs
+<appliedenergistics2:tile.FluixStairBlock>, Fluix Stairs
+<appliedenergistics2:tile.OreQuartz>, Certus Quartz Ore
+<appliedenergistics2:tile.OreQuartzCharged>, Charged Certus Quartz Ore
+<appliedenergistics2:tile.QuartzPillarStairBlock>, Certus Quartz Pillar Stairs
+<appliedenergistics2:tile.QuartzStairBlock>, Certus Quartz Stairs
+<appliedenergistics2:tile.SkyStoneBlockStairBlock>, Sky Stone Block Stairs
+<appliedenergistics2:tile.SkyStoneBrickStairBlock>, Sky Stone Brick Stairs
+<appliedenergistics2:tile.SkyStoneSmallBrickStairBlock>, Sky Stone Small Brick Stairs
+<appliedenergistics2:tile.SkyStoneStairBlock>, Sky Stone Stairs
+<autopackager:packagerBlock>, AutoPackager
+<chisel:acacia_planks>, Acacia Wood Planks
+<chisel:aluminum_stairs.0>, tile.chisel.aluminum_stairs.0.name
+<chisel:aluminum_stairs.1>, tile.chisel.aluminum_stairs.1.name
+<chisel:aluminum_stairs.2>, tile.chisel.aluminum_stairs.2.name
+<chisel:aluminum_stairs.3>, tile.chisel.aluminum_stairs.3.name
+<chisel:aluminum_stairs.4>, tile.chisel.aluminum_stairs.4.name
+<chisel:aluminum_stairs.5>, tile.chisel.aluminum_stairs.5.name
+<chisel:aluminum_stairs.6>, tile.chisel.aluminum_stairs.6.name
+<chisel:aluminum_stairs.7>, tile.chisel.aluminum_stairs.7.name
+<chisel:aluminumblock>, Block of Aluminum
+<chisel:andesite>, Andesite
+<chisel:antiBlock>, Anti Block
+<chisel:autoChisel>, Auto Chisel
+<chisel:ballomoss>, Ball O' Moss
+<chisel:beacon>, Beacon
+<chisel:birch_planks>, Birch Wood Planks
+<chisel:bloodBrick>, tile.chisel.bloodBrick.name
+<chisel:bloodRune>, Blood Rune
+<chisel:bookshelf>, Bookshelf
+<chisel:brickCustom>, Brick Block
+<chisel:bronzeblock>, Block of Bronze
+<chisel:carpet>, Floor Carpet
+<chisel:carpet_block>, Carpet
+<chisel:chisel>, Chisel
+<chisel:cloud>, Cloud
+<chisel:cloudinabottle>, Cloud In A Bottle
+<chisel:cobblestone>, Cobblestone
+<chisel:concrete>, Concrete
+<chisel:copperblock>, Block of Copper
+<chisel:dark_oak_planks>, Dark Oak Wood Planks
+<chisel:diamondChisel>, Diamond Chisel
+<chisel:diamond_block>, Diamond Block
+<chisel:diorite>, Diorite
+<chisel:dirt>, Dirt
+<chisel:emerald_block>, Emerald Block
+<chisel:end_Stone>, End Stone
+<chisel:factoryblock>, Factory Block
+<chisel:factoryblock2>, Factory Block
+<chisel:fantasyblock>, Purpled Fantasy Block
+<chisel:fantasyblock2>, Fantasy Block
+<chisel:futura>, Futura Block
+<chisel:futuraCircuit>, Futura Circuit
+<chisel:glass>, Glass
+<chisel:glass2>, Glass
+<chisel:glass_pane>, Glass Pane
+<chisel:glowstone>, Glowstone
+<chisel:gold2>, Block of Gold
+<chisel:gold_block>, Gold Block
+<chisel:granite>, Granite
+<chisel:grimstone>, Grimstone
+<chisel:hexLargePlating>, Large Hex Plating
+<chisel:hexPlating>, Hex Plating
+<chisel:holystone>, Holystone
+<chisel:ice>, Ice
+<chisel:ice_pillar>, Ice Pillar
+<chisel:ice_stairs.0>, Ice Stairs
+<chisel:ice_stairs.1>, Ice Stairs
+<chisel:ice_stairs.2>, Ice Stairs
+<chisel:ice_stairs.3>, Ice Stairs
+<chisel:ice_stairs.4>, Ice Stairs
+<chisel:ice_stairs.5>, Ice Stairs
+<chisel:ice_stairs.6>, Ice Stairs
+<chisel:ice_stairs.7>, Ice Stairs
+<chisel:iron2>, Block of Iron
+<chisel:iron_bars>, Iron Bars
+<chisel:iron_block>, Iron Block
+<chisel:jackolantern1>, Jack o'Lantern
+<chisel:jackolantern10>, Jack o'Lantern
+<chisel:jackolantern11>, Jack o'Lantern
+<chisel:jackolantern12>, Jack o'Lantern
+<chisel:jackolantern13>, Jack o'Lantern
+<chisel:jackolantern14>, Jack o'Lantern
+<chisel:jackolantern15>, Jack o'Lantern
+<chisel:jackolantern16>, Jack o'Lantern
+<chisel:jackolantern2>, Jack o'Lantern
+<chisel:jackolantern3>, Jack o'Lantern
+<chisel:jackolantern4>, Jack o'Lantern
+<chisel:jackolantern5>, Jack o'Lantern
+<chisel:jackolantern6>, Jack o'Lantern
+<chisel:jackolantern7>, Jack o'Lantern
+<chisel:jackolantern8>, Jack o'Lantern
+<chisel:jackolantern9>, Jack o'Lantern
+<chisel:jungle_planks>, Jungle Wood Planks
+<chisel:laboratoryblock>, Laboratory Block
+<chisel:lapis_block>, Lapis Block
+<chisel:lavastone>, Lavastone
+<chisel:leadblock>, Block of Lead
+<chisel:leaves>, Leaves
+<chisel:limestone>, Limestone
+<chisel:limestone_slab>, Limestone Slab
+<chisel:limestone_slab_top>, tile.null.name
+<chisel:limestone_stairs.0>, Limestone Stairs
+<chisel:limestone_stairs.1>, Limestone Stairs
+<chisel:limestone_stairs.2>, Limestone Stairs
+<chisel:limestone_stairs.3>, Limestone Stairs
+<chisel:limestone_stairs.4>, Limestone Stairs
+<chisel:limestone_stairs.5>, Limestone Stairs
+<chisel:limestone_stairs.6>, Limestone Stairs
+<chisel:limestone_stairs.7>, Limestone Stairs
+<chisel:marble>, Marble
+<chisel:marble_pillar>, Marble Pillar
+<chisel:marble_pillar_slab>, Marble Pillar Slab
+<chisel:marble_pillar_slab_top>, tile.null.name
+<chisel:marble_slab>, Marble Slab
+<chisel:marble_slab_top>, tile.null.name
+<chisel:marble_stairs.0>, Marble Stairs
+<chisel:marble_stairs.1>, Marble Stairs
+<chisel:marble_stairs.2>, Marble Stairs
+<chisel:marble_stairs.3>, Marble Stairs
+<chisel:marble_stairs.4>, Marble Stairs
+<chisel:marble_stairs.5>, Marble Stairs
+<chisel:marble_stairs.6>, Marble Stairs
+<chisel:marble_stairs.7>, Marble Stairs
+<chisel:mossy_cobblestone>, Mossy Cobblestone
+<chisel:mossy_templeblock>, Mossy Temple Block
+<chisel:nation>, Imperialistic Block
+<chisel:nether_brick>, Nether Brick
+<chisel:netherrack>, Netherrack
+<chisel:oak_planks>, Oak Wood Planks
+<chisel:obsidian>, Obsidian
+<chisel:obsidianChisel>, Obsidian Chisel
+<chisel:obsidian_snakestone>, Obsidian Snakestone
+<chisel:packedice>, Packed Ice
+<chisel:packedice_pillar>, Packed Ice Pillar
+<chisel:packedice_stairs.0>, Packed Ice Stairs
+<chisel:packedice_stairs.1>, Packed Ice Stairs
+<chisel:packedice_stairs.2>, Packed Ice Stairs
+<chisel:packedice_stairs.3>, Packed Ice Stairs
+<chisel:packedice_stairs.4>, Packed Ice Stairs
+<chisel:packedice_stairs.5>, Packed Ice Stairs
+<chisel:packedice_stairs.6>, Packed Ice Stairs
+<chisel:packedice_stairs.7>, Packed Ice Stairs
+<chisel:paperwall>, Paperwall
+<chisel:paperwall_block>, Paperwall Block
+<chisel:present>, Present
+<chisel:pumpkin1>, Pumpkin
+<chisel:pumpkin10>, Pumpkin
+<chisel:pumpkin11>, Pumpkin
+<chisel:pumpkin12>, Pumpkin
+<chisel:pumpkin13>, Pumpkin
+<chisel:pumpkin14>, Pumpkin
+<chisel:pumpkin15>, Pumpkin
+<chisel:pumpkin16>, Pumpkin
+<chisel:pumpkin2>, Pumpkin
+<chisel:pumpkin3>, Pumpkin
+<chisel:pumpkin4>, Pumpkin
+<chisel:pumpkin5>, Pumpkin
+<chisel:pumpkin6>, Pumpkin
+<chisel:pumpkin7>, Pumpkin
+<chisel:pumpkin8>, Pumpkin
+<chisel:pumpkin9>, Pumpkin
+<chisel:purpur>, Purpur
+<chisel:rebel>, Rebellious Block
+<chisel:redstone_block>, Redstone Block
+<chisel:road_line>, Road Lines
+<chisel:sand_snakestone>, Sand Snakestone
+<chisel:sandstone>, Sandstone
+<chisel:sandstone2>, tile.chisel.sandstone2.name
+<chisel:sandstone_scribbles>, Sandstone Scribbles
+<chisel:silverblock>, Block of Silver
+<chisel:smashingrock>, Smashing Rock
+<chisel:spruce_planks>, Spruce Wood Planks
+<chisel:stained_glass_brown>, Stained Glass
+<chisel:stained_glass_lightgray>, Stained Glass
+<chisel:stained_glass_pane_brown>, Stained Glass Pane
+<chisel:stained_glass_pane_lightgray>, Stained Glass Pane
+<chisel:stained_glass_pane_magenta>, Stained Glass Pane
+<chisel:stained_glass_pane_pink>, Stained Glass Pane
+<chisel:stained_glass_pane_purple>, Stained Glass Pane
+<chisel:stained_glass_pane_red>, Stained Glass Pane
+<chisel:stained_glass_pane_white>, Stained Glass Pane
+<chisel:stained_glass_pane_yellow>, Stained Glass Pane
+<chisel:stained_glass_white>, Stained Glass
+<chisel:stained_glass_yellow>, Stained Glass
+<chisel:steelblock>, Block of Steel
+<chisel:stone_snakestone>, Stone Snakestone
+<chisel:stonebricksmooth>, Stone Bricks
+<chisel:technical>, Technical Block
+<chisel:technical2>, Transparent Technical Block
+<chisel:technical3>, Industrial Technical Block
+<chisel:technical4>, Technical Block
+<chisel:templeblock>, Temple Block
+<chisel:tinblock>, Block of Tin
+<chisel:torch1>, Torch
+<chisel:torch10>, Torch
+<chisel:torch2>, Torch
+<chisel:torch3>, Torch
+<chisel:torch4>, Torch
+<chisel:torch5>, Torch
+<chisel:torch6>, Torch
+<chisel:torch7>, Torch
+<chisel:torch8>, Torch
+<chisel:torch9>, Torch
+<chisel:tyrian>, Tyrian
+<chisel:upgrade>, Speed Upgrade
+<chisel:uraniumblock>, Block of Uranium
+<chisel:valentines>, Valentines Block
+<chisel:voidstone>, Voidstone
+<chisel:voidstone2>, Energised Voidstone
+<chisel:voidstonePillar>, Voidstone Pillar
+<chisel:voidstonePillar2>, Energised Voidstone Pillar
+<chisel:voidstoneRunic>, Runic Voidstone
+<chisel:warningSign>, Warning Sign
+<chisel:waterstone>, Waterstone
+<chisel:woolen_clay>, Woolen Clay
+<exastris:ArditeOreBlock>, Ardite Ore Gravel
+<exastris:ArditeOreItem>, Broken Ardite Ore
+<exastris:CobaltOreBlock>, Cobalt Ore Gravel
+<exastris:CobaltOreItem>, Broken Cobalt Ore
+<exastris:SieveUpgradeItem>, Speed Upgrade
+<exastris:chiselStone>, Marble Stone
+<exastris:endcake>, End Cake
+<exastris:hammer_automatic>, Automatic Hammerer
+<exastris:manaHammer>, Manasteel Hammer
+<exastris:sieve_automatic>, Automatic Sieve
+<exastris:uncharged_netherstar>, Uncharged Nether Star
+<exnihilo:aluminum_dust>, Aluminum Ore Dust
+<exnihilo:aluminum_gravel>, Aluminum Ore Gravel
+<exnihilo:aluminum_sand>, Aluminum Ore Sand
+<exnihilo:barrel>, Oak Barrel
+<exnihilo:barrel_stone>, Stone Barrel
+<exnihilo:bee_trap>, Artificial Hive
+<exnihilo:bee_trap_treated>, Scented Artificial Hive
+<exnihilo:bucket_witchwater>, Witch Water Bucket
+<exnihilo:copper_dust>, Copper Ore Dust
+<exnihilo:copper_gravel>, Copper Ore Gravel
+<exnihilo:copper_sand>, Copper Ore Sand
+<exnihilo:crook>, Crook
+<exnihilo:crook_bone>, Bone Crook
+<exnihilo:crucible>, Crucible
+<exnihilo:crucible_unfired>, Unfired Crucible
+<exnihilo:doll>, Precious Doll
+<exnihilo:doll_angry>, Angry Doll
+<exnihilo:doll_creepy>, Creepy Doll
+<exnihilo:dust>, Dust
+<exnihilo:ender_lead_gravel>, Lead Ore Gravel
+<exnihilo:ender_platinum_gravel>, Platinum Ore Gravel
+<exnihilo:ender_silver_gravel>, Silver Ore Gravel
+<exnihilo:ender_tin_gravel>, Tin Ore Gravel
+<exnihilo:exnihilo.aluminum_broken>, Broken Aluminum Ore
+<exnihilo:exnihilo.aluminum_crushed>, Crushed Aluminum Ore
+<exnihilo:exnihilo.aluminum_ingot>, Aluminum Ingot
+<exnihilo:exnihilo.aluminum_powdered>, Powdered Aluminum Ore
+<exnihilo:exnihilo.copper_broken>, Broken Copper Ore
+<exnihilo:exnihilo.copper_crushed>, Crushed Copper Ore
+<exnihilo:exnihilo.copper_ingot>, Copper Ingot
+<exnihilo:exnihilo.copper_powdered>, Powdered Copper Ore
+<exnihilo:exnihilo.ender_lead_broken>, Broken Lead Ore
+<exnihilo:exnihilo.ender_platinum_broken>, Broken Platinum Ore
+<exnihilo:exnihilo.ender_silver_broken>, Broken Silver Ore
+<exnihilo:exnihilo.ender_tin_broken>, Broken Tin Ore
+<exnihilo:exnihilo.gold_broken>, Broken Gold Ore
+<exnihilo:exnihilo.gold_crushed>, Crushed Gold Ore
+<exnihilo:exnihilo.gold_powdered>, Powdered Gold Ore
+<exnihilo:exnihilo.gravel_ender>, Crushed End Stone
+<exnihilo:exnihilo.gravel_nether>, Crushed Netherrack
+<exnihilo:exnihilo.iron_broken>, Broken Iron Ore
+<exnihilo:exnihilo.iron_crushed>, Crushed Iron Ore
+<exnihilo:exnihilo.iron_powdered>, Powdered Iron Ore
+<exnihilo:exnihilo.lead_broken>, Broken Lead Ore
+<exnihilo:exnihilo.lead_crushed>, Crushed Lead Ore
+<exnihilo:exnihilo.lead_ingot>, Lead Ingot
+<exnihilo:exnihilo.lead_powdered>, Powdered Lead Ore
+<exnihilo:exnihilo.nether_copper_broken>, Broken Copper Ore
+<exnihilo:exnihilo.nether_gold_broken>, Broken Gold Ore
+<exnihilo:exnihilo.nether_iron_broken>, Broken Iron Ore
+<exnihilo:exnihilo.nether_nickel_broken>, Broken Nickel Ore
+<exnihilo:exnihilo.nickel_broken>, Broken Nickel Ore
+<exnihilo:exnihilo.nickel_crushed>, Crushed Nickel Ore
+<exnihilo:exnihilo.nickel_ingot>, Nickel Ingot
+<exnihilo:exnihilo.nickel_powdered>, Powdered Nickel Ore
+<exnihilo:exnihilo.platinum_broken>, Broken Platinum Ore
+<exnihilo:exnihilo.platinum_crushed>, Crushed Platinum Ore
+<exnihilo:exnihilo.platinum_ingot>, Platinum Ingot
+<exnihilo:exnihilo.platinum_powdered>, Powdered Platinum Ore
+<exnihilo:exnihilo.silver_broken>, Broken Silver Ore
+<exnihilo:exnihilo.silver_crushed>, Crushed Silver Ore
+<exnihilo:exnihilo.silver_ingot>, Silver Ingot
+<exnihilo:exnihilo.silver_powdered>, Powdered Silver Ore
+<exnihilo:exnihilo.tin_broken>, Broken Tin Ore
+<exnihilo:exnihilo.tin_crushed>, Crushed Tin Ore
+<exnihilo:exnihilo.tin_ingot>, Tin Ingot
+<exnihilo:exnihilo.tin_powdered>, Powdered Tin Ore
+<exnihilo:gold_dust>, Gold Ore Dust
+<exnihilo:gold_gravel>, Gold Ore Gravel
+<exnihilo:gold_sand>, Gold Ore Sand
+<exnihilo:hammer_diamond>, Diamond Hammer
+<exnihilo:hammer_gold>, Gold Hammer
+<exnihilo:hammer_iron>, Iron Hammer
+<exnihilo:hammer_stone>, Stone Hammer
+<exnihilo:hammer_wood>, Wooden Hammer
+<exnihilo:ice_shard>, Ice Shard
+<exnihilo:infested_leaves>, Infested Leaves
+<exnihilo:iron_dust>, Iron Ore Dust
+<exnihilo:iron_gravel>, Iron Ore Gravel
+<exnihilo:iron_sand>, Iron Ore Sand
+<exnihilo:lead_dust>, Lead Ore Dust
+<exnihilo:lead_gravel>, Lead Ore Gravel
+<exnihilo:lead_sand>, Lead Ore Sand
+<exnihilo:mesh>, Silk Mesh
+<exnihilo:nether_copper_gravel>, Copper Ore Gravel
+<exnihilo:nether_gold_gravel>, Gold Ore Gravel
+<exnihilo:nether_iron_gravel>, Iron Ore Gravel
+<exnihilo:nether_nickel_gravel>, Nickel Ore Gravel
+<exnihilo:nickel_dust>, Nickel Ore Dust
+<exnihilo:nickel_gravel>, Nickel Ore Gravel
+<exnihilo:nickel_sand>, Nickel Ore Sand
+<exnihilo:platinum_dust>, Platinum Ore Dust
+<exnihilo:platinum_gravel>, Platinum Ore Gravel
+<exnihilo:platinum_sand>, Platinum Ore Sand
+<exnihilo:porcelain>, Porcelain Clay
+<exnihilo:seed_acacia>, Acacia Seed
+<exnihilo:seed_birch>, Birch Seed
+<exnihilo:seed_cactus>, Cactus Seeds
+<exnihilo:seed_carrot>, Carrot Seeds
+<exnihilo:seed_grass>, Grass Seeds
+<exnihilo:seed_jungle>, Exotic Seed
+<exnihilo:seed_oak>, Acorn
+<exnihilo:seed_potato>, Potato Seeds
+<exnihilo:seed_rubber>, Rubber Tree Seeds
+<exnihilo:seed_spruce>, Spruce Seed
+<exnihilo:seed_sugar_cane>, Sugar Cane Seeds
+<exnihilo:sifting_table>, Oak Sieve
+<exnihilo:silkworm>, Silkworm
+<exnihilo:silkworm_cooked>, Cooked Silkworm
+<exnihilo:silver_dust>, Silver Ore Dust
+<exnihilo:silver_gravel>, Silver Ore Gravel
+<exnihilo:silver_sand>, Silver Ore Sand
+<exnihilo:spores>, Ancient Spores
+<exnihilo:stone>, Stone
+<exnihilo:tin_dust>, Tin Ore Dust
+<exnihilo:tin_gravel>, Tin Ore Gravel
+<exnihilo:tin_sand>, Tin Ore Sand
+<exnihilo:witchwater>, Witch Water
+<extracells:certustank>, Certus Quartz Tank
+<extracells:ecbaseblock>, ME Fluid Interface
+<extracells:fluid.item>, null
+<extracells:fluidcrafter>, ME Fluid Assembler
+<extracells:hardmedrive>, Blast resistant ME Drive [WIP]
+<extracells:part.base>, ME Fluid Export Bus
+<extracells:pattern.crafting>, item.extracells.pattern.crafting.name
+<extracells:pattern.fluid>, ME Fluid Pattern [WIP]
+<extracells:storage.casing>, Advanced Storage Housing
+<extracells:storage.component>, 256k ME Storage Component
+<extracells:storage.fluid>, ME 1k Fluid Storage
+<extracells:storage.fluid.portable>, ME Portable Fluid Storage
+<extracells:storage.physical>, ME 256k Storage
+<extracells:terminal.fluid.wireless>, Wireless ME Fluid Terminal
+<extracells:vibrantchamberfluid>, Fluid Vibration Chamber
+<extracells:walrus>, Walrus
+<harvestcraft:almondItem>, Almond
+<harvestcraft:anchovyrawItem>, Raw Anchovy
+<harvestcraft:animaltrap>, Animal Trap
+<harvestcraft:apiary>, Apiary
+<harvestcraft:appleciderItem>, Apple Cider
+<harvestcraft:applejellyItem>, Apple Jelly
+<harvestcraft:applejellysandwichItem>, Apple Jelly Sandwich
+<harvestcraft:applejuiceItem>, Apple Juice
+<harvestcraft:applepieItem>, Apple Pie
+<harvestcraft:applesauceItem>, Apple Sauce
+<harvestcraft:appleyogurtItem>, Apple Yogurt
+<harvestcraft:apricotItem>, Apricot
+<harvestcraft:apricotglazedporkItem>, Apricot Glazed Pork
+<harvestcraft:apricotjellyItem>, Apricot Jelly
+<harvestcraft:apricotjellysandwichItem>, Apricot Jelly Sandwich
+<harvestcraft:apricotjuiceItem>, Apricot Juice
+<harvestcraft:apricotsmoothieItem>, Apricot Smoothie
+<harvestcraft:apricotyogurtItem>, Apricot Yogurt
+<harvestcraft:artichokeItem>, Artichoke
+<harvestcraft:artichokeseedItem>, Artichoke Seed
+<harvestcraft:asparagusItem>, Asparagus
+<harvestcraft:asparagusquicheItem>, Asparagus Quiche
+<harvestcraft:asparagusseedItem>, Asparagus Seed
+<harvestcraft:asparagussoupItem>, Asparagus Soup
+<harvestcraft:avocadoItem>, Avocado
+<harvestcraft:avocadoburritoItem>, Avocado Burrito
+<harvestcraft:baconcheeseburgerItem>, Bacon Cheeseburger
+<harvestcraft:baconmushroomburgerItem>, Bacon Mushroom Burger
+<harvestcraft:baconwrappeddatesItem>, Bacon Wrapped Dates
+<harvestcraft:bakedbeansItem>, Baked Beans
+<harvestcraft:bakedbeetsItem>, Baked Beets
+<harvestcraft:bakedhamItem>, Baked Ham
+<harvestcraft:bakedsweetpotatoItem>, Baked Sweet Potato
+<harvestcraft:bakedturnipsItem>, Baked Turnips
+<harvestcraft:bakewareItem>, Bakeware
+<harvestcraft:baklavaItem>, Baklava
+<harvestcraft:bambooshootItem>, Bamboo Shoot
+<harvestcraft:bambooshootseedItem>, Bamboo Shoot Seed
+<harvestcraft:bamboosteamedriceItem>, Bamboo Steamed Rice
+<harvestcraft:bananaItem>, Banana
+<harvestcraft:bananamilkshakeItem>, Banana Milkeshake
+<harvestcraft:banananutbreadItem>, Banana Nut Bread
+<harvestcraft:bananasmoothieItem>, Banana Smoothie
+<harvestcraft:bananasplitItem>, Banana Split
+<harvestcraft:bananayogurtItem>, Banana Yogurt
+<harvestcraft:bangersandmashItem>, Bangers and Mash
+<harvestcraft:barleyItem>, Barley
+<harvestcraft:barleyseedItem>, Barley Seed
+<harvestcraft:bassrawItem>, Raw Bass
+<harvestcraft:batterItem>, Batter
+<harvestcraft:batteredsausageItem>, Battered Sausage
+<harvestcraft:bbqpulledporkItem>, BBQ Pulled Pork
+<harvestcraft:beanItem>, Beans
+<harvestcraft:beanburritoItem>, Bean Burrito
+<harvestcraft:beansandriceItem>, Beans and Rice
+<harvestcraft:beanseedItem>, Bean Seed
+<harvestcraft:beansontoastItem>, Beans on Toast
+<harvestcraft:beefjerkyItem>, Beef Jerky
+<harvestcraft:beefwellingtonItem>, Beef Wellington
+<harvestcraft:beehive>, Beehive
+<harvestcraft:beeswaxItem>, Beeswax
+<harvestcraft:beetItem>, Beet
+<harvestcraft:beetburgerItem>, Beet Burger
+<harvestcraft:beetsaladItem>, Beet Salad
+<harvestcraft:beetseedItem>, Beet Seed
+<harvestcraft:beetsoupItem>, Beet Soup
+<harvestcraft:bellpepperItem>, Bellpepper
+<harvestcraft:bellpepperseedItem>, Bellpepper Seed
+<harvestcraft:berrygarden>, Berry Garden
+<harvestcraft:biscuitItem>, Biscuit
+<harvestcraft:blackberryItem>, Blackberry
+<harvestcraft:blackberrycobblerItem>, Blackberry Cobbler
+<harvestcraft:blackberryjellyItem>, Blackberry Jelly
+<harvestcraft:blackberryjellysandwichItem>, Blackberry Jelly Sandwich
+<harvestcraft:blackberryjuiceItem>, Blackberry Juice
+<harvestcraft:blackberryseedItem>, Blackberry Seed
+<harvestcraft:blackberrysmoothieItem>, Blackberry Smoothie
+<harvestcraft:blackberryyogurtItem>, Blackberry Yogurt
+<harvestcraft:blackpepperItem>, Black Pepper
+<harvestcraft:bltItem>, BLT
+<harvestcraft:blueberryItem>, Blueberry
+<harvestcraft:blueberryjellyItem>, Blueberry Jelly
+<harvestcraft:blueberryjellysandwichItem>, Blueberry Jelly Sandwich
+<harvestcraft:blueberryjuiceItem>, Blueberry Juice
+<harvestcraft:blueberrymuffinItem>, Blueberry Muffin
+<harvestcraft:blueberrypancakesItem>, Blueberry Pancakes
+<harvestcraft:blueberrypieItem>, Blueberry Pie
+<harvestcraft:blueberryseedItem>, Blueberry Seed
+<harvestcraft:blueberrysmoothieItem>, Blueberry Smoothie
+<harvestcraft:blueberryyogurtItem>, Blueberry Yogurt
+<harvestcraft:boiledeggItem>, Boiled Egg
+<harvestcraft:braisedonionsItem>, Braised Onions
+<harvestcraft:breadedporkchopItem>, Breaded Porkchop
+<harvestcraft:broccoliItem>, Broccoli
+<harvestcraft:broccolimacItem>, Broccoli Mac
+<harvestcraft:broccolindipItem>, Broccoli n Dip
+<harvestcraft:broccoliseedItem>, Broccoli Seed
+<harvestcraft:brownieItem>, Brownie
+<harvestcraft:brusselsproutItem>, Brussel Sprout
+<harvestcraft:brusselsproutseedItem>, Brussel Sprout Seed
+<harvestcraft:bubblywaterItem>, Bubbly Water
+<harvestcraft:butterItem>, Butter
+<harvestcraft:butteredpotatoItem>, Buttered Potato
+<harvestcraft:cabbageItem>, Cabbage
+<harvestcraft:cabbageseedItem>, Cabbage Seed
+<harvestcraft:cactusfruitItem>, Cactus Fruit
+<harvestcraft:cactusfruitjuiceItem>, Cactus Fruit Juice
+<harvestcraft:cactusfruitseedItem>, Cactus Fruit Seed
+<harvestcraft:cactussoupItem>, Cactus Soup
+<harvestcraft:calamaricookedItem>, Cooked Calamari
+<harvestcraft:calamarirawItem>, Raw Calamari
+<harvestcraft:californiarollItem>, California Roll
+<harvestcraft:candiedgingerItem>, Candied Ginger
+<harvestcraft:candiedlemonItem>, Candied Lemon
+<harvestcraft:candiedsweetpotatoesItem>, Candied Sweet Potatoes
+<harvestcraft:candiedwalnutsItem>, Candied Walnuts
+<harvestcraft:candleberryItem>, Candleberry
+<harvestcraft:candleberryseedItem>, Candleberry Seed
+<harvestcraft:cantaloupeItem>, Cantaloupe
+<harvestcraft:cantaloupeseedItem>, Cantaloupe Seed
+<harvestcraft:caramelItem>, Caramel
+<harvestcraft:caramelappleItem>, Caramel Apple
+<harvestcraft:caramelicecreamItem>, Caramel Ice Cream
+<harvestcraft:carprawItem>, Raw Carp
+<harvestcraft:carrotcakeItem>, Carrot Cake
+<harvestcraft:carrotjuiceItem>, Carrot Juice
+<harvestcraft:carrotsoupItem>, Carrot Soup
+<harvestcraft:cashewItem>, Cashew
+<harvestcraft:cashewchickenItem>, Cashew Chicken
+<harvestcraft:catfishrawItem>, Raw Catfish
+<harvestcraft:cauliflowerItem>, Cauliflower
+<harvestcraft:cauliflowerseedItem>, Cauliflower Seed
+<harvestcraft:ceasarsaladItem>, Ceasar Salad
+<harvestcraft:celeryItem>, Celery
+<harvestcraft:celeryandpeanutbutterItem>, Celery and Peanut Butter
+<harvestcraft:celeryseedItem>, Celery Seed
+<harvestcraft:celerysoupItem>, Celery Soup
+<harvestcraft:chaiteaItem>, Chai Tea
+<harvestcraft:chaoscookieItem>, Chaos Cookie
+<harvestcraft:charrrawItem>, Raw Charr
+<harvestcraft:cheeseItem>, Cheese
+<harvestcraft:cheeseburgerItem>, Cheeseburger
+<harvestcraft:cheesecakeItem>, Cheesecake
+<harvestcraft:cherryItem>, Cherry
+<harvestcraft:cherrycheesecakeItem>, Cherry Cheesecake
+<harvestcraft:cherrycoconutchocolatebarItem>, Cherry Coconut Chocolate Bar
+<harvestcraft:cherryicecreamItem>, Cherry Ice Cream
+<harvestcraft:cherryjellyItem>, Cherry Jelly
+<harvestcraft:cherryjellysandwichItem>, Cherry Jelly Sandwich
+<harvestcraft:cherryjuiceItem>, Cherry Juice
+<harvestcraft:cherrypieItem>, Cherry Pie
+<harvestcraft:cherrysmoothieItem>, Cherry Smoothie
+<harvestcraft:cherrysodaItem>, Cherry Soda
+<harvestcraft:cherryyogurtItem>, Cherry Yogurt
+<harvestcraft:chestnutItem>, Chestnut
+<harvestcraft:chickencelerycasseroleItem>, Chicken Celery Casserole
+<harvestcraft:chickencurryItem>, Chicken Curry
+<harvestcraft:chickengumboItem>, Chicken Gumbo
+<harvestcraft:chickennoodlesoupItem>, Chicken Noodle Soup
+<harvestcraft:chickenparmasanItem>, Chicken Parmasan
+<harvestcraft:chickenpotpieItem>, Chicken Pot Pie
+<harvestcraft:chickensandwichItem>, Chicken Sandwich
+<harvestcraft:chikorollItem>, Chiko Roll
+<harvestcraft:chiliItem>, Chili
+<harvestcraft:chilichocolateItem>, Chili Chocolate
+<harvestcraft:chilipepperItem>, Chili Pepper
+<harvestcraft:chilipepperseedItem>, Chili Pepper Seed
+<harvestcraft:chilipoppersItem>, Chili Poppers
+<harvestcraft:chocolatebaconItem>, Chocolate Bacon
+<harvestcraft:chocolatebarItem>, Chocolate Bar
+<harvestcraft:chocolatecaramelfudgeItem>, Chocolate Caramel Fudge
+<harvestcraft:chocolatecherryItem>, Chocolate Cherry
+<harvestcraft:chocolatedonutItem>, Chocolate Donut
+<harvestcraft:chocolateicecreamItem>, Chocolate Ice Cream
+<harvestcraft:chocolatemilkItem>, Chocolate Milk
+<harvestcraft:chocolatemilkshakeItem>, Chocolate Milkshake
+<harvestcraft:chocolatesprinklecakeItem>, Chocolate Spinkles Cake
+<harvestcraft:chocolatestrawberryItem>, Chocolate Strawberry
+<harvestcraft:chocolateyogurtItem>, Chocolate Yogurt
+<harvestcraft:chorizoItem>, Chorizo
+<harvestcraft:churn>, Churn
+<harvestcraft:churnon>, tile.churnon.name
+<harvestcraft:cinnamonItem>, Cinnamon
+<harvestcraft:cinnamonappleoatmealItem>, Cinnamon Apple Oatmeal
+<harvestcraft:cinnamonrollItem>, Cinnamon Roll
+<harvestcraft:cinnamonsugardonutItem>, Cinnamon Sugar Donut
+<harvestcraft:citrussaladItem>, Citrus Salad
+<harvestcraft:clamcookedItem>, Cooked Clam
+<harvestcraft:clamrawItem>, Raw Clam
+<harvestcraft:cocoapowderItem>, Cocoa Powder
+<harvestcraft:coconutItem>, Coconut
+<harvestcraft:coconutmilkItem>, Coconut Milk
+<harvestcraft:coconutshrimpItem>, Coconut Shrimp
+<harvestcraft:coconutyogurtItem>, Coconut Yogurt
+<harvestcraft:coffeeItem>, Cup of Coffee
+<harvestcraft:coffeebeanItem>, Coffee Beans
+<harvestcraft:coffeeconlecheItem>, Coffee con Leche
+<harvestcraft:coffeeseedItem>, Coffee Seed
+<harvestcraft:colasodaItem>, Cola Soda
+<harvestcraft:coleslawItem>, Coleslaw
+<harvestcraft:coleslawburgerItem>, Coleslaw Burger
+<harvestcraft:cornItem>, Corn
+<harvestcraft:cornbreadItem>, Cornbread
+<harvestcraft:cornflakesItem>, Cornflakes
+<harvestcraft:cornmealItem>, Cornmeal
+<harvestcraft:cornonthecobItem>, Corn on the Cob
+<harvestcraft:cornseedItem>, Corn Seed
+<harvestcraft:cottonItem>, Cotton
+<harvestcraft:cottonseedItem>, Cotton Seed
+<harvestcraft:crabcookedItem>, Cooked Crab
+<harvestcraft:crabrawItem>, Raw Crab
+<harvestcraft:cranberryItem>, Cranberry
+<harvestcraft:cranberrybarItem>, Cranberry Bar
+<harvestcraft:cranberryjellyItem>, Cranberry Jelly
+<harvestcraft:cranberryjellysandwichItem>, Cranberry Jelly Sandwich
+<harvestcraft:cranberryjuiceItem>, Cranberry Juice
+<harvestcraft:cranberrysauceItem>, Cranberry Sauce
+<harvestcraft:cranberryseedItem>, Cranberry Seed
+<harvestcraft:crayfishcookedItem>, Cooked Crayfish
+<harvestcraft:crayfishrawItem>, Raw Crayfish
+<harvestcraft:creamcookieItem>, Cream Cookie
+<harvestcraft:creamedbroccolisoupItem>, Creamed Broccoli Soup
+<harvestcraft:creamedcornItem>, Creamed Corn
+<harvestcraft:creamofavocadosoupItem>, Cream of Avocado Soup
+<harvestcraft:cucumberItem>, Cucumber
+<harvestcraft:cucumbersaladItem>, Cucumber Salad
+<harvestcraft:cucumberseedItem>, Cucumber Seed
+<harvestcraft:cucumbersoupItem>, Cucumber Soup
+<harvestcraft:curryItem>, Curry Rice
+<harvestcraft:custardItem>, Custard
+<harvestcraft:cuttingboard>, Cutting Board
+<harvestcraft:cuttingboardItem>, Cutting Board
+<harvestcraft:damperItem>, Damper
+<harvestcraft:dateItem>, Date
+<harvestcraft:datenutbreadItem>, Date Nut Bread
+<harvestcraft:delightedmealItem>, Delighted Meal
+<harvestcraft:deluxecheeseburgerItem>, Deluxe Cheeseburger
+<harvestcraft:desertgarden>, Desert Garden
+<harvestcraft:donutItem>, Donut
+<harvestcraft:doughItem>, Dough
+<harvestcraft:dragonfruitItem>, Dragonfruit
+<harvestcraft:durianItem>, Durian
+<harvestcraft:ediblerootItem>, Edible Root
+<harvestcraft:eelrawItem>, Raw Eel
+<harvestcraft:eggnogItem>, Egg Nog
+<harvestcraft:eggplantItem>, Eggplant
+<harvestcraft:eggplantparmItem>, Eggplant Parm
+<harvestcraft:eggplantseedItem>, Eggplant Seed
+<harvestcraft:eggsaladItem>, Egg Salad
+<harvestcraft:energydrinkItem>, Energy Drink
+<harvestcraft:epicbaconItem>, Epic Bacon
+<harvestcraft:espressoItem>, Espresso
+<harvestcraft:extremechiliItem>, Extreme Chili
+<harvestcraft:fairybreadItem>, Fairy Bread
+<harvestcraft:figItem>, Fig
+<harvestcraft:figbarItem>, Fig Bar
+<harvestcraft:figjellyItem>, Fig Jelly
+<harvestcraft:figjellysandwichItem>, Fig Jelly Sandwich
+<harvestcraft:figjuiceItem>, Fig Juice
+<harvestcraft:figsmoothieItem>, Fig Smoothie
+<harvestcraft:figyogurtItem>, Fig Yogurt
+<harvestcraft:firmtofuItem>, Firm Tofu
+<harvestcraft:fishandchipsItem>, Fish and Chips
+<harvestcraft:fishdinnerItem>, Fish Dinner
+<harvestcraft:fishlettucewrapItem>, Fish Lettuce Wrap
+<harvestcraft:fishsandwichItem>, Fish Sandwich
+<harvestcraft:fishsticksItem>, Fish Sticks
+<harvestcraft:fishtacoItem>, Fish Taco
+<harvestcraft:fishtrap>, Fish Trap
+<harvestcraft:fishtrapbaitItem>, Fish Trap Bait
+<harvestcraft:flourItem>, Flour
+<harvestcraft:footlongItem>, Footlong
+<harvestcraft:frenchtoastItem>, French Toast
+<harvestcraft:freshmilkItem>, Fresh Milk
+<harvestcraft:freshwaterItem>, Fresh Water
+<harvestcraft:friedchickenItem>, Fried Chicken
+<harvestcraft:friedeggItem>, Fried Egg
+<harvestcraft:friedonionsItem>, Fried Onions
+<harvestcraft:friedriceItem>, Fried Rice
+<harvestcraft:friesItem>, Fries
+<harvestcraft:frogcookedItem>, Cooked Frog Legs
+<harvestcraft:frograwItem>, Raw Frog
+<harvestcraft:frosteddonutItem>, Frosted Donut
+<harvestcraft:fruitbaitItem>, Fruit Bait
+<harvestcraft:fruitcrumbleItem>, Fruit Crumble
+<harvestcraft:fruitpunchItem>, Fruit Punch
+<harvestcraft:fruitsaladItem>, Fruit Salad
+<harvestcraft:futomakiItem>, Futo Maki
+<harvestcraft:gardensoupItem>, Garden Soup
+<harvestcraft:garlicItem>, Garlic
+<harvestcraft:garlicbreadItem>, Garlic Bread
+<harvestcraft:garlicchickenItem>, Garlic Chicken
+<harvestcraft:garlicmashedpotatoesItem>, Garlic Mashed Potatoes
+<harvestcraft:garlicseedItem>, Garlic Seed
+<harvestcraft:generaltsochickenItem>, General Tso's Chicken
+<harvestcraft:gherkinItem>, Gherkin
+<harvestcraft:gingerItem>, Ginger
+<harvestcraft:gingerbreadItem>, Ginger Bread
+<harvestcraft:gingerchickenItem>, Ginger Chicken
+<harvestcraft:gingeredrhubarbtartItem>, Gingered Rhubarb Tart
+<harvestcraft:gingerseedItem>, Ginger Seed
+<harvestcraft:gingersnapsItem>, Ginger Snaps
+<harvestcraft:gingersodaItem>, Ginger Ale
+<harvestcraft:glazedcarrotsItem>, Glazed Carrots
+<harvestcraft:gourdgarden>, Gourd Garden
+<harvestcraft:grainbaitItem>, Grain Bait
+<harvestcraft:grapeItem>, Grape
+<harvestcraft:grapefruitItem>, Grapefruit
+<harvestcraft:grapefruitjellyItem>, Grapefruit Jelly
+<harvestcraft:grapefruitjellysandwichItem>, Grapefruit Jelly Sandwich
+<harvestcraft:grapefruitjuiceItem>, Grapfruit Juice
+<harvestcraft:grapefruitsmoothieItem>, Grapefruit Smoothie
+<harvestcraft:grapefruitsodaItem>, Grapefruit Soda
+<harvestcraft:grapefruityogurtItem>, Grapefruit Yogurt
+<harvestcraft:grapejellyItem>, Grape Jelly
+<harvestcraft:grapejuiceItem>, Grape Juice
+<harvestcraft:grapesaladItem>, Grape Salad
+<harvestcraft:grapeseedItem>, Grape Seed
+<harvestcraft:grapesodaItem>, Grape Soda
+<harvestcraft:grapeyogurtItem>, Grape Yogurt
+<harvestcraft:grassgarden>, Grass Garden
+<harvestcraft:grilledasparagusItem>, Grilled Asparagus
+<harvestcraft:grilledcheeseItem>, Grilled Cheese
+<harvestcraft:grilledeggplantItem>, Grilled Eggplant
+<harvestcraft:grilledmushroomItem>, Grilled Mushroom
+<harvestcraft:grilledskewersItem>, Grilled Skewer
+<harvestcraft:groundcinnamonItem>, Ground Cinnamon
+<harvestcraft:groundgarden>, Ground Garden
+<harvestcraft:groundnutmegItem>, Ground Nutmeg
+<harvestcraft:grouperrawItem>, Raw Grouper
+<harvestcraft:grubItem>, Bee Grub
+<harvestcraft:guacamoleItem>, Guacamole
+<harvestcraft:gummybearsItem>, Gummy Bears
+<harvestcraft:hamburgerItem>, Hamburger
+<harvestcraft:hardenedleatherItem>, Hardened Leather
+<harvestcraft:hardenedleatherbootsItem>, Hardened Leather Boots
+<harvestcraft:hardenedleatherchestItem>, Hardened Leather Chest
+<harvestcraft:hardenedleatherhelmItem>, Hardened Leather Helm
+<harvestcraft:hardenedleatherleggingsItem>, Hardened Leather Leggings
+<harvestcraft:hashItem>, Hash
+<harvestcraft:heartybreakfastItem>, Hearty Breakfast
+<harvestcraft:heavycreamItem>, Heavy Cream
+<harvestcraft:herbbutterparsnipsItem>, Herb Butter Parsnips
+<harvestcraft:herbgarden>, Herb Garden
+<harvestcraft:herringrawItem>, Raw Herring
+<harvestcraft:holidaycakeItem>, Holiday Cake
+<harvestcraft:honeyItem>, Honey
+<harvestcraft:honeycombItem>, Honeycomb
+<harvestcraft:honeycombchocolatebarItem>, Honeycomb Chocolate Bar
+<harvestcraft:honeylemonlambItem>, Honey Lemon Lamb
+<harvestcraft:hotchocolateItem>, Hot Chocolate
+<harvestcraft:hotdogItem>, Hotdog
+<harvestcraft:hotwingsItem>, Hot Wings
+<harvestcraft:icecreamItem>, Ice Cream
+<harvestcraft:jaffaItem>, Jaffa
+<harvestcraft:jellybeansItem>, Jellybeans
+<harvestcraft:jellydonutItem>, Jelly Donut
+<harvestcraft:jellyfishrawItem>, Raw Jellyfish
+<harvestcraft:juicerItem>, Juicer
+<harvestcraft:ketchupItem>, Ketchup
+<harvestcraft:keylimepieItem>, Keylime Pie
+<harvestcraft:kiwiItem>, Kiwi
+<harvestcraft:kiwijellyItem>, Kiwi Jelly
+<harvestcraft:kiwijellysandwichItem>, Kiwi Jelly Sandwich
+<harvestcraft:kiwijuiceItem>, Kiwi Juice
+<harvestcraft:kiwiseedItem>, Kiwi Seed
+<harvestcraft:kiwismoothieItem>, Kiwi Smoothie
+<harvestcraft:kiwiyogurtItem>, Kiwi Yogurt
+<harvestcraft:lambbarleysoupItem>, Lamb Barley Soup
+<harvestcraft:lambkebabItem>, Lamb Kebab
+<harvestcraft:lambwithmintsauceItem>, Lamb with Mint Sauce
+<harvestcraft:lamingtonItem>, Lamington
+<harvestcraft:lavendershortbreadItem>, Lavender Shortbread
+<harvestcraft:leafychickensandwichItem>, Leafy Chicken Sandwich
+<harvestcraft:leafyfishsandwichItem>, Leafy Fish Sandwich
+<harvestcraft:leafygarden>, Leafy Garden
+<harvestcraft:leekItem>, Leek
+<harvestcraft:leekbaconsoupItem>, Leek Bacon Soup
+<harvestcraft:leekseedItem>, Leek Seed
+<harvestcraft:lemonItem>, Lemon
+<harvestcraft:lemonaideItem>, Lemonade
+<harvestcraft:lemonbarItem>, Lemon Bar
+<harvestcraft:lemonchickenItem>, Lemon Chicken
+<harvestcraft:lemonjellyItem>, Lemon Jelly
+<harvestcraft:lemonjellysandwichItem>, Lemon Jelly Sandwich
+<harvestcraft:lemonlimesodaItem>, Lemon-Lime Soda
+<harvestcraft:lemonmeringueItem>, Lemon Meringue
+<harvestcraft:lemonsmoothieItem>, Lemon Smoothie
+<harvestcraft:lemonyogurtItem>, Lemon Yogurt
+<harvestcraft:lettuceItem>, Lettuce
+<harvestcraft:lettuceseedItem>, Lettuce Seed
+<harvestcraft:limeItem>, Lime
+<harvestcraft:limejellyItem>, Lime Jelly
+<harvestcraft:limejellysandwichItem>, Lime Jelly Sandwich
+<harvestcraft:limejuiceItem>, Lime Juice
+<harvestcraft:limesmoothieItem>, Lime Smoothie
+<harvestcraft:limeyogurtItem>, Lime Yogurt
+<harvestcraft:loadedbakedpotatoItem>, Loaded Baked Potato
+<harvestcraft:mangoItem>, Mango
+<harvestcraft:mangojellyItem>, Mango Jelly
+<harvestcraft:mangojellysandwichItem>, Mango Jelly Sandwich
+<harvestcraft:mangojuiceItem>, Mango Juice
+<harvestcraft:mangosmoothieItem>, Mango Smoothie
+<harvestcraft:mangoyogurtItem>, Mango Yogurt
+<harvestcraft:manjuuItem>, Manjuu
+<harvestcraft:maplecandiedbaconItem>, Maple Candied Bacon
+<harvestcraft:mapleoatmealItem>, Maple Oatmeal
+<harvestcraft:maplesausageItem>, Maple Sausage
+<harvestcraft:maplesyrupItem>, Maple Syrup
+<harvestcraft:maplesyruppancakesItem>, Maple Syrup Pancakes
+<harvestcraft:maplesyrupwafflesItem>, Maple Syrup Waffles
+<harvestcraft:marinatedcucumbersItem>, Marinated Cucumbers
+<harvestcraft:market>, Market
+<harvestcraft:marshmellowsItem>, Marshmellows
+<harvestcraft:mashedpotatoesItem>, Mashed Potatoes
+<harvestcraft:mashedsweetpotatoesItem>, Mashed Sweet Potatoes
+<harvestcraft:mayoItem>, Mayo
+<harvestcraft:mcpamItem>, McPam
+<harvestcraft:meatfeastpizzaItem>, Meat Feast Pizza
+<harvestcraft:meatpieItem>, Meat Pie
+<harvestcraft:meatystewItem>, Meaty Stew
+<harvestcraft:melonjuiceItem>, Melon Juice
+<harvestcraft:melonsmoothieItem>, Melon Smoothie
+<harvestcraft:melonyogurtItem>, Melon Yogurt
+<harvestcraft:mincepieItem>, Mince Pie
+<harvestcraft:mintchocolatechipicemcreamItem>, Mint Chocolate Chip Ice Cream
+<harvestcraft:mixedsaladItem>, Mixed Salad
+<harvestcraft:mixingbowlItem>, Mixing Bowl
+<harvestcraft:mochaicecreamItem>, Mocha Ice Cream
+<harvestcraft:mortarandpestleItem>, Mortar and Pestle
+<harvestcraft:mudfishrawItem>, Raw Mudfish
+<harvestcraft:mushroomgarden>, Mushroom Garden
+<harvestcraft:mushroomrisottoItem>, Mushroom Risotto
+<harvestcraft:mustardItem>, Mustard
+<harvestcraft:mustardseedItem>, Mustard Seed
+<harvestcraft:mustardseedsItem>, Mustard Seeds
+<harvestcraft:muttoncookedItem>, Cooked Mutton
+<harvestcraft:muttonrawItem>, Raw Mutton
+<harvestcraft:nachoesItem>, Nachoes
+<harvestcraft:neapolitanicecreamItem>, Neapolitan Ice Cream
+<harvestcraft:nutellaItem>, Nutella
+<harvestcraft:nutmegItem>, Nutmeg
+<harvestcraft:oatsItem>, Oats
+<harvestcraft:oatsseedItem>, Oats Seed
+<harvestcraft:octopuscookedItem>, Cooked Octopus
+<harvestcraft:octopusrawItem>, Raw Octopus
+<harvestcraft:okraItem>, Okra
+<harvestcraft:okraseedItem>, Okra Seed
+<harvestcraft:oldworldveggiesoupItem>, Old World Veggie Soup
+<harvestcraft:oliveItem>, Olive
+<harvestcraft:oliveoilItem>, Cooking Oil
+<harvestcraft:omeletItem>, Omelet
+<harvestcraft:onionItem>, Onion
+<harvestcraft:onionhamburgerItem>, Onion Hamburger
+<harvestcraft:onionseedItem>, Onion Seed
+<harvestcraft:onionsoupItem>, Onion Soup
+<harvestcraft:orangeItem>, Orange
+<harvestcraft:orangechickenItem>, Orange Chicken
+<harvestcraft:orangejellyItem>, Orange Jelly
+<harvestcraft:orangejellysandwichItem>, Orange Jelly Sandwich
+<harvestcraft:orangejuiceItem>, Orange Juice
+<harvestcraft:orangesmoothieItem>, Orange Smoothie
+<harvestcraft:orangesodaItem>, Orange Soda
+<harvestcraft:orangeyogurtItem>, Orange Yogurt
+<harvestcraft:oven>, Oven
+<harvestcraft:ovenon>, tile.ovenon.name
+<harvestcraft:ovenroastedcauliflowerItem>, Oven Roasted Cauliflower
+<harvestcraft:pamAlmond>, Almond
+<harvestcraft:pamApple>, Apple
+<harvestcraft:pamApricot>, Apricot
+<harvestcraft:pamAvocado>, Avocado
+<harvestcraft:pamBanana>, Banana
+<harvestcraft:pamCashew>, Cashew
+<harvestcraft:pamCherry>, Cherry
+<harvestcraft:pamChestnut>, Chestnut
+<harvestcraft:pamCinnamon>, Cinnamon
+<harvestcraft:pamCoconut>, Coconut
+<harvestcraft:pamDate>, Date
+<harvestcraft:pamDragonfruit>, Dragonfruit
+<harvestcraft:pamDurian>, Durian
+<harvestcraft:pamFig>, Fig
+<harvestcraft:pamGrapefruit>, Grapefruit
+<harvestcraft:pamLemon>, Lemon
+<harvestcraft:pamLime>, Lime
+<harvestcraft:pamMango>, Mango
+<harvestcraft:pamMaple>, Maple
+<harvestcraft:pamNutmeg>, Nutmeg
+<harvestcraft:pamOlive>, Olive
+<harvestcraft:pamOrange>, Orange
+<harvestcraft:pamPapaya>, Papaya
+<harvestcraft:pamPaperbark>, Paperbark
+<harvestcraft:pamPeach>, Peach
+<harvestcraft:pamPear>, Pear
+<harvestcraft:pamPecan>, Pecan
+<harvestcraft:pamPeppercorn>, Peppercorn
+<harvestcraft:pamPersimmon>, Persimmon
+<harvestcraft:pamPistachio>, Pistachio
+<harvestcraft:pamPlum>, Plum
+<harvestcraft:pamPomegranate>, Pomegranate
+<harvestcraft:pamStarfruit>, Starfruit
+<harvestcraft:pamVanillabean>, Vanilla Bean
+<harvestcraft:pamWalnut>, Walnut
+<harvestcraft:pamalmondSapling>, Almond Sapling
+<harvestcraft:pamappleSapling>, Apple Sapling
+<harvestcraft:pamapricotSapling>, Apricot Sapling
+<harvestcraft:pamartichokeCrop>, Artichoke Crop
+<harvestcraft:pamasparagusCrop>, Asparagus Crop
+<harvestcraft:pamavocadoSapling>, Avocado Sapling
+<harvestcraft:pambambooshootCrop>, Bamboo Crop
+<harvestcraft:pambananaSapling>, Banana Sapling
+<harvestcraft:pambarleyCrop>, Barley Crop
+<harvestcraft:pambeanCrop>, Bean Crop
+<harvestcraft:pambeetCrop>, Beet Crop
+<harvestcraft:pambellpepperCrop>, Bell Pepper Crop
+<harvestcraft:pamblackberryCrop>, Blackberry Crop
+<harvestcraft:pamblueberryCrop>, Blueberry Crop
+<harvestcraft:pambroccoliCrop>, Broccoli Crop
+<harvestcraft:pambrusselsproutCrop>, Brussel Sprout Crop
+<harvestcraft:pamcabbageCrop>, Cabbage Crop
+<harvestcraft:pamcactusfruitCrop>, Cactus Fruit Crop
+<harvestcraft:pamcandleDeco1>, White Candle
+<harvestcraft:pamcandleDeco10>, Cyan Candle
+<harvestcraft:pamcandleDeco11>, Purple Candle
+<harvestcraft:pamcandleDeco12>, Blue Candle
+<harvestcraft:pamcandleDeco13>, Brown Candle
+<harvestcraft:pamcandleDeco14>, Green Candle
+<harvestcraft:pamcandleDeco15>, Red Candle
+<harvestcraft:pamcandleDeco16>, Black Candle
+<harvestcraft:pamcandleDeco2>, Orange Candle
+<harvestcraft:pamcandleDeco3>, Magenta Candle
+<harvestcraft:pamcandleDeco4>, Light Blue Candle
+<harvestcraft:pamcandleDeco5>, Yellow Candle
+<harvestcraft:pamcandleDeco6>, Lime Candle
+<harvestcraft:pamcandleDeco7>, Pink Candle
+<harvestcraft:pamcandleDeco8>, Dark Grey Candle
+<harvestcraft:pamcandleDeco9>, Light Grey Candle
+<harvestcraft:pamcandleberryCrop>, Candleberry Crop
+<harvestcraft:pamcantaloupeCrop>, Cantaloupe Crop
+<harvestcraft:pamcarrotCake>, Carrot Cake
+<harvestcraft:pamcashewSapling>, Cashew Sapling
+<harvestcraft:pamcauliflowerCrop>, Cauliflower Crop
+<harvestcraft:pamceleryCrop>, Celery Crop
+<harvestcraft:pamcheeseCake>, Cheese Cake
+<harvestcraft:pamcherrySapling>, Cherry Sapling
+<harvestcraft:pamcherrycheeseCake>, Cherry Cheese Cake
+<harvestcraft:pamchestnutSapling>, Chestnut Sapling
+<harvestcraft:pamchilipepperCrop>, Chili Pepper Crop
+<harvestcraft:pamchocolatesprinkleCake>, Chocolate Sprinkle Cake
+<harvestcraft:pamcinnamonSapling>, Cinnamon Sapling
+<harvestcraft:pamcoconutSapling>, Coconut Sapling
+<harvestcraft:pamcoffeebeanCrop>, Coffee Bean Crop
+<harvestcraft:pamcornCrop>, Corn Crop
+<harvestcraft:pamcottonCrop>, Cotton Crop
+<harvestcraft:pamcranberryCrop>, Cranberry Crop
+<harvestcraft:pamcucumberCrop>, Cucumber Crop
+<harvestcraft:pamdateSapling>, Date Sapling
+<harvestcraft:pamdragonfruitSapling>, Dragonfruit Sapling
+<harvestcraft:pamdurianSapling>, Durian Sapling
+<harvestcraft:pameggplantCrop>, Eggplant Crop
+<harvestcraft:pamfigSapling>, Fig Sapling
+<harvestcraft:pamgarlicCrop>, Garlic Crop
+<harvestcraft:pamgingerCrop>, Ginger Crop
+<harvestcraft:pamgrapeCrop>, Grape Crop
+<harvestcraft:pamgrapefruitSapling>, Grapefruit Sapling
+<harvestcraft:pamholidayCake>, Holiday Cake
+<harvestcraft:pamkiwiCrop>, Kiwi Crop
+<harvestcraft:pamlamingtonCake>, Lamington
+<harvestcraft:pamleekCrop>, Leek Crop
+<harvestcraft:pamlemonSapling>, Lemon Sapling
+<harvestcraft:pamlettuceCrop>, Lettuce Crop
+<harvestcraft:pamlimeSapling>, Lime Sapling
+<harvestcraft:pammangoSapling>, Mango Sapling
+<harvestcraft:pammapleSapling>, Maple Sapling
+<harvestcraft:pammustardseedsCrop>, Mustard Seeds Crop
+<harvestcraft:pamnutmegSapling>, Nutmeg Sapling
+<harvestcraft:pamoatsCrop>, Oats Crop
+<harvestcraft:pamokraCrop>, Okra Crop
+<harvestcraft:pamoliveSapling>, Olive Sapling
+<harvestcraft:pamonionCrop>, Onion Crop
+<harvestcraft:pamorangeSapling>, Orange Sapling
+<harvestcraft:pampapayaSapling>, Papaya Sapling
+<harvestcraft:pampaperbarkSapling>, Paperbark Sapling
+<harvestcraft:pamparsnipCrop>, Parsnip Crop
+<harvestcraft:pampavlovaCake>, Pavlova
+<harvestcraft:pampeachSapling>, Peach Sapling
+<harvestcraft:pampeanutCrop>, Peanut Crop
+<harvestcraft:pampearSapling>, Pear Sapling
+<harvestcraft:pampeasCrop>, Peas Crop
+<harvestcraft:pampecanSapling>, Pecan Sapling
+<harvestcraft:pampeppercornSapling>, Peppercorn Sapling
+<harvestcraft:pampersimmonSapling>, Persimmon Sapling
+<harvestcraft:pampineappleCrop>, Pineapple Crop
+<harvestcraft:pampineappleupsidedownCake>, Pineapple Upside Down Cake
+<harvestcraft:pampistachioSapling>, Pistachio Sapling
+<harvestcraft:pamplumSapling>, Plum Sapling
+<harvestcraft:pampomegranateSapling>, Pomegranate Sapling
+<harvestcraft:pampumpkincheeseCake>, Pumpkin Cheese Cake
+<harvestcraft:pamradishCrop>, Radish Crop
+<harvestcraft:pamraspberryCrop>, Raspberry Crop
+<harvestcraft:pamredvelvetCake>, Red Velvet Cake
+<harvestcraft:pamrhubarbCrop>, Rhubarb Crop
+<harvestcraft:pamriceCrop>, Rice Crop
+<harvestcraft:pamrutabagaCrop>, Rutabaga Crop
+<harvestcraft:pamryeCrop>, Rye Crop
+<harvestcraft:pamscallionCrop>, Scallion Crop
+<harvestcraft:pamseaweedCrop>, Seaweed Crop
+<harvestcraft:pamsoybeanCrop>, Soybean Crop
+<harvestcraft:pamspiceleafCrop>, Spice Leaf Crop
+<harvestcraft:pamspinachCrop>, Spinach Crop
+<harvestcraft:pamstarfruitSapling>, Starfruit Sapling
+<harvestcraft:pamstrawberryCrop>, Strawberry Crop
+<harvestcraft:pamsweetpotatoCrop>, Sweet Potato Crop
+<harvestcraft:pamtealeafCrop>, Tea Leaf Crop
+<harvestcraft:pamtomatoCrop>, Tomato Crop
+<harvestcraft:pamturnipCrop>, Turnip Crop
+<harvestcraft:pamvanillabeanSapling>, Vanilla Sapling
+<harvestcraft:pamwalnutSapling>, Walnut Sapling
+<harvestcraft:pamwhitemushroomCrop>, White Mushroom Crop
+<harvestcraft:pamwintersquashCrop>, Winter Squash Crop
+<harvestcraft:pamzucchiniCrop>, Zucchini Crop
+<harvestcraft:pancakesItem>, Pancakes
+<harvestcraft:papayaItem>, Papaya
+<harvestcraft:papayajellyItem>, Papaya Jelly
+<harvestcraft:papayajellysandwichItem>, Papaya Jelly Sandwich
+<harvestcraft:papayajuiceItem>, Papaya Juice
+<harvestcraft:papayasmoothieItem>, Papaya Smoothie
+<harvestcraft:papayayogurtItem>, Papaya Yogurt
+<harvestcraft:parsnipItem>, Parsnip
+<harvestcraft:parsnipseedItem>, Parsnip Seed
+<harvestcraft:pastaItem>, Pasta
+<harvestcraft:pavlovaItem>, Pavlova
+<harvestcraft:pbandjItem>, PB&J
+<harvestcraft:peachItem>, Peach
+<harvestcraft:peachcobblerItem>, Peach Cobbler
+<harvestcraft:peachesandcreamoatmealItem>, Peaches and Cream Oatmeal
+<harvestcraft:peachjellyItem>, Peach Jelly
+<harvestcraft:peachjellysandwichItem>, Peach Jelly Sandwich
+<harvestcraft:peachjuiceItem>, Peach Juice
+<harvestcraft:peachsmoothieItem>, Peach Smoothie
+<harvestcraft:peachyogurtItem>, Peach Yogurt
+<harvestcraft:peanutItem>, Peanut
+<harvestcraft:peanutbutterItem>, Peanut Butter
+<harvestcraft:peanutbuttercookiesItem>, Peanut Butter Cookies
+<harvestcraft:peanutseedItem>, Peanut Seed
+<harvestcraft:pearItem>, Pear
+<harvestcraft:pearjuiceItem>, Pear Juice
+<harvestcraft:pearyogurtItem>, Pear Yogurt
+<harvestcraft:peasItem>, Peas
+<harvestcraft:peasandceleryItem>, Peas and Celery
+<harvestcraft:peasseedItem>, Peas Seed
+<harvestcraft:pecanItem>, Pecan
+<harvestcraft:pecanpieItem>, Pecan Pie
+<harvestcraft:peppercornItem>, Peppercorn
+<harvestcraft:peppermintItem>, Peppermint
+<harvestcraft:pepperoniItem>, Pepperoni
+<harvestcraft:perchrawItem>, Raw Perch
+<harvestcraft:persimmonItem>, Persimmon
+<harvestcraft:persimmonjellyItem>, Persimmon Jelly
+<harvestcraft:persimmonjellysandwichItem>, Persimmon Jelly Sandwich
+<harvestcraft:persimmonjuiceItem>, Persimmon Juice
+<harvestcraft:persimmonsmoothieItem>, Persimmon Smoothie
+<harvestcraft:persimmonyogurtItem>, Persimmon Yogurt
+<harvestcraft:pickledbeetsItem>, Pickled Beets
+<harvestcraft:pickledonionsItem>, Pickled Onions
+<harvestcraft:picklesItem>, Pickles
+<harvestcraft:pinacoladaItem>, Pinacolada
+<harvestcraft:pineappleItem>, Pineapple
+<harvestcraft:pineapplehamItem>, Pineapple Ham
+<harvestcraft:pineappleseedItem>, Pineapple Seed
+<harvestcraft:pineappleupsidedowncakeItem>, Pineapple Upsidedown Cake
+<harvestcraft:pineappleyogurtItem>, Pineapple Yogurt
+<harvestcraft:pistachioItem>, Pistachio
+<harvestcraft:pistachiobakedsalmonItem>, Pistachio Baked Salmon
+<harvestcraft:pistachioicecreamItem>, Pistachio Ice Cream
+<harvestcraft:pizzaItem>, Pizza
+<harvestcraft:plainyogurtItem>, Plain Yogurt
+<harvestcraft:plumItem>, Plum
+<harvestcraft:plumjuiceItem>, Plum Juice
+<harvestcraft:plumyogurtItem>, Plum Yogurt
+<harvestcraft:poachedpearItem>, Poached Pear
+<harvestcraft:pomegranateItem>, Pomegranate
+<harvestcraft:pomegranatejellyItem>, Pomegranate Jelly
+<harvestcraft:pomegranatejellysandwichItem>, Pomegranate Jelly Sandwich
+<harvestcraft:pomegranatejuiceItem>, Pomegranate Juice
+<harvestcraft:pomegranatesmoothieItem>, Pomegranate Smoothie
+<harvestcraft:pomegranateyogurtItem>, Pomegranate Yogurt
+<harvestcraft:popcornItem>, Popcorn
+<harvestcraft:porklettucewrapItem>, Pork Lettuce Wrap
+<harvestcraft:porksausageItem>, Pork Sausage
+<harvestcraft:pot>, Pot
+<harvestcraft:potItem>, Pot
+<harvestcraft:potatoandcheesepirogiItem>, Potato and Cheese Pirogi
+<harvestcraft:potatocakesItem>, Potato Cakes
+<harvestcraft:potatosaladItem>, Potato Salad
+<harvestcraft:potatosoupItem>, Potato Soup
+<harvestcraft:potroastItem>, Pot Roast
+<harvestcraft:powdereddonutItem>, Powdered Donut
+<harvestcraft:pralinesItem>, Pralines
+<harvestcraft:presser>, Presser
+<harvestcraft:pumpkinbreadItem>, Pumpkin Bread
+<harvestcraft:pumpkincheesecakeItem>, Pumpkin Cheesecake
+<harvestcraft:pumpkinmuffinItem>, Pumpkin Muffin
+<harvestcraft:pumpkinoatsconesItem>, Pumpkin Oat Scones
+<harvestcraft:pumpkinsoupItem>, Pumpkin Soup
+<harvestcraft:pumpkinyogurtItem>, Pumpkin Yogurt
+<harvestcraft:queenbeeItem>, Queen Bee
+<harvestcraft:quern>, Quern
+<harvestcraft:quernon>, tile.quernon.name
+<harvestcraft:rabbitcookedItem>, Cooked Rabbit
+<harvestcraft:rabbitrawItem>, Raw Rabbit
+<harvestcraft:radishItem>, Radish
+<harvestcraft:radishseedItem>, Radish Seed
+<harvestcraft:rainbowcurryItem>, Rainbow Curry
+<harvestcraft:raisincookiesItem>, Raisin Cookies
+<harvestcraft:raisinsItem>, Raisins
+<harvestcraft:randomtacoItem>, Random Taco
+<harvestcraft:raspberryItem>, Raspberry
+<harvestcraft:raspberryicedteaItem>, Raspberry Iced Tea
+<harvestcraft:raspberryjellyItem>, Raspberry Jelly
+<harvestcraft:raspberryjellysandwichItem>, Raspberry Jelly Sandwich
+<harvestcraft:raspberryjuiceItem>, Raspberry Juice
+<harvestcraft:raspberrypieItem>, Raspberry Pie
+<harvestcraft:raspberryseedItem>, Raspberry Seed
+<harvestcraft:raspberrysmoothieItem>, Raspberry Smoothie
+<harvestcraft:raspberrytrifleItem>, Raspberry Trifle
+<harvestcraft:raspberryyogurtItem>, Raspberry Yogurt
+<harvestcraft:redvelvetcakeItem>, Red Velvet Cake
+<harvestcraft:refriedbeansItem>, Refried Beans
+<harvestcraft:rhubarbItem>, Rhubarb
+<harvestcraft:rhubarbseedItem>, Rhubarb Seed
+<harvestcraft:riceItem>, Rice
+<harvestcraft:ricecakeItem>, Rice Cake
+<harvestcraft:riceseedItem>, Rice Seed
+<harvestcraft:ricesoupItem>, Rice Soup
+<harvestcraft:roastchickenItem>, Roast Chicken
+<harvestcraft:roastedchestnutItem>, Roasted Chestnut
+<harvestcraft:roastedpumpkinseedsItem>, Roasted Pumpkin Seeds
+<harvestcraft:roastedrootveggiemedleyItem>, Roasted Root Veggie Medley
+<harvestcraft:roastpotatoesItem>, Roast Potatoes
+<harvestcraft:rootbeersodaItem>, Root Beer
+<harvestcraft:royaljellyItem>, Royal Jelly
+<harvestcraft:rutabagaItem>, Rutabaga
+<harvestcraft:rutabagaseedItem>, Rutabaga Seed
+<harvestcraft:ryeItem>, Rye
+<harvestcraft:ryeseedItem>, Rye Seed
+<harvestcraft:saladdressingItem>, Salad Dressing
+<harvestcraft:salt>, Salt Ore
+<harvestcraft:saltItem>, Salt
+<harvestcraft:saltedsunflowerseedsItem>, Salted Sunflower Seeds
+<harvestcraft:saucepanItem>, Saucepan
+<harvestcraft:sausageinbreadItem>, Sausage in Bread
+<harvestcraft:scallionItem>, Scallion
+<harvestcraft:scallionbakedpotatoItem>, Scallion Baked Potato
+<harvestcraft:scallionseedItem>, Scallion Seed
+<harvestcraft:scallopcookedItem>, Cooked Scallop
+<harvestcraft:scalloprawItem>, Raw Scallop
+<harvestcraft:scrambledeggItem>, Scrambled Egg
+<harvestcraft:seaweedItem>, Seaweed
+<harvestcraft:seaweedseedItem>, Seaweed Seed
+<harvestcraft:seedsoupItem>, Seed Soup
+<harvestcraft:shepardspieItem>, Shepherd's Pie
+<harvestcraft:shrimpcookedItem>, Cooked Shrimp
+<harvestcraft:shrimprawItem>, Raw Shrimp
+<harvestcraft:silkentofuItem>, Silken Tofu
+<harvestcraft:sink>, Water Barrel
+<harvestcraft:skilletItem>, Skillet
+<harvestcraft:snailcookedItem>, Cooked Snail
+<harvestcraft:snailrawItem>, Raw Snail
+<harvestcraft:snapperrawItem>, Raw Snapper
+<harvestcraft:snickersbarItem>, Snickers Bar
+<harvestcraft:softpretzelItem>, Soft Pretzel
+<harvestcraft:softpretzelandmustardItem>, Soft Pretzel and Mustard
+<harvestcraft:soybeanItem>, Soybean
+<harvestcraft:soybeanseedItem>, Soybean Seed
+<harvestcraft:soymilkItem>, Soy Milk
+<harvestcraft:spagettiItem>, Spagetti
+<harvestcraft:spagettiandmeatballsItem>, Spagetti and Meatballs
+<harvestcraft:spamcompressedsaltBlockalt>, Compressed Salt Block
+<harvestcraft:spicebunItem>, Spice Bun
+<harvestcraft:spiceleafItem>, Spice Leaf
+<harvestcraft:spiceleafseedItem>, Spice Leaf Seed
+<harvestcraft:spicygreensItem>, Spicy Greens
+<harvestcraft:spicymustardporkItem>, Spicy Mustard Pork
+<harvestcraft:spidereyesoupItem>, Spider Eye Soup
+<harvestcraft:spinachItem>, Spinach
+<harvestcraft:spinachpieItem>, Spinach Pie
+<harvestcraft:spinachseedItem>, Spinach Seed
+<harvestcraft:splitpeasoupItem>, Split Pea Soup
+<harvestcraft:springsaladItem>, Spring Salad
+<harvestcraft:spumoniicecreamItem>, Spumoni Ice Cream
+<harvestcraft:stalkgarden>, Stalk Garden
+<harvestcraft:starfruitItem>, Starfruit
+<harvestcraft:starfruitjellyItem>, Starfruit Jelly
+<harvestcraft:starfruitjellysandwichItem>, Starfruit Jelly Sandwich
+<harvestcraft:starfruitjuiceItem>, Starfruit Juice
+<harvestcraft:starfruitsmoothieItem>, Starfruit Smoothie
+<harvestcraft:starfruityogurtItem>, Starfruit Yogurt
+<harvestcraft:steakandchipsItem>, Steak and Chips
+<harvestcraft:steamedpeasItem>, Steamed Peas
+<harvestcraft:steamedspinachItem>, Steamed Spinach
+<harvestcraft:stockItem>, Stock
+<harvestcraft:strawberryItem>, Strawberry
+<harvestcraft:strawberryicecreamItem>, Strawberry Ice Cream
+<harvestcraft:strawberryjellyItem>, Strawberry Jelly
+<harvestcraft:strawberryjellysandwichItem>, Strawberry Jelly Sandwich
+<harvestcraft:strawberryjuiceItem>, Strawberry Juice
+<harvestcraft:strawberrymilkshakeItem>, Strawberry Milkshake
+<harvestcraft:strawberrypieItem>, Strawberry Pie
+<harvestcraft:strawberrysaladItem>, Strawberry Salad
+<harvestcraft:strawberryseedItem>, Strawberry Seed
+<harvestcraft:strawberrysmoothieItem>, Strawberry Smoothie
+<harvestcraft:strawberrysodaItem>, Strawberry Soda
+<harvestcraft:strawberryyogurtItem>, Strawberry Yogurt
+<harvestcraft:stuffedeggplantItem>, Stuffed Eggplant
+<harvestcraft:stuffedmushroomItem>, Stuffed Mushroom
+<harvestcraft:stuffedpepperItem>, Stuffed Pepper
+<harvestcraft:suaderoItem>, Suadero
+<harvestcraft:summerradishsaladItem>, Summer Radish Salad
+<harvestcraft:summersquashwithradishItem>, Summer Squash with Radish
+<harvestcraft:sundayroastItem>, Sunday Roast
+<harvestcraft:sunflowerbroccolisaladItem>, Sunflower Broccoli Salad
+<harvestcraft:sunflowerseedsItem>, Sunflower Seeds
+<harvestcraft:sunflowerwheatrollsItem>, Sunflower Wheat Rolls
+<harvestcraft:supremepizzaItem>, Supreme Pizza
+<harvestcraft:sushiItem>, Sushi
+<harvestcraft:sweetpotatoItem>, Sweet Potato
+<harvestcraft:sweetpotatopieItem>, Sweet Potato Pie
+<harvestcraft:sweetpotatoseedItem>, Sweet Potato Seed
+<harvestcraft:sweetpotatosouffleItem>, Sweet Potato Souffle
+<harvestcraft:tacoItem>, Taco
+<harvestcraft:taffyItem>, Taffy
+<harvestcraft:teaItem>, Cup of Tea
+<harvestcraft:tealeafItem>, Tea Leaf
+<harvestcraft:teaseedItem>, Tea Seed
+<harvestcraft:textilegarden>, Textile Garden
+<harvestcraft:tilapiarawItem>, Raw Tilapia
+<harvestcraft:timtamItem>, Tim Tam
+<harvestcraft:toastItem>, Toast
+<harvestcraft:toastedcoconutItem>, Toasted Coconut
+<harvestcraft:toastsandwichItem>, Toast Sandwich
+<harvestcraft:tomatoItem>, Tomato
+<harvestcraft:tomatoseedItem>, Tomato Seed
+<harvestcraft:tomatosoupItem>, Tomato Soup
+<harvestcraft:tortillaItem>, Tortilla
+<harvestcraft:trailmixItem>, Trail Mix
+<harvestcraft:tropicalgarden>, Tropical Garden
+<harvestcraft:troutrawItem>, Raw Trout
+<harvestcraft:tunarawItem>, Raw Tuna
+<harvestcraft:turkeycookedItem>, Cooked Turkey
+<harvestcraft:turkeyrawItem>, Raw Turkey
+<harvestcraft:turnipItem>, Turnip
+<harvestcraft:turnipseedItem>, Turnip Seed
+<harvestcraft:turnipsoupItem>, Turnip Soup
+<harvestcraft:turtlecookedItem>, Cooked Turtle
+<harvestcraft:turtlerawItem>, Raw Turtle
+<harvestcraft:vanillaItem>, Vanilla
+<harvestcraft:vanillabeanItem>, Vanilla Bean
+<harvestcraft:vanillaicecreamItem>, Vanilla Ice Cream
+<harvestcraft:vanillayogurtItem>, Vanilla Yogurt
+<harvestcraft:vegemiteItem>, Vegemite
+<harvestcraft:vegemiteontoastItem>, Vegemite on Toast
+<harvestcraft:vegetablesoupItem>, Vegetable Soup
+<harvestcraft:vegetarianlettucewrapItem>, Vegetarian Lettuce Wrap
+<harvestcraft:veggiebaitItem>, Veggie Bait
+<harvestcraft:veggiestirfryItem>, Veggie Stirfry
+<harvestcraft:venisoncookedItem>, Cooked Venison
+<harvestcraft:venisonrawItem>, Raw Venison
+<harvestcraft:vinegarItem>, Vinegar
+<harvestcraft:wafflesItem>, Waffles
+<harvestcraft:walleyerawItem>, Raw Walleye
+<harvestcraft:walnutItem>, Walnut
+<harvestcraft:walnutraisinbreadItem>, Walnut Raisin Bread
+<harvestcraft:watergarden>, Water Garden
+<harvestcraft:watermelonjellyItem>, Watermelon Jelly
+<harvestcraft:watermelonjellysandwichItem>, Watermelon Jelly Sandwich
+<harvestcraft:waxItem>, Wax
+<harvestcraft:waxcombItem>, Waxcomb
+<harvestcraft:whitemushroomItem>, White Mushroom
+<harvestcraft:whitemushroomseedItem>, White Mushroom Spore
+<harvestcraft:wintersquashItem>, Winter Squash
+<harvestcraft:wintersquashseedItem>, Winter Squash Seed
+<harvestcraft:wovencottonItem>, Woven Cotton
+<harvestcraft:zeppoleItem>, Zeppole
+<harvestcraft:zestyzucchiniItem>, Zesty Zucchini
+<harvestcraft:zombiejerkyItem>, Zombie Jerky
+<harvestcraft:zucchiniItem>, Zucchini
+<harvestcraft:zucchinibakeItem>, Zucchini Bake
+<harvestcraft:zucchinibreadItem>, Zucchini Bread
+<harvestcraft:zucchinifriesItem>, Zucchini Fries
+<harvestcraft:zucchiniseedItem>, Zucchini Seed
+<immersiveintegration:aeDecoration>, Fluix Wire Coil
+<immersiveintegration:extendedPost>, Wooden Post Extension
+<immersiveintegration:iiWireCoil>, Redstone Wire Coil
+<immersiveintegration:industrialCokeOven>, Industrial Coke Oven
+<immersiveintegration:itemRobin>, Item Robin
+<immersiveintegration:meDenseTransformer>, ME Dense Transformer
+<immersiveintegration:meDenseWireConnector>, ME Dense Wire Connector
+<immersiveintegration:meTransformer>, ME Transformer
+<immersiveintegration:meWireConnector>, ME Wire Connector
+<immersiveintegration:redstoneWireConnector>, Redstone Wire Connector
+<immersiveintegration:steelDecoration>, Coke Oven Wall
+<immersiveintegration:steelTrapdoor>, Steel Trapdoor
+<immersiveintegration:wireCoil>, Fluix Wire Coil
+<menagerie:spawnegg>, Spawn Cultist of the Dark Lepus
+<minecraft:acacia_stairs>, Acacia Wood Stairs
+<minecraft:activator_rail>, Activator Rail
+<minecraft:anvil>, Anvil
+<minecraft:apple>, Apple
+<minecraft:arrow>, Arrow
+<minecraft:baked_potato>, Baked Potato
+<minecraft:beacon>, Beacon
+<minecraft:bed>, Bed
+<minecraft:bedrock>, Bedrock
+<minecraft:beef>, Raw Beef
+<minecraft:birch_stairs>, Birch Wood Stairs
+<minecraft:blaze_powder>, Blaze Powder
+<minecraft:blaze_rod>, Blaze Rod
+<minecraft:boat>, Boat
+<minecraft:bone>, Bone
+<minecraft:book>, Book
+<minecraft:bookshelf>, Bookshelf
+<minecraft:bow>, Bow
+<minecraft:bowl>, Bowl
+<minecraft:bread>, Bread
+<minecraft:brewing_stand>, Brewing Stand
+<minecraft:brick>, Brick
+<minecraft:brick_block>, Bricks
+<minecraft:brick_stairs>, Brick Stairs
+<minecraft:brown_mushroom>, Mushroom
+<minecraft:brown_mushroom_block>, Mushroom
+<minecraft:bucket>, Bucket
+<minecraft:cactus>, Cactus
+<minecraft:cake>, Cake
+<minecraft:carpet>, Carpet
+<minecraft:carrot>, Carrot
+<minecraft:carrot_on_a_stick>, Carrot on a Stick
+<minecraft:carrots>, Carrots
+<minecraft:cauldron>, Cauldron
+<minecraft:chainmail_boots>, Chain Boots
+<minecraft:chainmail_chestplate>, Chain Chestplate
+<minecraft:chainmail_helmet>, Chain Helmet
+<minecraft:chainmail_leggings>, Chain Leggings
+<minecraft:chest>, Chest
+<minecraft:chest_minecart>, Minecart with Chest
+<minecraft:chicken>, Raw Chicken
+<minecraft:clay>, Clay
+<minecraft:clay_ball>, Clay
+<minecraft:clock>, Clock
+<minecraft:coal>, Coal
+<minecraft:coal_block>, Block of Coal
+<minecraft:coal_ore>, Coal Ore
+<minecraft:cobblestone>, Cobblestone
+<minecraft:cobblestone_wall>, Cobblestone Wall
+<minecraft:cocoa>, Cocoa
+<minecraft:command_block>, Command Block
+<minecraft:command_block_minecart>, Minecart with Command Block
+<minecraft:comparator>, Redstone Comparator
+<minecraft:compass>, Compass
+<minecraft:cooked_beef>, Steak
+<minecraft:cooked_chicken>, Cooked Chicken
+<minecraft:cooked_fished>, Cooked Fish
+<minecraft:cooked_porkchop>, Cooked Porkchop
+<minecraft:cookie>, Cookie
+<minecraft:crafting_table>, Crafting Table
+<minecraft:dark_oak_stairs>, Dark Oak Wood Stairs
+<minecraft:daylight_detector>, Daylight Sensor
+<minecraft:deadbush>, Dead Bush
+<minecraft:detector_rail>, Detector Rail
+<minecraft:diamond>, Diamond
+<minecraft:diamond_axe>, Diamond Axe
+<minecraft:diamond_block>, Block of Diamond
+<minecraft:diamond_boots>, Diamond Boots
+<minecraft:diamond_chestplate>, Diamond Chestplate
+<minecraft:diamond_helmet>, Diamond Helmet
+<minecraft:diamond_hoe>, Diamond Hoe
+<minecraft:diamond_horse_armor>, Diamond Horse Armor
+<minecraft:diamond_leggings>, Diamond Leggings
+<minecraft:diamond_ore>, Diamond Ore
+<minecraft:diamond_pickaxe>, Diamond Pickaxe
+<minecraft:diamond_shovel>, Diamond Shovel
+<minecraft:diamond_sword>, Diamond Sword
+<minecraft:dirt>, Dirt
+<minecraft:dispenser>, Dispenser
+<minecraft:double_plant>, Sunflower
+<minecraft:double_stone_slab>, Stone Slab
+<minecraft:double_wooden_slab>, Oak Wood Slab
+<minecraft:dragon_egg>, Dragon Egg
+<minecraft:dropper>, Dropper
+<minecraft:dye>, Ink Sac
+<minecraft:egg>, Egg
+<minecraft:emerald>, Emerald
+<minecraft:emerald_block>, Block of Emerald
+<minecraft:emerald_ore>, Emerald Ore
+<minecraft:enchanted_book>, Enchanted Book
+<minecraft:enchanting_table>, Enchantment Table
+<minecraft:end_portal>, tile.null.name
+<minecraft:end_portal_frame>, End Portal
+<minecraft:end_stone>, End Stone
+<minecraft:ender_chest>, Ender Chest
+<minecraft:ender_eye>, Eye of Ender
+<minecraft:ender_pearl>, Ender Pearl
+<minecraft:experience_bottle>, Bottle o' Enchanting
+<minecraft:farmland>, Farmland
+<minecraft:feather>, Feather
+<minecraft:fence>, Fence
+<minecraft:fence_gate>, Fence Gate
+<minecraft:fermented_spider_eye>, Fermented Spider Eye
+<minecraft:filled_map>, Map
+<minecraft:fire>, Fire
+<minecraft:fire_charge>, Fire Charge
+<minecraft:firework_charge>, Firework Star
+<minecraft:fireworks>, Firework Rocket
+<minecraft:fish>, Raw Fish
+<minecraft:fishing_rod>, Fishing Rod
+<minecraft:flint>, Flint
+<minecraft:flint_and_steel>, Flint and Steel
+<minecraft:flower_pot>, Flower Pot
+<minecraft:flowing_lava>, Lava
+<minecraft:flowing_water>, Water
+<minecraft:furnace>, Furnace
+<minecraft:furnace_minecart>, Minecart with Furnace
+<minecraft:ghast_tear>, Ghast Tear
+<minecraft:glass>, Glass
+<minecraft:glass_bottle>, Glass Bottle
+<minecraft:glass_pane>, Glass Pane
+<minecraft:glowstone>, Glowstone
+<minecraft:glowstone_dust>, Glowstone Dust
+<minecraft:gold_block>, Block of Gold
+<minecraft:gold_ingot>, Gold Ingot
+<minecraft:gold_nugget>, Gold Nugget
+<minecraft:gold_ore>, Gold Ore
+<minecraft:golden_apple>, Golden Apple
+<minecraft:golden_axe>, Golden Axe
+<minecraft:golden_boots>, Golden Boots
+<minecraft:golden_carrot>, Golden Carrot
+<minecraft:golden_chestplate>, Golden Chestplate
+<minecraft:golden_helmet>, Golden Helmet
+<minecraft:golden_hoe>, Golden Hoe
+<minecraft:golden_horse_armor>, Gold Horse Armor
+<minecraft:golden_leggings>, Golden Leggings
+<minecraft:golden_pickaxe>, Golden Pickaxe
+<minecraft:golden_rail>, Powered Rail
+<minecraft:golden_shovel>, Golden Shovel
+<minecraft:golden_sword>, Golden Sword
+<minecraft:grass>, Grass Block
+<minecraft:gravel>, Gravel
+<minecraft:gunpowder>, Gunpowder
+<minecraft:hardened_clay>, Hardened Clay
+<minecraft:hay_block>, Hay Bale
+<minecraft:heavy_weighted_pressure_plate>, Weighted Pressure Plate (Heavy)
+<minecraft:hopper>, Hopper
+<minecraft:hopper_minecart>, Minecart with Hopper
+<minecraft:ice>, Ice
+<minecraft:iron_axe>, Iron Axe
+<minecraft:iron_bars>, Iron Bars
+<minecraft:iron_block>, Block of Iron
+<minecraft:iron_boots>, Iron Boots
+<minecraft:iron_chestplate>, Iron Chestplate
+<minecraft:iron_door>, Iron Door
+<minecraft:iron_helmet>, Iron Helmet
+<minecraft:iron_hoe>, Iron Hoe
+<minecraft:iron_horse_armor>, Iron Horse Armor
+<minecraft:iron_ingot>, Iron Ingot
+<minecraft:iron_leggings>, Iron Leggings
+<minecraft:iron_ore>, Iron Ore
+<minecraft:iron_pickaxe>, Iron Pickaxe
+<minecraft:iron_shovel>, Iron Shovel
+<minecraft:iron_sword>, Iron Sword
+<minecraft:item_frame>, Item Frame
+<minecraft:jukebox>, Jukebox
+<minecraft:jungle_stairs>, Jungle Wood Stairs
+<minecraft:ladder>, Ladder
+<minecraft:lapis_block>, Lapis Lazuli Block
+<minecraft:lapis_ore>, Lapis Lazuli Ore
+<minecraft:lava>, Lava
+<minecraft:lava_bucket>, Lava Bucket
+<minecraft:lead>, Lead
+<minecraft:leather>, Leather
+<minecraft:leather_boots>, Leather Boots
+<minecraft:leather_chestplate>, Leather Tunic
+<minecraft:leather_helmet>, Leather Cap
+<minecraft:leather_leggings>, Leather Pants
+<minecraft:leaves>, Oak Leaves
+<minecraft:leaves2>, Acacia Leaves
+<minecraft:lever>, Lever
+<minecraft:light_weighted_pressure_plate>, Weighted Pressure Plate (Light)
+<minecraft:lit_furnace>, Furnace
+<minecraft:lit_pumpkin>, Jack o'Lantern
+<minecraft:log>, Oak Wood
+<minecraft:log2>, Acacia Wood
+<minecraft:magma_cream>, Magma Cream
+<minecraft:map>, Empty Map
+<minecraft:melon>, Melon
+<minecraft:melon_block>, Melon
+<minecraft:melon_seeds>, Melon Seeds
+<minecraft:milk_bucket>, Milk
+<minecraft:minecart>, Minecart
+<minecraft:mob_spawner>, Monster Spawner
+<minecraft:monster_egg>, Stone Monster Egg
+<minecraft:mossy_cobblestone>, Moss Stone
+<minecraft:mushroom_stew>, Mushroom Stew
+<minecraft:mycelium>, Mycelium
+<minecraft:name_tag>, Name Tag
+<minecraft:nether_brick>, Nether Brick
+<minecraft:nether_brick_fence>, Nether Brick Fence
+<minecraft:nether_brick_stairs>, Nether Brick Stairs
+<minecraft:nether_star>, Nether Star
+<minecraft:nether_wart>, Nether Wart
+<minecraft:netherbrick>, Nether Brick
+<minecraft:netherrack>, Netherrack
+<minecraft:noteblock>, Note Block
+<minecraft:oak_stairs>, Oak Wood Stairs
+<minecraft:obsidian>, Obsidian
+<minecraft:packed_ice>, Packed Ice
+<minecraft:painting>, Painting
+<minecraft:paper>, Paper
+<minecraft:piston>, Piston
+<minecraft:planks>, Oak Wood Planks
+<minecraft:poisonous_potato>, Poisonous Potato
+<minecraft:porkchop>, Raw Porkchop
+<minecraft:portal>, Portal
+<minecraft:potato>, Potato
+<minecraft:potatoes>, Potatoes
+<minecraft:potion>, Water Bottle
+<minecraft:pumpkin>, Pumpkin
+<minecraft:pumpkin_pie>, Pumpkin Pie
+<minecraft:pumpkin_seeds>, Pumpkin Seeds
+<minecraft:quartz>, Nether Quartz
+<minecraft:quartz_block>, Block of Quartz
+<minecraft:quartz_ore>, Nether Quartz Ore
+<minecraft:quartz_stairs>, Quartz Stairs
+<minecraft:rail>, Rail
+<minecraft:record_11>, Music Disc
+<minecraft:record_13>, Music Disc
+<minecraft:record_blocks>, Music Disc
+<minecraft:record_cat>, Music Disc
+<minecraft:record_chirp>, Music Disc
+<minecraft:record_far>, Music Disc
+<minecraft:record_mall>, Music Disc
+<minecraft:record_mellohi>, Music Disc
+<minecraft:record_stal>, Music Disc
+<minecraft:record_strad>, Music Disc
+<minecraft:record_wait>, Music Disc
+<minecraft:record_ward>, Music Disc
+<minecraft:red_flower>, Poppy
+<minecraft:red_mushroom>, Mushroom
+<minecraft:red_mushroom_block>, Mushroom
+<minecraft:redstone>, Redstone
+<minecraft:redstone_block>, Block of Redstone
+<minecraft:redstone_lamp>, Redstone Lamp
+<minecraft:redstone_ore>, Redstone Ore
+<minecraft:redstone_torch>, Redstone Torch
+<minecraft:reeds>, Sugar Canes
+<minecraft:repeater>, Redstone Repeater
+<minecraft:rotten_flesh>, Rotten Flesh
+<minecraft:saddle>, Saddle
+<minecraft:sand>, Sand
+<minecraft:sandstone>, Sandstone
+<minecraft:sandstone_stairs>, Sandstone Stairs
+<minecraft:sapling>, Oak Sapling
+<minecraft:shears>, Shears
+<minecraft:sign>, Sign
+<minecraft:skull>, Skeleton Skull
+<minecraft:slime_ball>, Slimeball
+<minecraft:snow>, Snow
+<minecraft:snow_layer>, Snow
+<minecraft:snowball>, Snowball
+<minecraft:soul_sand>, Soul Sand
+<minecraft:spawn_egg>, Spawn
+<minecraft:speckled_melon>, Glistering Melon
+<minecraft:spider_eye>, Spider Eye
+<minecraft:sponge>, Sponge
+<minecraft:spruce_stairs>, Spruce Wood Stairs
+<minecraft:stained_glass>, White Stained Glass
+<minecraft:stained_glass_pane>, White Stained Glass Pane
+<minecraft:stained_hardened_clay>, White Stained Clay
+<minecraft:stick>, Stick
+<minecraft:sticky_piston>, Sticky Piston
+<minecraft:stone>, Stone
+<minecraft:stone_axe>, Stone Axe
+<minecraft:stone_brick_stairs>, Stone Brick Stairs
+<minecraft:stone_button>, Button
+<minecraft:stone_hoe>, Stone Hoe
+<minecraft:stone_pickaxe>, Stone Pickaxe
+<minecraft:stone_pressure_plate>, Pressure Plate
+<minecraft:stone_shovel>, Stone Shovel
+<minecraft:stone_slab>, Stone Slab
+<minecraft:stone_stairs>, Stone Stairs
+<minecraft:stone_sword>, Stone Sword
+<minecraft:stonebrick>, Stone Bricks
+<minecraft:string>, String
+<minecraft:sugar>, Sugar
+<minecraft:tallgrass>, Shrub
+<minecraft:tnt>, TNT
+<minecraft:tnt_minecart>, Minecart with TNT
+<minecraft:torch>, Torch
+<minecraft:trapdoor>, Trapdoor
+<minecraft:trapped_chest>, Trapped Chest
+<minecraft:tripwire_hook>, Tripwire Hook
+<minecraft:vine>, Vines
+<minecraft:water>, Water
+<minecraft:water_bucket>, Water Bucket
+<minecraft:waterlily>, Lily Pad
+<minecraft:web>, Cobweb
+<minecraft:wheat>, Wheat
+<minecraft:wheat_seeds>, Seeds
+<minecraft:wooden_axe>, Wooden Axe
+<minecraft:wooden_button>, Button
+<minecraft:wooden_door>, Wooden Door
+<minecraft:wooden_hoe>, Wooden Hoe
+<minecraft:wooden_pickaxe>, Wooden Pickaxe
+<minecraft:wooden_pressure_plate>, Pressure Plate
+<minecraft:wooden_shovel>, Wooden Shovel
+<minecraft:wooden_slab>, Oak Wood Slab
+<minecraft:wooden_sword>, Wooden Sword
+<minecraft:wool>, Wool
+<minecraft:writable_book>, Book and Quill
+<minecraft:written_book>, Written Book
+<minecraft:yellow_flower>, Dandelion
+<progressiveautomation:Chopper>, Wooden Chopper
+<progressiveautomation:ChopperDiamond>, Diamond Chopper
+<progressiveautomation:ChopperIron>, Iron Chopper
+<progressiveautomation:ChopperStone>, Stone Chopper
+<progressiveautomation:CoalPellet>, Fuel Pellet
+<progressiveautomation:CobbleUpgrade>, Cobble Gen Upgrade
+<progressiveautomation:Crafter>, Wooden Crafter
+<progressiveautomation:CrafterDiamond>, Diamond Crafter
+<progressiveautomation:CrafterIron>, Iron Crafter
+<progressiveautomation:CrafterStone>, Stone Crafter
+<progressiveautomation:CreativeRFEngine>, Creative RF Engine
+<progressiveautomation:DiamondUpgrade>, Diamond Upgrade
+<progressiveautomation:Farmer>, Wooden Animal Farmer
+<progressiveautomation:FarmerDiamond>, Diamond Animal Farmer
+<progressiveautomation:FarmerIron>, Iron Animal Farmer
+<progressiveautomation:FarmerStone>, Stone Animal Farmer
+<progressiveautomation:FillerUpgrade>, Filler Upgrade
+<progressiveautomation:FilterAdultUpgrade>, Adult Filter Upgrade
+<progressiveautomation:FilterAnimalUpgrade>, Animal Filter Upgrade
+<progressiveautomation:FilterMobUpgrade>, Mob Filter Upgrade
+<progressiveautomation:FilterPlayerUpgrade>, Player Filter Upgrade
+<progressiveautomation:Generator>, Wooden Generator
+<progressiveautomation:GeneratorDiamond>, Diamond Generator
+<progressiveautomation:GeneratorIron>, Iron Generator
+<progressiveautomation:GeneratorStone>, Stone Generator
+<progressiveautomation:IronUpgrade>, Iron Upgrade
+<progressiveautomation:Killer>, Wooden Killer
+<progressiveautomation:KillerDiamond>, Diamond Killer
+<progressiveautomation:KillerIron>, Iron Killer
+<progressiveautomation:KillerStone>, Stone Killer
+<progressiveautomation:MilkerUpgrade>, Milker Upgrade
+<progressiveautomation:Miner>, Wooden Miner
+<progressiveautomation:MinerDiamond>, Diamond Miner
+<progressiveautomation:MinerIron>, Iron Miner
+<progressiveautomation:MinerStone>, Stone Miner
+<progressiveautomation:Planter>, Wooden Planter
+<progressiveautomation:PlanterDiamond>, Diamond Planter
+<progressiveautomation:PlanterIron>, Iron Planter
+<progressiveautomation:PlanterStone>, Stone Planter
+<progressiveautomation:RFEngine>, RF Engine
+<progressiveautomation:ShearingUpgrade>, Shearing Upgrade
+<progressiveautomation:StoneUpgrade>, Stone Upgrade
+<progressiveautomation:WitherDiamond>, Wither Diamond
+<progressiveautomation:WitherIron>, Wither Iron
+<progressiveautomation:WitherStone>, Wither Stone
+<progressiveautomation:WitherUpgrade>, Wither Upgrade
+<progressiveautomation:WitherWood>, Wither Wood
+<progressiveautomation:WoodUpgrade>, Wooden Upgrade
+<progressiveautomation:Wrench>, PA Wrench
+<testdummy:Dummy>, Test Dummy

@@ -1,0 +1,1 @@
+mods.mekanism.Infuser.removeRecipe(<Mekanism:ControlCircuit>);

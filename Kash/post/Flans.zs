@@ -1,0 +1,26 @@
+val iron = <ore:ingotIron>;
+val inug = <ore:nuggetIron>;
+val redstone = <ore:dustRedstone>;
+val pistol = <flansmod:LaserPistol>;
+val rifle = <flansmod:AB9>;
+val MG = <flansmod:LaserRifle>;
+val sniper = <flansmod:LRW>;
+val cell = <flansmod:EnergyCell>;
+val clip = <flansmod:AB9Ammo>;
+val rcell = <flansmod:RifleClip>;
+val sclip = <flansmod:SniperCell>;
+val lens = <minechem:minechemOpticalMicroscopeLens:1>;
+val elens = <flansmod:AB24Barrel>;
+val breach = <flansmod:gunBreach>;
+val barrel1 = <openmodularturrets:barrelTierOne>;
+val barrel2 = <openmodularturrets:barrelTierTwo>;
+
+recipes.addShaped(pistol, [[lens, breach, iron],[null, null, iron]]);
+recipes.addShaped(rifle, [[elens, barrel1, breach],[null, iron, iron]]);
+recipes.addShaped(MG, [[elens, barrel2, breach],[iron, null, iron]]);
+recipes.addShaped(sniper, [[barrel2, barrel2, breach],[elens, null, iron]]);
+recipes.addShaped(cell, [[redstone, inug, redstone],[redstone, inug, redstone]]);
+recipes.addShaped(cell*2, [[clip]]);
+recipes.addShaped(clip, [[cell, cell,]]);
+recipes.addShaped(rcell, [[cell],[cell]]);
+recipes.addShaped(sclip, [[inug, cell, inug]]);

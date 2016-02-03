@@ -39,3 +39,11 @@ recipes.remove(chargingTable);
 recipes.addShaped(chargingTable, [[ingotTitanium, redstone, ingotTitanium], [ingotTitanium, chipsetRedstone, ingotTitanium], [ingotTitanium, gearGold, ingotTitanium]]);
 recipes.remove(programmingTable);
 recipes.addShaped(programmingTable, [[ingotTitanium, chipsetRedstone, ingotTitanium], [ingotTitanium, emerald, ingotTitanium], [ingotTitanium, gearDiamond, ingotTitanium]]);
+
+
+recipes.remove(<BuildCraft|Core:woodenGearItem>);
+recipes.remove(<BuildCraft|Core:wrenchItem>);
+
+recipes.addShaped(<BuildCraft|Core:wrenchItem>,[[<ore:ingotOsmium>, null, <ore:ingotOsmium>], [null, <BuildCraft|Core:stoneGearItem>, null], [null, <ore:ingotOsmium>, null]]);
+recipes.addShaped(<BuildCraft|Core:woodenGearItem>,[[null, <Natura:natura.stick:*>, null], [<Natura:natura.stick:*>, <minecraft:log:*>, <Natura:natura.stick:*>], [null, <Natura:natura.stick:*>, null]]);
+recipes.addShaped(<BuildCraft|Core:woodenGearItem>,[[null, <minecraft:stick>, null], [<minecraft:stick>, <minecraft:log:*>, <minecraft:stick>], [null, <minecraft:stick>, null]]);
