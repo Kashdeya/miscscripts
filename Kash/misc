@@ -1,0 +1,129 @@
+import minetweaker.item.IItemStack;
+
+//Define all the logs in an Array to use latter.
+var myLogs = [
+ <minecraft:log:0>, <minecraft:log:1>, <minecraft:log:2>, <minecraft:log:3>,
+ <minecraft:log2:0>, <minecraft:log2:1>, <Natura:bloodwood:*>,
+ <BiomesOPlenty:logs1:0>, <BiomesOPlenty:logs1:1>, <BiomesOPlenty:logs1:2>, <BiomesOPlenty:logs1:3>, 
+ <BiomesOPlenty:logs2:0>, <BiomesOPlenty:logs2:1>, <BiomesOPlenty:logs2:2>, <BiomesOPlenty:logs2:3>, 
+ <BiomesOPlenty:logs3:0>, <BiomesOPlenty:logs3:1>, <BiomesOPlenty:logs3:2>, <BiomesOPlenty:logs3:3>, 
+ <BiomesOPlenty:logs4:0>, <BiomesOPlenty:logs4:1>, <BiomesOPlenty:logs4:2>, <BiomesOPlenty:logs4:3>,
+ <Natura:tree:0>, <Natura:tree:1>, <Natura:tree:2>, <Natura:tree:3>,
+ <Natura:redwood:1>, <Natura:willow>, <Natura:Dark Tree:0>, <Natura:Dark Tree:1>,
+ <Natura:Rare Tree:0>, <Natura:Rare Tree:1>, <Natura:Rare Tree:2>, <Natura:Rare Tree:3>,
+ <TwilightForest:tile.TFLog:0>, <TwilightForest:tile.TFLog:1>, <TwilightForest:tile.TFLog:2>, <TwilightForest:tile.TFLog:3>
+ ] as IItemStack[];
+ 
+//Define all the planks in an Array to use latter.
+var myPlanks = [
+ <minecraft:planks:0>, <minecraft:planks:1>, <minecraft:planks:2>, <minecraft:planks:3>, 
+ <minecraft:planks:4>, <minecraft:planks:5>, <Natura:planks:4>,
+ <BiomesOPlenty:planks:0>, <BiomesOPlenty:planks:1>, <BiomesOPlenty:planks:2>, <BiomesOPlenty:planks:3>,
+ <BiomesOPlenty:planks:4>, <BiomesOPlenty:planks:5>, <BiomesOPlenty:planks:6>, <BiomesOPlenty:planks:7>,
+ <BiomesOPlenty:planks:8>, <BiomesOPlenty:planks:9>, <minecraft:planks:0>, <minecraft:planks:0>,
+ <BiomesOPlenty:planks:11>, <BiomesOPlenty:planks:12>, <BiomesOPlenty:planks:13>, <BiomesOPlenty:planks:14>,
+ <Natura:planks:0>, <Natura:planks:1>, <Natura:planks:2>, <Natura:planks:5>,
+ <Natura:planks:3>, <Natura:planks:10>, <Natura:planks:11>, <Natura:planks:12>,
+ <Natura:planks:6>, <Natura:planks:7>, <Natura:planks:8>, <Natura:planks:9>,
+ <minecraft:planks:0>, <minecraft:planks:1>, <minecraft:planks:2>, <minecraft:planks:5>
+ ] as IItemStack[];
+
+//For stament to go through each Log-Plank combo. Logs and planks are compared from the same index of the array. IE: Log1 and Plank1 are used together. Not Log1 and Plank3.
+for i, log in myLogs {
+    var plank = myPlanks[i];
+    
+	//Removes all the plank recpies fo each log.
+    recipes.removeShapeless(plank, [log]);
+	
+    //Adds new plank recipe for each log. Only creates one plank per log.
+    recipes.addShapeless(plank * 1, [log]);
+    
+	//Add in new reipces to get 2 planks per log via consuming axe durability.
+    recipes.addShapeless(plank * 2, [log, <minecraft:wooden_axe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <minecraft:stone_axe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <minecraft:golden_axe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <minecraft:iron_axe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <minecraft:diamond_axe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <Botania:manasteelAxe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <Botania:elementiumAxe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <Botania:terraAxe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <TwilightForest:item.knightlyAxe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <TwilightForest:item.ironwoodAxe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <TwilightForest:item.steeleafAxe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <TwilightForest:item.minotaurAxe>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <BiomesOPlenty:axeAmethyst>.anyDamage().transformDamage(10)]);
+    recipes.addShapeless(plank * 2, [log, <ExtraUtilities:defoliageAxe>.anyDamage().reuse()]);
+    
+	//Add new recipes to get 3 planks per log when using a treated slab that is not consumed and an axes durability.
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <minecraft:wooden_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <minecraft:stone_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <minecraft:golden_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <minecraft:iron_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <minecraft:diamond_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <Botania:manasteelAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <Botania:elementiumAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <Botania:terraAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <TwilightForest:item.knightlyAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <TwilightForest:item.ironwoodAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <TwilightForest:item.steeleafAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <TwilightForest:item.minotaurAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <BiomesOPlenty:axeAmethyst>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(plank * 3, [log, <ore:slabTreatedWood>.reuse(), <ExtraUtilities:defoliageAxe>.anyDamage().reuse()]);
+}
+//For stament that takes the plank array and allows it to be used in crafting recipes.
+for i, planks in myPlanks {
+
+    //Remove any stick recipes using Plank + Plank recipe.
+    recipes.removeShapeless((<ore:stickWood>), [planks, planks]);
+	
+    //Add back in stick recipes using Plank + Plank recipe but onyl give one stick.
+    recipes.addShapeless(<minecraft:stick> * 1, [planks, planks]);
+
+	//Add new stick crafting using axe durability for 2 stick.
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <minecraft:wooden_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <minecraft:stone_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <minecraft:golden_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <minecraft:iron_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <minecraft:diamond_axe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <Botania:manasteelAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <Botania:elementiumAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <Botania:terraAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <TwilightForest:item.knightlyAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <TwilightForest:item.ironwoodAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <TwilightForest:item.steeleafAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <TwilightForest:item.minotaurAxe>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <BiomesOPlenty:axeAmethyst>.anyDamage().transformDamage(5)]);
+    recipes.addShapeless(<minecraft:stick> * 2, [planks, <ExtraUtilities:defoliageAxe>.anyDamage().reuse()]);
+
+	//Add new stick crafting using treated wood slab that is not consumed and axe durablity.
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <minecraft:wooden_axe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <minecraft:stone_axe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <minecraft:golden_axe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <minecraft:iron_axe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <minecraft:diamond_axe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <Botania:manasteelAxe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <Botania:elementiumAxe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <Botania:terraAxe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <TwilightForest:item.knightlyAxe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <TwilightForest:item.ironwoodAxe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <TwilightForest:item.steeleafAxe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <TwilightForest:item.minotaurAxe>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <BiomesOPlenty:axeAmethyst>.anyDamage().transformDamage(3)]);
+    recipes.addShapeless(<minecraft:stick> * 3, [planks, <ore:slabTreatedWood>.reuse(), <ExtraUtilities:defoliageAxe>.anyDamage().reuse()]);
+}
+
+    //Add recipes for chest crafting that uses axe durability. Chest recipe was removed via MineTweakerRecipeMaker
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <minecraft:wooden_axe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <minecraft:stone_axe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <minecraft:golden_axe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <minecraft:iron_axe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <minecraft:diamond_axe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <Botania:manasteelAxe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <Botania:elementiumAxe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <Botania:terraAxe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <TwilightForest:item.knightlyAxe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <TwilightForest:item.ironwoodAxe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <TwilightForest:item.steeleafAxe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <TwilightForest:item.minotaurAxe>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <BiomesOPlenty:axeAmethyst>.anyDamage().transformDamage(80)]]);
+    recipes.addShaped(<minecraft:chest> * 2, [[<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ore:logWood>], [<ore:logWood>, <ore:logWood>, <ExtraUtilities:defoliageAxe>.anyDamage().reuse()]]);
